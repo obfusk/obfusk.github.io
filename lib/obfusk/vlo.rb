@@ -87,7 +87,7 @@ module Obfusk; module VLO
 
   def self.build_posts(c, x, ps, layout)
     ps.each do |p|
-      FileUtils.mkdir_p p.dir
+      FileUtils.mkdir_p "html/#{p.dir}"
       write_html p.file, render_post(c, x, p, layout)
     end
   end
