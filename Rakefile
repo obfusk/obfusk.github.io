@@ -68,8 +68,9 @@ task :master do
   sh 'rake clean && rake build'
   sh 'git checkout master'
   sh 'rake copy'
+  sh 'git add .'
   sh 'git status'
   puts 'press enter to continue ...'; $stdin.readline
-  sh 'git commit -am ...'
+  sh 'git commit -m ...'
   sh 'git checkout code'
 end
