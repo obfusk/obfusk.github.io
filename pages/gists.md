@@ -1,5 +1,5 @@
 ---
 title: Gists
-order: 3
+order: 2
 
 ...

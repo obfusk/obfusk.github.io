@@ -1,6 +1,5 @@
 - a = -> x { x.link == link ? 'active' : nil }
-- t = title.gsub('*TITLE*', config.title) \
--          .gsub('*TAGLINE*', config.tagline)
+- t = Obfusk::VLO.replace config, title
 
 !!!
 %html

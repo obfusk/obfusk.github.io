@@ -1,7 +1,19 @@
 ---
 title: Archive
-order: 1
+order: 3
+
+- year  = -> x { x.date.strftime '%Y' }
+- month = -> x { x.date.strftime '%m' }
 
 %h1&= special.title
 %hr
-%p ...
+
+%ul
+- extra.posts.group_by(&year).each do |y,ys|
+  - ys.group_by(&month).each do |m,ms|
+    %h2= y + '-' + m
+    - ms.each do |p|
+      %li
+        &= p.date.strftime '%F %T'
+        »
+        %a{ href: p.link }&= p.title

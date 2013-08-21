@@ -1,5 +1,5 @@
 ---
 title: Projects
-order: 2
+order: 1
 
 ...

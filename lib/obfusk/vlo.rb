@@ -5,7 +5,7 @@
 # Date        : 2013-08-20
 #
 # Copyright   : Copyright (C) 2013  Felix C. Stegerman
-# Licence     : GPLv2 or EPLv1
+# Licence     : GPLv2
 #
 # --                                                            ; }}}1
 
@@ -238,6 +238,10 @@ module Obfusk; module VLO
 
   def self.safe_title(s)
     s.gsub /[^A-Za-z0-9_-]/, '_'
+  end
+
+  def self.replace(c, s)
+    s.gsub('*TITLE*', c.title).gsub('*TAGLINE*', c.tagline)
   end
 
 end; end
