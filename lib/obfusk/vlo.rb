@@ -2,7 +2,7 @@
 #
 # File        : obfusk/vlo.rb
 # Maintainer  : Felix C. Stegerman <flx@obfusk.net>
-# Date        : 2013-08-20
+# Date        : 2013-08-21
 #
 # Copyright   : Copyright (C) 2013  Felix C. Stegerman
 # Licence     : GPLv2
@@ -64,7 +64,7 @@ module Obfusk; module VLO
   # --
 
   def self.build                                                # {{{1
-    c = Config.new(YAML.load_file('config.yml')).check!
+    c = Config.new(YAML.load(read_file('config.yml'))).check!
     x = Extra.new
     x.posts, x.cats, x.tags = load_posts
     x.pages                 = load_pages
@@ -109,7 +109,7 @@ module Obfusk; module VLO
   def self.load_posts                                           # {{{1
     cats = {}; tags = {}
     ps = Dir['posts/*.md'].sort.map do |f|
-      load_post(f, File.read(f))
+      load_post(f, read_file(f))
     end .sort_by { |p| p.date }
     ps.each do |p|
       (cats[p.cat] ||= []) << p
@@ -120,13 +120,13 @@ module Obfusk; module VLO
 
   def self.load_pages
     Dir['pages/*.md'].sort.map do |f|
-      load_page(f, File.read(f))
+      load_page(f, read_file(f))
     end .sort_by { |p| p.order }
   end
 
   def self.load_specials
     ss = Dir['specials/*.haml'].sort.map do |f|
-      load_special(f, File.read(f))
+      load_special(f, read_file(f))
     end .sort_by { |s| s.order }
   end
 
@@ -202,7 +202,7 @@ module Obfusk; module VLO
   # --
 
   def self.render_view(name, layout, locals = {})
-    render_haml_w_layout File.read("views/#{name}.haml"), layout,
+    render_haml_w_layout read_file("views/#{name}.haml"), layout,
       locals
   end
 
@@ -212,7 +212,7 @@ module Obfusk; module VLO
   end
 
   def self.get_layout(name)
-    get_haml File.read("views/#{name}.haml")
+    get_haml read_file("views/#{name}.haml")
   end
 
   # --
@@ -226,10 +226,14 @@ module Obfusk; module VLO
   end
 
   def self.get_haml(s)
-    Haml::Engine.new s
+    Haml::Engine.new s, escape_html: true
   end
 
   # --
+
+  def self.read_file(f)
+    File.read(f).force_encoding 'utf-8'
+  end
 
   def self.write_file(f, s)
     puts "--> #{f}"

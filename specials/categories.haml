@@ -6,12 +6,11 @@ order: 4
 
 %h1&= special.title
 %hr
-
-%ul
 - extra.cats.sort.each do |c,ps|
   %h2&= c
-  - ps.sort_by(&dat).reverse.each do |p|
-    %li
-      &= p.date.strftime '%F %T'
-      »
-      %a{ href: p.link }&= p.title
+  %ul
+    - ps.sort_by(&dat).reverse.each do |p|
+      %li
+        &= p.date.strftime '%F %T'
+        »
+        %a{ href: p.link }&= p.title

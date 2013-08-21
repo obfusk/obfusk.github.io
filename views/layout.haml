@@ -15,16 +15,15 @@
            href: '/css/vlo.css' }
   %body
     .navbar.navbar-default.navbar-fixed-top
-      .container.container-narrow
+      .container.w800
         .navbar-header
           %a.navbar-brand{ href: '/' }&= config.title
         %ul.nav.navbar-nav.navbar-right
           - extra.nav.each do |x|
             %li{ class: a[x] }
               %a{ href: x.link }&= x.title
-
-    .container.container-narrow
-      = yield
+    .container.w800
+      != yield
       %br
       %hr
       %footer

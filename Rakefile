@@ -49,7 +49,7 @@ task :build do
   Obfusk::VLO.build
 end
 
-desc 'build website'
+desc 'cleanup'
 task :clean do
   sh 'rm -fr _/ *.html'
 end

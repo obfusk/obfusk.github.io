@@ -3,12 +3,11 @@ title: Pages
 order: 6
 
 - tit = -> x { x.title }
-- t   = -> x { Obfusk::VLO.replace config, x }
+- r   = -> x { Obfusk::VLO.replace config, x }
 
 %h1&= special.title
 %hr
-
 %ul
-- (extra.pages + extra.specials).sort_by(&tit).each do |p|
-  %li
-    %a{ href: p.link }&= t[p.title]
+  - (extra.pages + extra.specials).sort_by(&tit).each do |p|
+    %li
+      %a{ href: p.link }&= r[p.title]

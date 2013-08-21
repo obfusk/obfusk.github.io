@@ -13,10 +13,15 @@
 
   obfusk.github.io - /var/log/obfusk - hacking ⇒ ¬sleeping
 
+  My "blog" + the ruby code to generate the static html from haml and
+  markdown (for github pages).
+
 []: }}}1
 
 ## License
 []: {{{1
+
+  NB: the license only applies to the code, not to the posts.
 
   GPLv2 [1].
 

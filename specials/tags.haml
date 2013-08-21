@@ -6,12 +6,11 @@ order: 5
 
 %h1&= special.title
 %hr
-
-%ul
 - extra.tags.sort.each do |t,ps|
   %h2&= t
-  - ps.sort_by(&dat).reverse.each do |p|
-    %li
-      &= p.date.strftime '%F %T'
-      »
-      %a{ href: p.link }&= p.title
+  %ul
+    - ps.sort_by(&dat).reverse.each do |p|
+      %li
+        &= p.date.strftime '%F %T'
+        »
+        %a{ href: p.link }&= p.title

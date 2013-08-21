@@ -1,3 +1,12 @@
 %h1 #{config.title} <small>#{config.tagline}</small>
 %hr
-~ html
+!~ html
+%br
+%hr
+%h2 Recent Posts
+%ul
+  - extra.posts.take(5).each do |p|
+    %li
+      &= p.date.strftime '%F %T'
+      »
+      %a{ href: p.link }&= p.title
