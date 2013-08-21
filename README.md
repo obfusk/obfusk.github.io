@@ -16,6 +16,8 @@
   My "blog" + the ruby code to generate the static html from haml and
   markdown (for github pages).
 
+  Requirements: gems in Gemfile + pygments.
+
 []: }}}1
 
 ## License
