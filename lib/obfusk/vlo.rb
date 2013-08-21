@@ -59,7 +59,7 @@ module Obfusk; module VLO
                         title cat tags })
   Page    = struct(*%w{ hdr md   name file link title nav order
                         view })
-  Special = struct(*%w{ hdr yaml name file link title nav order })
+  Special = struct(*%w{ hdr haml name file link title nav order })
 
   # --
 
@@ -84,22 +84,20 @@ module Obfusk; module VLO
 
   def self.build_posts(c, x, ps, layout)
     ps.each do |p|
-      FileUtils.mkdir_p "_/#{p.dir}"
-      write_file "_/#{p.file}", render_post(c, x, p, layout)
+      FileUtils.mkdir_p p.dir
+      write_file p.file, render_post(c, x, p, layout)
     end
   end
 
   def self.build_pages(c, x, ps, layout)
     ps.each do |p|
-      write_file "#{p.file}",
-        render_page(c, x, p, layout)
+      write_file p.file, render_page(c, x, p, layout)
     end
   end
 
   def self.build_specials(c, x, ss, layout)
     ss.each do |s|
-      write_file "#{s.file}",
-        render_special(c, x, s, layout)
+      write_file s.file, render_special(c, x, s, layout)
     end
   end
 
@@ -137,7 +135,7 @@ module Obfusk; module VLO
     name          = m[:rest]
     date          = DateTime.parse "#{m[:date]} #{m[:time]}"
     cat           = hdr['category']
-    dir           = [cat,m[:date]]*'/'
+    dir           = ['_',cat,m[:date]]*'/'
     file          = "#{[dir,name]*'/'}.html"
     link          = "/#{file}"
     Post.new(
@@ -195,7 +193,7 @@ module Obfusk; module VLO
 
   def self.render_special(c, x, s, layout)
     render_haml_w_layout s.haml, layout, config: c, extra: x,
-      title: s.title, link: p.link, special: s
+      title: s.title, link: s.link, special: s
   end
 
   # --

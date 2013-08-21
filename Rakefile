@@ -37,8 +37,8 @@ task :special do                                                # {{{1
   y     = { 'title' => title } .to_yaml
   p     = <<-END .gsub(/^ {4}/, '')
     %h1&= special.title
-
-    ...
+    %hr
+    %p ...
   END
   raise "existing file: #{f}" if File.exists? f
   Obfusk::VLO.write_file f, "#{y}\n#{p}"
