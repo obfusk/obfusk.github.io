@@ -1,8 +1,7 @@
 *~
 *.swp
 
-/*.html
-/_
+/html
 
 /pages/*TEST*
 /posts/*TEST*

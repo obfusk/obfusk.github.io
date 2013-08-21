@@ -74,7 +74,7 @@ module Obfusk; module VLO
                                 .sort_by { |x| x.order }
     x.check!
     layout                  = get_layout :layout
-    FileUtils.mkdir_p '_'
+    FileUtils.mkdir_p 'html'
     write_file 'css/pygments.css',
       Pygments.css('.highlight', style: 'autumn') \
         unless File.exists? 'css/pygments.css'
@@ -88,19 +88,19 @@ module Obfusk; module VLO
   def self.build_posts(c, x, ps, layout)
     ps.each do |p|
       FileUtils.mkdir_p p.dir
-      write_file p.file, render_post(c, x, p, layout)
+      write_html p.file, render_post(c, x, p, layout)
     end
   end
 
   def self.build_pages(c, x, ps, layout)
     ps.each do |p|
-      write_file p.file, render_page(c, x, p, layout)
+      write_html p.file, render_page(c, x, p, layout)
     end
   end
 
   def self.build_specials(c, x, ss, layout)
     ss.each do |s|
-      write_file s.file, render_special(c, x, s, layout)
+      write_html s.file, render_special(c, x, s, layout)
     end
   end
 
@@ -233,6 +233,10 @@ module Obfusk; module VLO
 
   def self.read_file(f)
     File.read(f).force_encoding 'utf-8'
+  end
+
+  def self.write_html(f, s)
+    write_file "html/#{f}", s
   end
 
   def self.write_file(f, s)

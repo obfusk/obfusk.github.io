@@ -47,17 +47,29 @@ end                                                             # }}}1
 desc 'build website'
 task :build do
   Obfusk::VLO.build
+  sh 'cp -r css html/'
 end
 
 desc 'cleanup'
 task :clean do
-  sh 'rm -fr _/ *.html'
+  sh 'rm -fr html/'
 end
 
 desc 'serve w/ sinatra'
 task sinatra: :build do
   require 'sinatra'
-  set :public_folder, File.expand_path('..', __FILE__)
+  set :public_folder, File.expand_path('../html', __FILE__)
   get('/') { redirect '/index.html' }
   Sinatra::Application.run!
+end
+
+desc 'Update master'
+task :master do
+  sh 'rake clean && rake build'
+  sh 'git checkout master'
+  sh 'rake copy'
+  sh 'git status'
+  puts 'press enter to continue ...'; $stdin.readline
+  sh 'git commit -am ...'
+  sh 'git checkout code'
 end
