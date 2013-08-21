@@ -75,6 +75,9 @@ module Obfusk; module VLO
     x.check!
     layout                  = get_layout :layout
     FileUtils.mkdir_p '_'
+    write_file 'css/pygments.css',
+      Pygments.css('.highlight', style: 'autumn') \
+        unless File.exists? 'css/pygments.css'
     build_posts     c, x, x.posts   , layout
     build_pages     c, x, x.pages   , layout
     build_specials  c, x, x.specials, layout
