@@ -1,0 +1,7 @@
+body {
+  padding-top: 60px;
+}
+
+.container-narrow {
+  max-width: 800px;
+}

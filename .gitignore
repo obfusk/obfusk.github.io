@@ -1,5 +1,5 @@
 *~
 *.swp
 
-/html
-/index.html
+/*.html
+/_

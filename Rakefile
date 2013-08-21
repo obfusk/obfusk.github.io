@@ -3,21 +3,6 @@ require 'haml'
 $:.unshift File.expand_path('../lib', __FILE__)
 require 'obfusk/vlo'
 
-desc 'new page'
-task :page do                                                   # {{{1
-  name  = ENV['NAME'].to_s  ; raise 'empty NAME' if name.empty?
-  title = ENV['TITLE'].to_s ; title = name if title.empty?
-  f     = "pages/#{name}.md"
-  y     = { 'title' => title, 'order' => -1 } .to_yaml
-  p     = <<-END .gsub(/^ {4}/, '')
-    # My new page
-
-    ...
-  END
-  raise "existing file: #{f}" if File.exists? f
-  Obfusk::VLO.write_file f, "#{y}\n#{p}"
-end                                                             # }}}1
-
 desc 'new post'
 task :post do                                                   # {{{1
   title = ENV['TITLE'].to_s ; raise 'empty TITLE' if title.empty?
@@ -28,8 +13,30 @@ task :post do                                                   # {{{1
   f     = "posts/#{date}-#{safe}.md"
   y     = { 'title' => title, 'category' => cat, 'tags' => tags } \
             .to_yaml
+  p     = "...\n"
+  raise "existing file: #{f}" if File.exists? f
+  Obfusk::VLO.write_file f, "#{y}\n#{p}"
+end                                                             # }}}1
+
+desc 'new page'
+task :page do                                                   # {{{1
+  name  = ENV['NAME'].to_s  ; raise 'empty NAME' if name.empty?
+  title = ENV['TITLE'].to_s ; title = name if title.empty?
+  f     = "pages/#{name}.md"
+  y     = { 'title' => title } .to_yaml
+  p     = "...\n"
+  raise "existing file: #{f}" if File.exists? f
+  Obfusk::VLO.write_file f, "#{y}\n#{p}"
+end                                                             # }}}1
+
+desc 'new special'
+task :special do                                                # {{{1
+  name  = ENV['NAME'].to_s  ; raise 'empty NAME' if name.empty?
+  title = ENV['TITLE'].to_s ; title = name if title.empty?
+  f     = "specials/#{name}.haml"
+  y     = { 'title' => title } .to_yaml
   p     = <<-END .gsub(/^ {4}/, '')
-    # My new post
+    %h1&= special.title
 
     ...
   END
@@ -44,7 +51,7 @@ end
 
 desc 'build website'
 task :clean do
-  sh 'rm -fr html/ index.html'
+  sh 'rm -fr _/ *.html'
 end
 
 desc 'serve w/ sinatra'
