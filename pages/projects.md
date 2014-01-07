@@ -2,6 +2,10 @@
 title: Projects
 order: 1
 
+TODO: update this page
+
+---
+
 ## [TODO] obfusk.coffee
 
   functional programming library for js/coffee
