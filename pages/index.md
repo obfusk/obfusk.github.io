@@ -6,7 +6,7 @@ view: index
 This is where I write about the things I'm working on and playing
 with: (functional) programming; bash, clojure, coffeescript, erlang,
 haskell, ruby, scala; css, html; debian, gentoo, ubuntu; gnu, linux;
-vim; free software; ...
+vim; free software; computer science, mathematics; ...
 
 Most of my code is on [GitHub](https://github.com/obfusk).
 
