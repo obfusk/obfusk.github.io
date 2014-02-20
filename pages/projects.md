@@ -96,13 +96,13 @@ order: 1
 
 ### eft
 
-  [TODO] ruby + whiptail
+  ruby + whiptail
 
   &rarr; https://github.com/obfusk/eft
 
 ### eftcmdr
 
-  [TODO] ...
+  yaml + ruby + whiptail
 
   &rarr; https://github.com/obfusk/eftcmdr
 
@@ -150,7 +150,7 @@ order: 1
 
 ### [rb-]obfusk-util
 
-  [TODO] miscellaneous utility library for ruby
+  miscellaneous utility library for ruby
 
   &rarr; https://github.com/obfusk/rb-obfusk-util
 
