@@ -38,21 +38,23 @@
     <div class='container w800'>
       <h1>sudo and umask 077 <small>2014-01-07 22:28:52</small></h1>
       <hr>
-      <p>I prefer to set my <code>umask</code> to <code>077</code> so no one can read my files.  For
-      the most part, using <code>sudo</code> (which inherits the <code>umask</code>) works just
-      fine.  Except when using e.g. <code>vim sudo</code> where it make sense to
-      respect the umask, I hadn&#39;t run into trouble.  Until now.</p>
-      
-      <p>It seems <code>sudo update-alternatives</code> results in
-      <code>/var/lib/dpkg/alternatives/*</code> no longer being readable by anyone but
-      root, which is not quite what I intended.  So I had to figure out how
-      to make <code>sudo</code> play nice with <code>umask</code> without setting a default
-      <code>umask</code> in the <code>sudoers</code> file.</p>
-      
-      <p>The solution I came up with: <code>umask 022</code> in <code>~root/.profile</code> and using
-      <code>sudo -i</code> when I don&#39;t want my user&#39;s <code>umask</code> to be used.</p>
-      
-      <p>- Felix</p>
+      <div class='content'>
+        <p>I prefer to set my <code>umask</code> to <code>077</code> so no one can read my files.  For
+        the most part, using <code>sudo</code> (which inherits the <code>umask</code>) works just
+        fine.  Except when using e.g. <code>vim sudo</code> where it make sense to
+        respect the umask, I hadn&#39;t run into trouble.  Until now.</p>
+        
+        <p>It seems <code>sudo update-alternatives</code> results in
+        <code>/var/lib/dpkg/alternatives/*</code> no longer being readable by anyone but
+        root, which is not quite what I intended.  So I had to figure out how
+        to make <code>sudo</code> play nice with <code>umask</code> without setting a default
+        <code>umask</code> in the <code>sudoers</code> file.</p>
+        
+        <p>The solution I came up with: <code>umask 022</code> in <code>~root/.profile</code> and using
+        <code>sudo -i</code> when I don&#39;t want my user&#39;s <code>umask</code> to be used.</p>
+        
+        <p>- Felix</p>
+      </div>
       <br>
       <hr>
       <footer>

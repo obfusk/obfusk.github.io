@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>eft + eftcmdr: dialog boxes w/ ruby, yaml and whiptail</title>
+    <meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+    <link href='/css/bootstrap.min.css' rel='stylesheet' type='text/css'>
+    <link href='/css/pygments.css' rel='stylesheet' type='text/css'>
+    <link href='/css/vlo.css' rel='stylesheet' type='text/css'>
+  </head>
+  <body>
+    <div class='navbar navbar-default navbar-fixed-top'>
+      <div class='container w800'>
+        <div class='navbar-header'>
+          <a class='navbar-brand' href='/'>/var/log/obfusk</a>
+        </div>
+        <ul class='nav navbar-nav navbar-right'>
+          <li>
+            <a href='/projects.html'>Projects</a>
+          </li>
+          <li>
+            <a href='/gists.html'>Gists</a>
+          </li>
+          <li>
+            <a href='/archive.html'>Archive</a>
+          </li>
+          <li>
+            <a href='/categories.html'>Categories</a>
+          </li>
+          <li>
+            <a href='/tags.html'>Tags</a>
+          </li>
+          <li>
+            <a href='/pages.html'>Pages</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div class='container w800'>
+      <h1>eft + eftcmdr: dialog boxes w/ ruby, yaml and whiptail <small>2014-02-24 08:52:20</small></h1>
+      <hr>
+      <div class='content'>
+        <style scoped> img[src*="eftcmdr"] { width: 150px; } </style>
+        
+        <p>I&#39;ve created two ruby gems that provide DSLs for
+        <a href="https://en.wikipedia.org/wiki/Newt_(programming_library)">whiptail</a>.</p>
+        
+        <h3><a href="https://github.com/obfusk/eft">eft</a></h3>
+        
+        <p>Provides a ruby DSL:</p>
+        <div class="highlight"><pre><span class="no">Eft</span><span class="o">.</span><span class="n">ask</span><span class="p">(</span><span class="s1">&#39;What is your name?&#39;</span><span class="p">)</span> <span class="k">do</span> <span class="o">|</span><span class="n">q</span><span class="o">|</span>&#x000A;  <span class="n">q</span><span class="o">.</span><span class="n">on_ok</span> <span class="p">{</span> <span class="o">|</span><span class="nb">name</span><span class="o">|</span> <span class="nb">puts</span> <span class="s2">&quot;Hello, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">!&quot;</span> <span class="p">}</span>&#x000A;<span class="k">end</span></pre></div>
+        <h3><a href="https://github.com/obfusk/eftcmdr">eftcmdr</a></h3>
+        
+        <p>Provides a yaml DSL:</p>
+        <div class="highlight"><pre><span class="l-Scalar-Plain">ask</span><span class="p-Indicator">:</span>    <span class="l-Scalar-Plain">ask_name</span>&#x000A;<span class="l-Scalar-Plain">text</span><span class="p-Indicator">:</span>   <span class="l-Scalar-Plain">What is your name?</span>&#x000A;<span class="l-Scalar-Plain">then</span><span class="p-Indicator">:</span>&#x000A;  <span class="l-Scalar-Plain">eval</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">eval_hello</span>&#x000A;  <span class="l-Scalar-Plain">code</span><span class="p-Indicator">:</span> <span class="p-Indicator">|</span>&#x000A;    <span class="no">puts &quot;Hello, #{ctx[:ask_name]}!&quot;</span></pre></div><div class="highlight"><pre><span class="nv">$ </span>eftcmdr examples/hello.yml</pre></div>
+        <p>And can, for example, be used to provide a menu over <code>ssh</code>.</p>
+        
+        <p><a href="/img/eftcmdr_1_hello.png"><img src="/img/eftcmdr_1_hello.png" alt="hello"></a>
+        <a href="/img/eftcmdr_2_apps.png"><img src="/img/eftcmdr_2_apps.png" alt="apps"></a>
+        <a href="/img/eftcmdr_3_commands.png"><img src="/img/eftcmdr_3_commands.png" alt="commands"></a>
+        <a href="/img/eftcmdr_4_output.png"><img src="/img/eftcmdr_4_output.png" alt="output"></a>
+        <a href="/img/eftcmdr_5_confirm.png"><img src="/img/eftcmdr_5_confirm.png" alt="confirm"></a></p>
+        
+        <p><br/> - Felix</p>
+        
+        <p>&rarr; <a href="https://github.com/obfusk/obfusk.github.io/issues/2">Comments</a></p>
+      </div>
+      <br>
+      <hr>
+      <footer>
+        <p>© 2014 Felix C. Stegerman</p>
+      </footer>
+    </div>
+  </body>
+</html>
