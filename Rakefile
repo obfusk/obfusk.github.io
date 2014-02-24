@@ -47,7 +47,7 @@ end                                                             # }}}1
 desc 'build website'
 task :build do
   Obfusk::VLO.build
-  sh 'cp -r css html/'
+  sh 'cp -r css img html/'
 end
 
 desc 'cleanup'
