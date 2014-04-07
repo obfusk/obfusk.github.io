@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>bigbang.coffee: graphical/evented functional programming for javascript (and coffeescript)</title>
+    <meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+    <link href='/css/bootstrap.min.css' rel='stylesheet' type='text/css'>
+    <link href='/css/pygments.css' rel='stylesheet' type='text/css'>
+    <link href='/css/vlo.css' rel='stylesheet' type='text/css'>
+  </head>
+  <body>
+    <div class='navbar navbar-default navbar-fixed-top'>
+      <div class='container w800'>
+        <div class='navbar-header'>
+          <a class='navbar-brand' href='/'>/var/log/obfusk</a>
+        </div>
+        <ul class='nav navbar-nav navbar-right'>
+          <li>
+            <a href='/projects.html'>Projects</a>
+          </li>
+          <li>
+            <a href='/gists.html'>Gists</a>
+          </li>
+          <li>
+            <a href='/archive.html'>Archive</a>
+          </li>
+          <li>
+            <a href='/categories.html'>Categories</a>
+          </li>
+          <li>
+            <a href='/tags.html'>Tags</a>
+          </li>
+          <li>
+            <a href='/pages.html'>Pages</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div class='container w800'>
+      <h1>bigbang.coffee: graphical/evented functional programming for javascript (and coffeescript) <small>2014-04-07 01:10:20</small></h1>
+      <hr>
+      <div class='content'>
+        <style scoped> img[src*="bigbang"] {
+          width: 100%; padding: 15px 100px;
+        } </style>
+        
+        <p><a href="https://github.com/obfusk/bigbang.coffee">bigbang.coffee</a> is a
+        coffeescript library that allows you to create graphical and evented
+        programs (like games) in coffeescript or javascript using plain
+        mathematical functions.  It was inspired by the 2htdp library for
+        racket.</p>
+        
+        <p><img src="/img/bigbang.svg" alt="bigbang"></p>
+        
+        <p>The <code>bigbang</code> function starts a new universe whose behaviour is
+        specified by the options and handler functions designated.</p>
+        
+        <ul>
+        <li>Purely functional event handlers like <code>on_tick</code> transform the world
+        from one state to the next.</li>
+        <li>The world is drawn on the appropriate canvas by the <code>to_draw</code>
+        function.</li>
+        <li>Clock ticks are optional and also provide &quot;clock mode&quot;, where
+        changes are queued and drawing happens every actual clock tick
+        (which is useful for games).</li>
+        </ul>
+        
+        <p>&rarr; <a href="http://obfusk.github.io/bigbang.coffee">annotated source</a></p>
+        
+        <hr>
+        
+        <h2>Examples</h2>
+        
+        <p>&rarr; <a href="https://github.com/obfusk/bigbang-examples">https://github.com/obfusk/bigbang-examples</a>
+          <br/>
+          &rarr; <a href="http://bigbang-examples.herokuapp.com">http://bigbang-examples.herokuapp.com</a></p>
+        
+        <h4>bigbang-snake</h4>
+        
+        <p>snake game w/ bigbang.coffee</p>
+        
+        <p>&rarr; <a href="https://github.com/obfusk/bigbang-snake">https://github.com/obfusk/bigbang-snake</a>
+          <br/>
+          &rarr; <a href="http://bigbang-snake.herokuapp.com">http://bigbang-snake.herokuapp.com</a></p>
+        
+        <hr>
+        
+        <p>- Felix</p>
+        
+        <p>&rarr; <a href="https://github.com/obfusk/obfusk.github.io/issues/3">Comments</a></p>
+      </div>
+      <br>
+      <hr>
+      <footer>
+        <p>© 2014 Felix C. Stegerman</p>
+      </footer>
+    </div>
+  </body>
+</html>
