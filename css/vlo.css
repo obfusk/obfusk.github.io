@@ -2,6 +2,10 @@ body {
   padding-top: 60px;
 }
 
+blockquote p {
+  font-size: 14px;
+}
+
 .w800 {
   max-width: 800px;
 }
