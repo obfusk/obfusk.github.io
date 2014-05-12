@@ -14,7 +14,7 @@ Most of my code is on [GitHub](https://github.com/obfusk).
 &rarr; [Projects](/projects.html),
 &rarr; [Gists](/gists.html)
 
-I also have a blog focused on free software at
+I also have a blog focused on Software Freedom at
 [blogs.fsfe.org/flx](https://blogs.fsfe.org/flx).
 
 <br/>
