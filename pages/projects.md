@@ -6,6 +6,7 @@ order: 1
 * [Development & Tools](#dev)
 * [Libraries & Ruby Gems](#libs)
 * [Functional Programming](#fp)
+* [Games](#games)
 * [Server Administration](#srv)
 * [Miscellaneous](#misc)
 * [Nap](#nap)
@@ -13,10 +14,11 @@ order: 1
 * [Unfinished](#unf)
 * [Old](#old)
 
-<a name="free"></a><br/>
+<a id="free"></a><br/>
 
 ---
 
+<br/>
 ## Free Software & Privacy
 
 ### keep-it-private
@@ -27,10 +29,11 @@ order: 1
   <br/>
   &rarr; http://obfusk.github.io/keep-it-private
 
-<a name="dev"></a><br/>
+<a id="dev"></a><br/>
 
 ---
 
+<br/>
 ## Development & Tools
 
 ### dev-misc
@@ -76,10 +79,11 @@ order: 1
 
   &rarr; https://github.com/obfusk/venv
 
-<a name="libs"></a><br/>
+<a id="libs"></a><br/>
 
 ---
 
+<br/>
 ## Libraries & Ruby Gems
 
 ### active-dump
@@ -154,10 +158,11 @@ order: 1
 
   &rarr; https://github.com/obfusk/rb-obfusk-util
 
-<a name="fp"></a><br/>
+<a id="fp"></a><br/>
 
 ---
 
+<br/>
 ## Functional Programming
 
 ### bigbang.coffee
@@ -174,21 +179,7 @@ order: 1
 
   &rarr; https://github.com/obfusk/bigbang-examples
   <br/>
-  &rarr; http://bigbang-examples.herokuapp.com
-
-### bigbang-snake
-
-  snake game w/ bigbang.coffee
-
-  &rarr; https://github.com/obfusk/bigbang-snake
-  <br/>
-  &rarr; http://bigbang-snake.herokuapp.com
-
-#### snake.coffee
-
-  snake game library w/ bigbang.coffee
-
-  &rarr; https://github.com/obfusk/snake.coffee
+  &rarr; https://bigbang-examples.herokuapp.com
 
 ### obfusk.coffee
 
@@ -198,10 +189,46 @@ order: 1
   <br/>
   &rarr; http://obfusk.github.io/obfusk.coffee
 
-<a name="srv"></a><br/>
+### obfusk.rb
+
+  functional programming library for ruby
+
+  &rarr; https://github.com/obfusk/obfusk.rb
+
+<a id="games"></a><br/>
 
 ---
 
+<br/>
+## Games
+
+### bigbang-snake
+
+  snake game w/ bigbang.coffee
+
+  &rarr; https://github.com/obfusk/bigbang-snake
+  <br/>
+  &rarr; https://bigbang-snake.herokuapp.com
+
+#### snake.coffee
+
+  snake game library w/ bigbang.coffee
+
+  &rarr; https://github.com/obfusk/snake.coffee
+
+### sokobang
+
+  sokoban puzzle w/ bigbang.coffee
+
+  &rarr; https://github.com/obfusk/sokobang
+  <br/>
+  &rarr; https://sokobang.herokuapp.com
+
+<a id="srv"></a><br/>
+
+---
+
+<br/>
 ## Server Administration
 
 ### autossh-init
@@ -240,10 +267,11 @@ order: 1
 
   &rarr; https://github.com/obfusk/stat
 
-<a name="misc"></a><br/>
+<a id="misc"></a><br/>
 
 ---
 
+<br/>
 ## Miscellaneous
 
 ### achatwithsinatra
@@ -254,7 +282,7 @@ order: 1
   <br/>
   &rarr; http://obfusk.github.io/achatwithsinatra
   <br/>
-  &rarr; http://achatwithsinatra.herokuapp.com
+  &rarr; https://achatwithsinatra.herokuapp.com
 
 ### gpg
 
@@ -306,10 +334,11 @@ order: 1
 
   &rarr; https://github.com/obfusk/xuggle-frames-to-video
 
-<a name="nap"></a><br/>
+<a id="nap"></a><br/>
 
 ---
 
+<br/>
 ## Nap
 
 ### nap
@@ -349,10 +378,11 @@ order: 1
 
   &rarr; https://github.com/obfusk/nap-puppet
 
-<a name="napp"></a><br/>
+<a id="napp"></a><br/>
 
 ---
 
+<br/>
 ## Napp (nap v2)
 
 ### napp
@@ -426,10 +456,11 @@ order: 1
 
   &rarr; https://github.com/obfusk/napp-server
 
-<a name="unf"></a><br/>
+<a id="unf"></a><br/>
 
 ---
 
+<br/>
 ## Unfinished
 
 ### fnjs
@@ -446,7 +477,7 @@ order: 1
 
   &rarr; https://github.com/obfusk/fnjs-app
   <br/>
-  &rarr; http://fnjs.herokuapp.com
+  &rarr; https://fnjs.herokuapp.com
 
 ### pp-meta
 
@@ -466,10 +497,11 @@ order: 1
 
   &rarr; https://github.com/obfusk/pp-misc
 
-<a name="old"></a><br/>
+<a id="old"></a><br/>
 
 ---
 
+<br/>
 ## Old
 
 ### flx-docs
