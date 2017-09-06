@@ -1,16 +1,16 @@
 {% extends '_base.html' %}
 {% block content %}
-  <h1>
+  <h2>
     <span class="nowrap">{{ title }}</span>
     <span class="nowrap smaller">{{ tagline }}</span>
-  </h1>
-  <hr/>
-  <h2>
-    <span class="nowrap">{{ name }}</span>
-    <span class="jap nowrap smaller">
-      「<ruby><rb>幸猫</rb><rt>フェリックス</rt></ruby>」
-    </span>
   </h2>
+  <hr/>
+  <h3>
+    <span class="nowrap">{{ name }}</span>
+    <small class="jap nowrap">
+      「<ruby><rb>幸猫</rb><rt>フェリックス</rt></ruby>」
+    </small>
+  </h3>
   <p>
     Deputy Coordinator Netherlands,
     <a href="https://fsfe.org">Free Software Foundation Europe</a>;
@@ -43,7 +43,9 @@
     <span class="nowrap">
       <a href="https://gnupg.org">GnuPG</a> fingerprint:
     </span>
-    <code class="nowrap">D5E4 A51D F8D2 55B9 FAC6</code>
-    <code class="nowrap">A9BB 2F96 07F0 9B36 0F2D</code>
+    <span class="nowrap">
+      <code class="nowrap">D5E4 A51D F8D2 55B9 FAC6</code>
+      <code class="nowrap">A9BB 2F96 07F0 9B36 0F2D</code>
+    </span>
   </p>
 {% endblock %}
