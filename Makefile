@@ -16,4 +16,5 @@ serve: build
 	cd __html__ && python3 -m http.server 8888
 
 master: clean build
+	# NB: only adds new/updated files, not removed ones
 	./build.sh
