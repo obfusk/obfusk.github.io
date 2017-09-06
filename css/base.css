@@ -8,7 +8,8 @@ body {
 }
 
 .jap {
-  font-family: ipamincho;
+  font-family:  ipaexgothic, ipagothic, ipaexmincho, ipamincho,
+                sans-serif;
 }
 
 .nowrap {
