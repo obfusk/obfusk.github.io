@@ -1,0 +1,49 @@
+{% extends '_base.html' %}
+{% block content %}
+  <h1>
+    <span class="nowrap">{{ title }}</span>
+    <span class="nowrap smaller">{{ tagline }}</span>
+  </h1>
+  <hr/>
+  <h2>
+    <span class="nowrap">{{ name }}</span>
+    <span class="jap nowrap smaller">
+      「<ruby><rb>幸猫</rb><rt>フェリックス</rt></ruby>」
+    </span>
+  </h2>
+  <p>
+    Deputy Coordinator Netherlands,
+    <a href="https://fsfe.org">Free Software Foundation Europe</a>;
+    <a href="https://privacycafe.bof.nl">Privacy Café</a> volunteer;
+    developer/hacker.
+    <br/>
+    Student Computer Science & Cybersecurity @ Radboud University.
+    <br/>
+    Working for Software Freedom, privacy and a free digital society.
+    <br/>
+    Interested in (functional) programming, (Debian) GNU/Linux,
+    mathematics, Japanese (<span class="jap">日本語</span>).
+  </p>
+  <hr/>
+  <p>
+    <span class="nowrap">
+      &rarr; <a href="https://github.com/obfusk">GitHub</a>,
+    </span>
+    <span class="nowrap">
+      &rarr; <a href="https://twitter.com/obfusk">Twitter</a>,
+    </span>
+    <span class="nowrap">
+      &rarr; <a href="https://blogs.fsfe.org/flx">FSFE Blog</a>,
+    </span>
+    <span class="nowrap">
+      &rarr; <a href="mailto:flx@obfusk.net">Email</a>
+    </span>
+  </p>
+  <p>
+    <span class="nowrap">
+      <a href="https://gnupg.org">GnuPG</a> fingerprint:
+    </span>
+    <code class="nowrap">D5E4 A51D F8D2 55B9 FAC6</code>
+    <code class="nowrap">A9BB 2F96 07F0 9B36 0F2D</code>
+  </p>
+{% endblock %}
