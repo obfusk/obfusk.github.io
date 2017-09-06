@@ -1,9 +1,12 @@
 {% extends '_base.html' %}
 {% block content %}
-  <h2>
-    <span class="nowrap">{{ title }}</span>
-    <span class="nowrap smaller">{{ tagline }}</span>
-  </h2>
+  <div class="media">
+    <img class="d-flex mr-3" src="/img/obfusk.svg" alt="logo"
+         id="logo" />
+    <div class="media-body">
+      <h2>{{ title }}</h2><h5>&nbsp; {{ tagline }}</h5>
+    </div>
+  </div>
   <hr/>
   <h3>
     <span class="nowrap">{{ name }}</span>
