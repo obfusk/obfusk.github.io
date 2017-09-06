@@ -1,0 +1,20 @@
+html, body {
+  font-family: sans-serif;
+}
+
+body {
+  padding-top: 3.5rem;
+  margin: 1em;
+}
+
+.jap {
+  font-family: ipamincho;
+}
+
+.nowrap {
+  display: inline-block;
+}
+
+.smaller {
+  font-size: 70%;
+}
