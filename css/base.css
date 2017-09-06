@@ -1,5 +1,5 @@
 html, body {
-  font-family: sans-serif;
+  font-family: "DejaVu Sans", sans-serif;
 }
 
 body {
@@ -7,8 +7,28 @@ body {
   margin: 1em;
 }
 
+#logo {
+  width:  64px;
+  height: 64px;
+}
+
+ul.raquo {
+  list-style: none;
+  padding:    0;
+}
+
+ul.raquo li {
+  padding-left: 0.5em;
+}
+
+ul.raquo li:before {
+  content:        "»";
+  padding-right:  0.2em;
+}
+
 .jap {
-  font-family: ipamincho;
+  font-family:  ipaexgothic, ipagothic, ipaexmincho, ipamincho,
+                sans-serif;
 }
 
 .nowrap {
