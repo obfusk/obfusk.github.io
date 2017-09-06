@@ -3,12 +3,25 @@
 set -e
 
 git checkout master
-cp -av __html__/* ./
+
+rsync_cmd=(
+  rsync -av --delete __html__/ ./
+    --exclude=.git --exclude='*~' --exclude=/__html__ --exclude=/old
+    --exclude=/.gitignore --exclude=/.nojekyll --exclude=/CNAME
+)
+
+"${rsync_cmd[@]}" --dry-run
+read -r -p 'continue [y/N]? '
+[[ "$REPLY" = [Yy]* ]] || exit 1
+"${rsync_cmd[@]}"
+
 git add -A
 git status
 
-read -r -p 'continue [y/N]? '
-[[ "$REPLY" = [Yy]* ]] || exit 1
+if [ -n "$( git status -s )" ]; then
+  read -r -p 'continue [y/N]? '
+  [[ "$REPLY" = [Yy]* ]] || exit 1
+  git commit -m ...
+fi
 
-git commit -m ...
 git checkout code
