@@ -10,6 +10,7 @@ build:
 	cp -av css img js __html__/
 
 clean:
+	find -name '*~' -delete -print
 	rm -fr __html__/
 
 serve: build
