@@ -20,12 +20,12 @@
       </button>
       <div class="collapse navbar-collapse" id="nav">
         <ul class="navbar-nav mr-auto">
-          {% for nav in navs -%}
-            {% set active = page == nav.page -%}
+          {%- for nav in navs %}
+            {%- set active = page == nav.page %}
             <li class="nav-item {% if active %}active{% endif %}">
               <a class="nav-link" href="{{ nav.link }}">{{ nav.text }}</a>
             </li>
-          {% endfor -%}
+          {%- endfor %}
         </ul>
       </div>
     </nav>
