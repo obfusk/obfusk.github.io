@@ -23,3 +23,4 @@ for t in templates:
   template = env.get_template(t + '.html')
   with open('__html__/{}.html'.format(t), 'w') as f:
     template.stream(page = t, **data).dump(f)
+    f.write("\n")   # ensure EOL; TODO: why? always?
