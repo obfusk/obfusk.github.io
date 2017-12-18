@@ -18,12 +18,12 @@ ul.raquo {
 }
 
 ul.raquo li {
-  padding-left: 0.5em;
+  padding-left: .5em;
 }
 
 ul.raquo li:before {
   content:        "»";
-  padding-right:  0.2em;
+  padding-right:  .2em;
 }
 
 .jap {
@@ -37,4 +37,30 @@ ul.raquo li:before {
 
 .smaller {
   font-size: 70%;
+}
+
+h1 a, h2 a {
+  color: inherit;
+}
+
+.anchor {
+  padding-top:  5rem;
+  margin-top:  -5rem;
+}
+
+.codehilite {
+  background-color: inherit;
+  padding:          1rem;
+}
+
+.codehilite pre {
+  background-color: #ffffff;
+  border:           1px solid rgba(0, 0, 0, .125);
+  border-radius:    .25rem;
+  padding:          1.25rem;
+}
+
+.blog_sep {
+  margin-top:     1rem;
+  margin-bottom:  2rem;
 }

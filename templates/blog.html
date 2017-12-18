@@ -1,0 +1,32 @@
+{% extends "_base.html" %}
+{% block content %}
+{% filter markdown %}
+
+{{ blog_header("2017-12-18", "Repositories & Gists") }}
+
+... TODO ...
+
+\- Felix
+
+{{ blog_sep }}
+
+{{ blog_header("2017-12-18", 'A new "blog"') }}
+
+```python3
+print("Hello, Blog!")
+```
+
+I reworked this site and rewrote the static HTML generator in Python a
+while back, but I finally got around to re-adding a blog part.
+
+I'm keeping it really simple for now: just a single page.  Most of my
+entries will be pretty short probably, and if I want a longer piece I
+can just add a page and link to it from here.  That's the flexibility
+you get when you write everything yourself.
+
+For now, I got to play around with jinja2, markdown and pygments :)
+
+\- Felix
+
+{% endfilter %}
+{% endblock %}
