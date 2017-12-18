@@ -146,8 +146,12 @@ def repositories(repos):
               and (c == "nap" or "nap" not in tags[k]) ]
     yield OrderedDict([("title", title), ("elems", elems)])
 
+GH_PRE = "https://github.com/obfusk/"
+
 if __name__ == "__main__":
   with open("data/gh-repos.json") as f:
-    repos = list(repositories(json.load(f)))
+    gh_repos = json.load(f)
+  assert all( r["link"] == GH_PRE + r["name"] for r in gh_repos )
+  repos = list(repositories(gh_repos))
   with open("data/repos.json", "w") as f:
     json.dump(repos, f, indent = 2); f.write("\n")
