@@ -5,7 +5,10 @@
     <meta name="viewport"
           content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <link rel="icon" href="/img/obfusk.ico" />
-    <title>{{ title }} - {{ tagline }}</title>
+    <title>
+      {{ title }} - {{ tagline }}
+      {%- if page != "index" %} - {{ ptitles.get(page, page) }}{% endif %}
+    </title>
     <link href="/css/bootstrap.min.css" rel="stylesheet" />
     <link href="/css/pygments.css" rel="stylesheet" />
     <link href="/css/base.css" rel="stylesheet" />

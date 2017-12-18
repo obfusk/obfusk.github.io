@@ -1,0 +1,682 @@
+[
+  {
+    "name": "2des-attack",
+    "desc": null,
+    "link": "https://github.com/obfusk/2des-attack"
+  },
+  {
+    "name": "__obfusk-cljs",
+    "desc": null,
+    "link": "https://github.com/obfusk/__obfusk-cljs"
+  },
+  {
+    "name": "__test-cljs-2",
+    "desc": null,
+    "link": "https://github.com/obfusk/__test-cljs-2"
+  },
+  {
+    "name": "achatwithsinatra",
+    "desc": "achatwithsinatra - a simple sinatra chat app",
+    "link": "https://github.com/obfusk/achatwithsinatra"
+  },
+  {
+    "name": "active-dump",
+    "desc": "active-dump - dump and restore activerecord from/to yaml",
+    "link": "https://github.com/obfusk/active-dump"
+  },
+  {
+    "name": "algorithms.cpp",
+    "desc": "algorithms.cpp - implementations of standard algorithms in C++",
+    "link": "https://github.com/obfusk/algorithms.cpp"
+  },
+  {
+    "name": "algorithms.py",
+    "desc": "algorithms.py - python (2+3) implementations of standard algorithms",
+    "link": "https://github.com/obfusk/algorithms.py"
+  },
+  {
+    "name": "ansible",
+    "desc": "[FORK] ansible",
+    "link": "https://github.com/obfusk/ansible"
+  },
+  {
+    "name": "aruba-obfusk",
+    "desc": "aruba-obfusk - aruba extensions",
+    "link": "https://github.com/obfusk/aruba-obfusk"
+  },
+  {
+    "name": "autossh-init",
+    "desc": "autossh-init - AutoSSH init script",
+    "link": "https://github.com/obfusk/autossh-init"
+  },
+  {
+    "name": "awesome-config",
+    "desc": "my awesome config",
+    "link": "https://github.com/obfusk/awesome-config"
+  },
+  {
+    "name": "baktogit",
+    "desc": "baktogit - backup w/ git",
+    "link": "https://github.com/obfusk/baktogit"
+  },
+  {
+    "name": "bash-cheatsheet",
+    "desc": "bash cheat sheet",
+    "link": "https://github.com/obfusk/bash-cheatsheet"
+  },
+  {
+    "name": "bash-presentation",
+    "desc": "bash presentation",
+    "link": "https://github.com/obfusk/bash-presentation"
+  },
+  {
+    "name": "belasting-vm",
+    "desc": "[DO NOT USE] belasting-vm - scripts for aangifte inkomstenbelasting VM",
+    "link": "https://github.com/obfusk/belasting-vm"
+  },
+  {
+    "name": "bigbang-examples",
+    "desc": "bigbang-examples - bigbang.coffee examples",
+    "link": "https://github.com/obfusk/bigbang-examples"
+  },
+  {
+    "name": "bigbang-snake",
+    "desc": "bigbang-snake - snake game w/ bigbang.coffee",
+    "link": "https://github.com/obfusk/bigbang-snake"
+  },
+  {
+    "name": "bigbang.coffee",
+    "desc": "bigbang.coffee - graphical/evented functional programming for js/coffee",
+    "link": "https://github.com/obfusk/bigbang.coffee"
+  },
+  {
+    "name": "bthesis",
+    "desc": null,
+    "link": "https://github.com/obfusk/bthesis"
+  },
+  {
+    "name": "buffer-overflows-101",
+    "desc": "buffer overflows presentation",
+    "link": "https://github.com/obfusk/buffer-overflows-101"
+  },
+  {
+    "name": "bundler",
+    "desc": "[FORK] Manage your application's gem dependencies with less pain",
+    "link": "https://github.com/obfusk/bundler"
+  },
+  {
+    "name": "bundler-fu",
+    "desc": "bundler-fu - tools for bundler",
+    "link": "https://github.com/obfusk/bundler-fu"
+  },
+  {
+    "name": "clj-obfusk-data",
+    "desc": "[clj-]obfusk-data - data validation combinator library for clojure",
+    "link": "https://github.com/obfusk/clj-obfusk-data"
+  },
+  {
+    "name": "clj.rkt",
+    "desc": "clj.rkt - TODO",
+    "link": "https://github.com/obfusk/clj.rkt"
+  },
+  {
+    "name": "comfortable-mexican-sofa",
+    "desc": "[FORK] ComfortableMexicanSofa is a powerful CMS Engine for Ruby on Rails applications",
+    "link": "https://github.com/obfusk/comfortable-mexican-sofa"
+  },
+  {
+    "name": "cpbak",
+    "desc": "cpbak - copy server backup (to e.g. a nas) using rsync + ssh (cron job)",
+    "link": "https://github.com/obfusk/cpbak"
+  },
+  {
+    "name": "cryptanalysis",
+    "desc": null,
+    "link": "https://github.com/obfusk/cryptanalysis"
+  },
+  {
+    "name": "cryptanalysis.py",
+    "desc": "cryptanalysis.py - simple python (2+3) cryptanalysis tools",
+    "link": "https://github.com/obfusk/cryptanalysis.py"
+  },
+  {
+    "name": "cryptoparty-privacycafe-menu",
+    "desc": "cryptoparty/privacycafe menu",
+    "link": "https://github.com/obfusk/cryptoparty-privacycafe-menu"
+  },
+  {
+    "name": "cryptoparty-privacycafe-slides",
+    "desc": "cryptoparty/privacycafe slides (w/ notes)",
+    "link": "https://github.com/obfusk/cryptoparty-privacycafe-slides"
+  },
+  {
+    "name": "dev-misc",
+    "desc": "scripts + *rc",
+    "link": "https://github.com/obfusk/dev-misc"
+  },
+  {
+    "name": "dev-vm-ruby",
+    "desc": "dev-vm-ruby - ruby development VM (scripts)",
+    "link": "https://github.com/obfusk/dev-vm-ruby"
+  },
+  {
+    "name": "dlthing",
+    "desc": "dlthing.py - youtube-dl in your browser",
+    "link": "https://github.com/obfusk/dlthing"
+  },
+  {
+    "name": "dns.py",
+    "desc": "dns.py - python (2+3) DNS server + client",
+    "link": "https://github.com/obfusk/dns.py"
+  },
+  {
+    "name": "dotfiles",
+    "desc": "some of my dotfiles",
+    "link": "https://github.com/obfusk/dotfiles"
+  },
+  {
+    "name": "ds-lunch-talk-foss",
+    "desc": "Radboud University Digital Security Colloquium Lunch Talk: Free and Open-Source Software (FOSS) (Licensing): A Crash Course for Computer Scientists",
+    "link": "https://github.com/obfusk/ds-lunch-talk-foss"
+  },
+  {
+    "name": "eft",
+    "desc": "eft - ruby + whiptail",
+    "link": "https://github.com/obfusk/eft"
+  },
+  {
+    "name": "eft.sh",
+    "desc": "eft.sh - bash + whiptail",
+    "link": "https://github.com/obfusk/eft.sh"
+  },
+  {
+    "name": "eftcmdr",
+    "desc": "eftcmdr - yaml + ruby + whiptail",
+    "link": "https://github.com/obfusk/eftcmdr"
+  },
+  {
+    "name": "eftcmdr-nap",
+    "desc": "eftcmdr-nap - eftcmdr + nap",
+    "link": "https://github.com/obfusk/eftcmdr-nap"
+  },
+  {
+    "name": "flx-docs",
+    "desc": "[OLD] miscellaneous docs: unix/git/...",
+    "link": "https://github.com/obfusk/flx-docs"
+  },
+  {
+    "name": "fnjs",
+    "desc": "[TODO, ONHOLD] fnjs - functional javascript",
+    "link": "https://github.com/obfusk/fnjs"
+  },
+  {
+    "name": "fnjs-app",
+    "desc": "[TODO, ONHOLD] fnjs-app - a web-app frontend for fnjs",
+    "link": "https://github.com/obfusk/fnjs-app"
+  },
+  {
+    "name": "fnxnl",
+    "desc": "[TODO] fnxnl - ...",
+    "link": "https://github.com/obfusk/fnxnl"
+  },
+  {
+    "name": "fsfe-blog",
+    "desc": "fsfe-blog - data from my fsfe blog",
+    "link": "https://github.com/obfusk/fsfe-blog"
+  },
+  {
+    "name": "fsfe-business-card",
+    "desc": "fsfe-business-card - my fsfe business card",
+    "link": "https://github.com/obfusk/fsfe-business-card"
+  },
+  {
+    "name": "gastcollege_avans_20150313",
+    "desc": null,
+    "link": "https://github.com/obfusk/gastcollege_avans_20150313"
+  },
+  {
+    "name": "git-boot",
+    "desc": "[OLD] git-boot - git meta-projects",
+    "link": "https://github.com/obfusk/git-boot"
+  },
+  {
+    "name": "gitbak",
+    "desc": "gitbak - bitbucket/github/gist backup",
+    "link": "https://github.com/obfusk/gitbak"
+  },
+  {
+    "name": "gpg",
+    "desc": "gpg key + fingerprint + HOWTO",
+    "link": "https://github.com/obfusk/gpg"
+  },
+  {
+    "name": "homebrew",
+    "desc": "[FORK] The missing package manager for OS X.",
+    "link": "https://github.com/obfusk/homebrew"
+  },
+  {
+    "name": "homebrew-devtap",
+    "desc": "[OLD] obfusk's homebrew tap [dev]",
+    "link": "https://github.com/obfusk/homebrew-devtap"
+  },
+  {
+    "name": "homebrew-tap",
+    "desc": "[OLD] obfusk's homebrew tap",
+    "link": "https://github.com/obfusk/homebrew-tap"
+  },
+  {
+    "name": "hs-flx",
+    "desc": "[TODO] hs-flx - miscellaneous haskell modules",
+    "link": "https://github.com/obfusk/hs-flx"
+  },
+  {
+    "name": "httpony",
+    "desc": "HTTPony - HTTP server/client/dsl",
+    "link": "https://github.com/obfusk/httpony"
+  },
+  {
+    "name": "i3",
+    "desc": "[FORK] A better tiling and dynamic window manager",
+    "link": "https://github.com/obfusk/i3"
+  },
+  {
+    "name": "i3-config",
+    "desc": "my i3 config",
+    "link": "https://github.com/obfusk/i3-config"
+  },
+  {
+    "name": "ib2013vm",
+    "desc": "ib2013vm - VM for aangifte inkomstenbelasting 2013",
+    "link": "https://github.com/obfusk/ib2013vm"
+  },
+  {
+    "name": "iot-tdose",
+    "desc": "my IoT presentation for T-DOSE",
+    "link": "https://github.com/obfusk/iot-tdose"
+  },
+  {
+    "name": "keep-it-private",
+    "desc": "[TODO] keep-it-private - privacy/crypto presentations",
+    "link": "https://github.com/obfusk/keep-it-private"
+  },
+  {
+    "name": "koneko",
+    "desc": "koneko - ...",
+    "link": "https://github.com/obfusk/koneko"
+  },
+  {
+    "name": "localconfig-rails-example",
+    "desc": "localconfig example w/ rails",
+    "link": "https://github.com/obfusk/localconfig-rails-example"
+  },
+  {
+    "name": "m",
+    "desc": "m - minimalistic media manager",
+    "link": "https://github.com/obfusk/m"
+  },
+  {
+    "name": "mail-config",
+    "desc": "my mutt + isync config",
+    "link": "https://github.com/obfusk/mail-config"
+  },
+  {
+    "name": "mailer",
+    "desc": "mailer - send(e)mail script",
+    "link": "https://github.com/obfusk/mailer"
+  },
+  {
+    "name": "manifest-dl",
+    "desc": "manifest-dl - download extra files for your ruby app",
+    "link": "https://github.com/obfusk/manifest-dl"
+  },
+  {
+    "name": "map.sh",
+    "desc": "map.sh - map/filter for bash",
+    "link": "https://github.com/obfusk/map.sh"
+  },
+  {
+    "name": "mdview",
+    "desc": "mdview - markdown preview",
+    "link": "https://github.com/obfusk/mdview"
+  },
+  {
+    "name": "mgit",
+    "desc": "mgit - multi-dir git wrapper",
+    "link": "https://github.com/obfusk/mgit"
+  },
+  {
+    "name": "misc",
+    "desc": "miscellaneous stuff",
+    "link": "https://github.com/obfusk/misc"
+  },
+  {
+    "name": "nametag",
+    "desc": "nametag - set audio file tags based on file name",
+    "link": "https://github.com/obfusk/nametag"
+  },
+  {
+    "name": "nap",
+    "desc": "nap - nightmare(less) application platform",
+    "link": "https://github.com/obfusk/nap"
+  },
+  {
+    "name": "nap-app",
+    "desc": "nap-app - web-based \"naps\" command",
+    "link": "https://github.com/obfusk/nap-app"
+  },
+  {
+    "name": "nap-hello",
+    "desc": "nap-hello - nap test app: hello world w/ sinatra",
+    "link": "https://github.com/obfusk/nap-hello"
+  },
+  {
+    "name": "nap-misc",
+    "desc": "nap-misc - screenshots etc. for nap",
+    "link": "https://github.com/obfusk/nap-misc"
+  },
+  {
+    "name": "nap-puppet",
+    "desc": "[TODO, ONHOLD] nap-puppet - puppet configuration for nap server",
+    "link": "https://github.com/obfusk/nap-puppet"
+  },
+  {
+    "name": "napp",
+    "desc": "[TODO] napp - nightmare(less) application platform",
+    "link": "https://github.com/obfusk/napp"
+  },
+  {
+    "name": "napp-hello-compojure",
+    "desc": "napp-hello-compojure - hello world w/ compojure",
+    "link": "https://github.com/obfusk/napp-hello-compojure"
+  },
+  {
+    "name": "napp-hello-express",
+    "desc": "napp-hello-express - hello world w/ express",
+    "link": "https://github.com/obfusk/napp-hello-express"
+  },
+  {
+    "name": "napp-hello-flask",
+    "desc": "napp-hello-flask - hello world w/ flask",
+    "link": "https://github.com/obfusk/napp-hello-flask"
+  },
+  {
+    "name": "napp-hello-jetty",
+    "desc": "napp-hello-jetty - hello world w/ jetty",
+    "link": "https://github.com/obfusk/napp-hello-jetty"
+  },
+  {
+    "name": "napp-hello-nc",
+    "desc": "napp-hello-nc - hello world w/ nc",
+    "link": "https://github.com/obfusk/napp-hello-nc"
+  },
+  {
+    "name": "napp-hello-ncat",
+    "desc": "napp-hello-ncat - hello world w/ ncat",
+    "link": "https://github.com/obfusk/napp-hello-ncat"
+  },
+  {
+    "name": "napp-hello-rails",
+    "desc": "napp-hello-rails - hello world w/ rails",
+    "link": "https://github.com/obfusk/napp-hello-rails"
+  },
+  {
+    "name": "napp-hello-sinatra",
+    "desc": "napp-hello-sinatra - hello world w/ sinatra",
+    "link": "https://github.com/obfusk/napp-hello-sinatra"
+  },
+  {
+    "name": "napp-puppet",
+    "desc": "[TODO, ONHOLD] napp-puppet - puppet config for napp server",
+    "link": "https://github.com/obfusk/napp-puppet"
+  },
+  {
+    "name": "napp-server",
+    "desc": "[TODO, ONHOLD] napp-server - napp server template",
+    "link": "https://github.com/obfusk/napp-server"
+  },
+  {
+    "name": "netcat.py",
+    "desc": "netcat.py - python (2+3) netcat",
+    "link": "https://github.com/obfusk/netcat.py"
+  },
+  {
+    "name": "obfusk.coffee",
+    "desc": "[TODO] obfusk.coffee - functional programming library for js/coffee",
+    "link": "https://github.com/obfusk/obfusk.coffee"
+  },
+  {
+    "name": "obfusk.github.io",
+    "desc": "obfusk.github.io - /var/log/obfusk - hacking \u21d2 \u00acsleeping",
+    "link": "https://github.com/obfusk/obfusk.github.io"
+  },
+  {
+    "name": "obfusk.github.io-OLD",
+    "desc": "[OLD]",
+    "link": "https://github.com/obfusk/obfusk.github.io-OLD"
+  },
+  {
+    "name": "obfusk.py",
+    "desc": "obfusk.py - functional programming (& other tools) library for python (2+3)",
+    "link": "https://github.com/obfusk/obfusk.py"
+  },
+  {
+    "name": "obfusk.rb",
+    "desc": "obfusk.rb - functional programming library for ruby",
+    "link": "https://github.com/obfusk/obfusk.rb"
+  },
+  {
+    "name": "open-ath9k-htc-firmware",
+    "desc": "[FORK] The firmware for QCA AR7010/AR9271 802.11n USB NICs",
+    "link": "https://github.com/obfusk/open-ath9k-htc-firmware"
+  },
+  {
+    "name": "open_uri_redirections",
+    "desc": "[FORK] OpenURI patch to allow redirections between HTTP and HTTPS",
+    "link": "https://github.com/obfusk/open_uri_redirections"
+  },
+  {
+    "name": "open_uri_w_redirect_to_https",
+    "desc": "open_uri_w_redirect_to_https - open-uri HTTP to HTTPS redirect support patch",
+    "link": "https://github.com/obfusk/open_uri_w_redirect_to_https"
+  },
+  {
+    "name": "perl6intro",
+    "desc": "[FORK] Perl 6 Introduction",
+    "link": "https://github.com/obfusk/perl6intro"
+  },
+  {
+    "name": "phantomjs-gem",
+    "desc": "[FORK] Phantomjs via Rubygems: Auto-install phantomjs on demand for current platform. Comes with poltergeist integration.",
+    "link": "https://github.com/obfusk/phantomjs-gem"
+  },
+  {
+    "name": "phonegap-android-coffee-haml",
+    "desc": "phonegap-android-coffee-haml - use coffeescript and haml to build phonegap apps on android",
+    "link": "https://github.com/obfusk/phonegap-android-coffee-haml"
+  },
+  {
+    "name": "play-chat",
+    "desc": null,
+    "link": "https://github.com/obfusk/play-chat"
+  },
+  {
+    "name": "play-cryptanalysis",
+    "desc": null,
+    "link": "https://github.com/obfusk/play-cryptanalysis"
+  },
+  {
+    "name": "play-galgje",
+    "desc": null,
+    "link": "https://github.com/obfusk/play-galgje"
+  },
+  {
+    "name": "playing-with-factor",
+    "desc": null,
+    "link": "https://github.com/obfusk/playing-with-factor"
+  },
+  {
+    "name": "pp-gitolite",
+    "desc": "[TODO, ONHOLD] pp-gitolite - gitolite puppet module",
+    "link": "https://github.com/obfusk/pp-gitolite"
+  },
+  {
+    "name": "pp-meta",
+    "desc": "[TODO, ONHOLD] pp-meta - pp-* puppet meta project",
+    "link": "https://github.com/obfusk/pp-meta"
+  },
+  {
+    "name": "pp-misc",
+    "desc": "[TODO, ONHOLD] pp-misc - miscellaneous puppet modules",
+    "link": "https://github.com/obfusk/pp-misc"
+  },
+  {
+    "name": "privacycafe-misc",
+    "desc": "miscellaneous stuff for privacy cafe",
+    "link": "https://github.com/obfusk/privacycafe-misc"
+  },
+  {
+    "name": "pypride",
+    "desc": "pypride - python (2+3) PRIDE cipher implementation",
+    "link": "https://github.com/obfusk/pypride"
+  },
+  {
+    "name": "rack",
+    "desc": "[FORK] a modular Ruby webserver interface",
+    "link": "https://github.com/obfusk/rack"
+  },
+  {
+    "name": "rb-localconfig",
+    "desc": "[rb-]localconfig - local configuration for ruby (web) apps",
+    "link": "https://github.com/obfusk/rb-localconfig"
+  },
+  {
+    "name": "rb-obfusk-data",
+    "desc": "[rb-]obfusk-data - data validation combinator library for ruby",
+    "link": "https://github.com/obfusk/rb-obfusk-data"
+  },
+  {
+    "name": "rb-obfusk-util",
+    "desc": "[rb-]obfusk-util - miscellaneous utility library for ruby",
+    "link": "https://github.com/obfusk/rb-obfusk-util"
+  },
+  {
+    "name": "refactor.py",
+    "desc": "refactor.py - python (2+3) implementation of Factor' (a subset of Factor)",
+    "link": "https://github.com/obfusk/refactor.py"
+  },
+  {
+    "name": "remark",
+    "desc": "[FORK] A simple, in-browser, markdown-driven slideshow tool.",
+    "link": "https://github.com/obfusk/remark"
+  },
+  {
+    "name": "rubies-bugs",
+    "desc": null,
+    "link": "https://github.com/obfusk/rubies-bugs"
+  },
+  {
+    "name": "rvm-site",
+    "desc": "[FORK] RVM website and documentation",
+    "link": "https://github.com/obfusk/rvm-site"
+  },
+  {
+    "name": "scripts",
+    "desc": "miscellaneous scripts",
+    "link": "https://github.com/obfusk/scripts"
+  },
+  {
+    "name": "sh-config",
+    "desc": "[ba]sh config",
+    "link": "https://github.com/obfusk/sh-config"
+  },
+  {
+    "name": "simple-stack-exploit",
+    "desc": "simple-stack-exploit - a simple demo exploit",
+    "link": "https://github.com/obfusk/simple-stack-exploit"
+  },
+  {
+    "name": "siresta",
+    "desc": "[TODO] siRESTa - declarative REST APIs",
+    "link": "https://github.com/obfusk/siresta"
+  },
+  {
+    "name": "snake.coffee",
+    "desc": "snake.coffee - snake game library w/ bigbang.coffee",
+    "link": "https://github.com/obfusk/snake.coffee"
+  },
+  {
+    "name": "sniffer.py",
+    "desc": "sniffer.py - python (2+3) network sniffer",
+    "link": "https://github.com/obfusk/sniffer.py"
+  },
+  {
+    "name": "sokobang",
+    "desc": "sokobang - sokoban puzzle w/ bigbang.coffee",
+    "link": "https://github.com/obfusk/sokobang"
+  },
+  {
+    "name": "sprockets",
+    "desc": "[FORK] Rack-based asset packaging system",
+    "link": "https://github.com/obfusk/sprockets"
+  },
+  {
+    "name": "srvbak",
+    "desc": "srvbak - server backup (cron job)",
+    "link": "https://github.com/obfusk/srvbak"
+  },
+  {
+    "name": "stat",
+    "desc": "stat - server status (cron job)",
+    "link": "https://github.com/obfusk/stat"
+  },
+  {
+    "name": "stsffap",
+    "desc": null,
+    "link": "https://github.com/obfusk/stsffap"
+  },
+  {
+    "name": "taskmaster",
+    "desc": "taskmaster - manage tasks using a Taskfile",
+    "link": "https://github.com/obfusk/taskmaster"
+  },
+  {
+    "name": "trcrt.py",
+    "desc": "trcrt.py - python (2+3) traceroute implementation",
+    "link": "https://github.com/obfusk/trcrt.py"
+  },
+  {
+    "name": "trstools.py",
+    "desc": "trstools.py - python (2+3) term rewriting tools",
+    "link": "https://github.com/obfusk/trstools.py"
+  },
+  {
+    "name": "vagrant",
+    "desc": "[FORK] Vagrant is a tool for building and distributing working environments.",
+    "link": "https://github.com/obfusk/vagrant"
+  },
+  {
+    "name": "venv",
+    "desc": "venv - virtualenv's bundle exec",
+    "link": "https://github.com/obfusk/venv"
+  },
+  {
+    "name": "vim-niji",
+    "desc": "[FORK] Yet another rainbow parentheses plugin.",
+    "link": "https://github.com/obfusk/vim-niji"
+  },
+  {
+    "name": "waltz",
+    "desc": "[FORK] A ClojureScript library for keeping your state in step",
+    "link": "https://github.com/obfusk/waltz"
+  },
+  {
+    "name": "webrtc-xftv",
+    "desc": "webrtc-xftv - record video+audio with webrtc/xftv/recorderjs",
+    "link": "https://github.com/obfusk/webrtc-xftv"
+  },
+  {
+    "name": "xuggle-frames-to-video",
+    "desc": "xuggle-frames-to-video (xftv) - turn a stream of frame+timestamp into a video - useful for webrtc",
+    "link": "https://github.com/obfusk/xuggle-frames-to-video"
+  }
+]

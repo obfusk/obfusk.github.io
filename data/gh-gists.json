@@ -1,0 +1,554 @@
+[
+  {
+    "desc": "",
+    "link": "https://gist.github.com/18ca0fde78d97104c8f94a129679351d"
+  },
+  {
+    "desc": "",
+    "link": "https://gist.github.com/5efc8f3613461807dc85"
+  },
+  {
+    "desc": "",
+    "link": "https://gist.github.com/f8d06a17a1c308d22057"
+  },
+  {
+    "desc": "",
+    "link": "https://gist.github.com/f92c5c6ed91c86c0036eadb22fca25f2"
+  },
+  {
+    "desc": "*rc (mostly [ge]vim)",
+    "link": "https://gist.github.com/5075670"
+  },
+  {
+    "desc": ".abcde.conf",
+    "link": "https://gist.github.com/6475440"
+  },
+  {
+    "desc": ".guile",
+    "link": "https://gist.github.com/0ea6b7e392e443bf2f2a"
+  },
+  {
+    "desc": ".racketrc",
+    "link": "https://gist.github.com/11a0ac59070f5e5c59f8"
+  },
+  {
+    "desc": "7z w/ encryption",
+    "link": "https://gist.github.com/7073968"
+  },
+  {
+    "desc": "DO NOT USE \"foo $@ bar\" !!! only use \"$@\" !!!",
+    "link": "https://gist.github.com/7073883"
+  },
+  {
+    "desc": "EventSource and phantomjs/poltergeist/capybara-webkit",
+    "link": "https://gist.github.com/7803381"
+  },
+  {
+    "desc": "Manual Installation of OpenELEC for Raspberry Pi on SD card",
+    "link": "https://gist.github.com/5631529"
+  },
+  {
+    "desc": "Notes on FLOSS -- Free and Open-Source Software Licensing: A Crash Course for Computer Science Students",
+    "link": "https://gist.github.com/cc539f0b961ac5c9e40a83f7ed545400"
+  },
+  {
+    "desc": "User Agents",
+    "link": "https://gist.github.com/5322624"
+  },
+  {
+    "desc": "[OBSOLETE: NOW THAT PULL REQUEST IS MERGED, YOU CAN USE BCRYPT w/ COMFORTABLE-MEXICAN-SOFA] comfortable-mexican-sofa http auth w/ bcrypt",
+    "link": "https://gist.github.com/7535687"
+  },
+  {
+    "desc": "[OBSOLETE: NOW THAT PULL REQUEST IS MERGED, YOU CAN USE DUTCH LOCALE w/ COMFORTABLE-MEXICAN-SOFA] comfortable-mexican-sofa dutch locale",
+    "link": "https://gist.github.com/7474831"
+  },
+  {
+    "desc": "[OLD] dotfiles",
+    "link": "https://gist.github.com/6330311"
+  },
+  {
+    "desc": "ackrc",
+    "link": "https://gist.github.com/6956713"
+  },
+  {
+    "desc": "actionmailer + smtp + CFG",
+    "link": "https://gist.github.com/7074114"
+  },
+  {
+    "desc": "add times from stdin",
+    "link": "https://gist.github.com/cc16d2a331f105f3928cc6a959ecd854"
+  },
+  {
+    "desc": "an attempt at a dynamic programming abstraction in python",
+    "link": "https://gist.github.com/d4fe43e87999d08384bb6c76b37e9619"
+  },
+  {
+    "desc": "android notes",
+    "link": "https://gist.github.com/5024440"
+  },
+  {
+    "desc": "apg",
+    "link": "https://gist.github.com/7074307"
+  },
+  {
+    "desc": "apt sources.list for debian unstable",
+    "link": "https://gist.github.com/8259416"
+  },
+  {
+    "desc": "apt, gem, cfg, npm, opt, pip; see also: sodium, ...",
+    "link": "https://gist.github.com/6330867"
+  },
+  {
+    "desc": "b43 firmware for 14e4:4331 on ubuntu 12.04",
+    "link": "https://gist.github.com/6330044"
+  },
+  {
+    "desc": "backup",
+    "link": "https://gist.github.com/fd9c03fed75bd0c27128"
+  },
+  {
+    "desc": "backups presentation",
+    "link": "https://gist.github.com/6846272"
+  },
+  {
+    "desc": "bash functions (hereby public domain)",
+    "link": "https://gist.github.com/5647380"
+  },
+  {
+    "desc": "bitbucket -> gitlab",
+    "link": "https://gist.github.com/f0a782194a0390a9bbed"
+  },
+  {
+    "desc": "build ffmpeg",
+    "link": "https://gist.github.com/7073928"
+  },
+  {
+    "desc": "building chromium (on ubuntu 12.04) w/ extra ffmpeg codecs",
+    "link": "https://gist.github.com/5455045"
+  },
+  {
+    "desc": "chromium sandbox",
+    "link": "https://gist.github.com/5994633"
+  },
+  {
+    "desc": "chromium socks",
+    "link": "https://gist.github.com/389a86237a0b02e83ec1"
+  },
+  {
+    "desc": "chromium-trunk",
+    "link": "https://gist.github.com/0dc8a8babe80058cdfe3"
+  },
+  {
+    "desc": "clojure cuke",
+    "link": "https://gist.github.com/5087496"
+  },
+  {
+    "desc": "convert icedove address book .csv to mutt aliases file (to be modified afterwards)",
+    "link": "https://gist.github.com/db1ebd1f7e54a29fdbd9"
+  },
+  {
+    "desc": "cream",
+    "link": "https://gist.github.com/5074355"
+  },
+  {
+    "desc": "create an encrypted flash drive on the command line w/ cryptsetup",
+    "link": "https://gist.github.com/8190338"
+  },
+  {
+    "desc": "cug",
+    "link": "https://gist.github.com/6967160"
+  },
+  {
+    "desc": "debian chroot on android (asus tf300t w/ cyanogenmod 10)",
+    "link": "https://gist.github.com/4980445"
+  },
+  {
+    "desc": "different Gemfile.lock files for different branches ",
+    "link": "https://gist.github.com/7474483"
+  },
+  {
+    "desc": "dijkstra",
+    "link": "https://gist.github.com/5a2c336ffc56cbe38ca7"
+  },
+  {
+    "desc": "dns root servers",
+    "link": "https://gist.github.com/f73cb9cbd78bec5c270a"
+  },
+  {
+    "desc": "dnsmasq for internal network",
+    "link": "https://gist.github.com/5680980"
+  },
+  {
+    "desc": "dotfiles | OBSOLETE; see https://github.com/obfusk/dotfiles",
+    "link": "https://gist.github.com/8275915"
+  },
+  {
+    "desc": "dvd2pi",
+    "link": "https://gist.github.com/59dcc7136f92a30eedda"
+  },
+  {
+    "desc": "eftcmdr + nap",
+    "link": "https://gist.github.com/9188866"
+  },
+  {
+    "desc": "extracting watched & watching data from kodi's (sqlite) database",
+    "link": "https://gist.github.com/7bbcdaf5bcfc20cb0e8ee7fd440d9e15"
+  },
+  {
+    "desc": "fake update for fsfe website translations",
+    "link": "https://gist.github.com/f83d79e85680a2ee1f4d"
+  },
+  {
+    "desc": "fix for blank screen during boot with intel graphics",
+    "link": "https://gist.github.com/8134210"
+  },
+  {
+    "desc": "fix github ssh connection problems",
+    "link": "https://gist.github.com/5203768"
+  },
+  {
+    "desc": "fizzbuzz",
+    "link": "https://gist.github.com/6969436"
+  },
+  {
+    "desc": "fsfe Freiheit! flyer translated to Dutch and English",
+    "link": "https://gist.github.com/6630344"
+  },
+  {
+    "desc": "gdb",
+    "link": "https://gist.github.com/682f070ab4056bbe0076f8964409b9d3"
+  },
+  {
+    "desc": "gems",
+    "link": "https://gist.github.com/9964143"
+  },
+  {
+    "desc": "gemspec example",
+    "link": "https://gist.github.com/5415497"
+  },
+  {
+    "desc": "git basics",
+    "link": "https://gist.github.com/7076026"
+  },
+  {
+    "desc": "git remote with multiple push urls",
+    "link": "https://gist.github.com/5994539"
+  },
+  {
+    "desc": "git word diff",
+    "link": "https://gist.github.com/8848c124eaeeec43fea97839ea6eebb2"
+  },
+  {
+    "desc": "grub2 password protection ",
+    "link": "https://gist.github.com/5103552"
+  },
+  {
+    "desc": "head+tail with perl",
+    "link": "https://gist.github.com/5935539"
+  },
+  {
+    "desc": "how to use bash read w/ last line w/o newline",
+    "link": "https://gist.github.com/f0203e520f2a5f759973"
+  },
+  {
+    "desc": "http://www.lightweightcrypto.org/downloads/implementations/pypresent.py",
+    "link": "https://gist.github.com/2558cd313673f932da3c"
+  },
+  {
+    "desc": "iridium",
+    "link": "https://gist.github.com/7074274"
+  },
+  {
+    "desc": "jitsi in /opt from .deb w/o apt",
+    "link": "https://gist.github.com/6357018"
+  },
+  {
+    "desc": "js term test",
+    "link": "https://gist.github.com/3850045"
+  },
+  {
+    "desc": "kodi key binding (ctrl-l) for AudioNextLanguage; copy file to ~/.kodi/userdata/keymaps/",
+    "link": "https://gist.github.com/4f13e884c24637a49c2468f5cea1041b"
+  },
+  {
+    "desc": "libav/ffmpeg packages",
+    "link": "https://gist.github.com/7074233"
+  },
+  {
+    "desc": "link mp3 folders together",
+    "link": "https://gist.github.com/6543184"
+  },
+  {
+    "desc": "list github repos and gists (w/ desc, home, branches)",
+    "link": "https://gist.github.com/5197581"
+  },
+  {
+    "desc": "list japanese fonts",
+    "link": "https://gist.github.com/237e3b289b7d03f4b16b4628a1530c6f"
+  },
+  {
+    "desc": "localconfig git_repo test",
+    "link": "https://gist.github.com/009eae662748f8778bed"
+  },
+  {
+    "desc": "localconfig git_repo test #2",
+    "link": "https://gist.github.com/80edcd5455d348f9ccb7"
+  },
+  {
+    "desc": "m-over-reverse-ssh",
+    "link": "https://gist.github.com/7f081ca7a0eae946fc7fc6821b4680b4"
+  },
+  {
+    "desc": "manually set default gateway in case nm uses the wrong interface",
+    "link": "https://gist.github.com/9994655"
+  },
+  {
+    "desc": "mongo dump/restore",
+    "link": "https://gist.github.com/7074255"
+  },
+  {
+    "desc": "mutt doc in latin1",
+    "link": "https://gist.github.com/35005ff65938c2dbdbc7"
+  },
+  {
+    "desc": "nap switch branch",
+    "link": "https://gist.github.com/7380007"
+  },
+  {
+    "desc": "nginx ssl",
+    "link": "https://gist.github.com/b1bd473469f78ece2ff3"
+  },
+  {
+    "desc": "nullmailer w/ starttls & auth",
+    "link": "https://gist.github.com/16e68f10598f83d8032b"
+  },
+  {
+    "desc": "obfusk-data w/ mongoid",
+    "link": "https://gist.github.com/4964940"
+  },
+  {
+    "desc": "obfusk.coffee - reduce + mbind",
+    "link": "https://gist.github.com/7073835"
+  },
+  {
+    "desc": "open more than 10 tabs in vim",
+    "link": "https://gist.github.com/5987740"
+  },
+  {
+    "desc": "openvpn",
+    "link": "https://gist.github.com/7074096"
+  },
+  {
+    "desc": "phonegap barcode lib",
+    "link": "https://gist.github.com/5332731"
+  },
+  {
+    "desc": "phonegap/android development (on ubuntu 12.04 amd64)",
+    "link": "https://gist.github.com/5314717"
+  },
+  {
+    "desc": "play video using youtube-dl and mpv",
+    "link": "https://gist.github.com/620df6760f67b9d7d372cd2d8f0e7657"
+  },
+  {
+    "desc": "pretty git log with graph",
+    "link": "https://gist.github.com/5398679"
+  },
+  {
+    "desc": "prettyfy json w/ ruby oneliner",
+    "link": "https://gist.github.com/7553915"
+  },
+  {
+    "desc": "prime factors: Haskell vs my Python code",
+    "link": "https://gist.github.com/10a5072c1a783a1a35240bed6c2ec175"
+  },
+  {
+    "desc": "push all remotes",
+    "link": "https://gist.github.com/14ac03b92c5b77a913c4"
+  },
+  {
+    "desc": "python equivalent of ruby's binding.pry",
+    "link": "https://gist.github.com/208597ccc64bf9b436ed"
+  },
+  {
+    "desc": "python repl example",
+    "link": "https://gist.github.com/7d1cedf698d217d3cc4b90028951a594"
+  },
+  {
+    "desc": "python repl w/ history",
+    "link": "https://gist.github.com/2e1a37d975cf405c444f"
+  },
+  {
+    "desc": "python smtp w/ starttls",
+    "link": "https://gist.github.com/47c5a1368157bf717092"
+  },
+  {
+    "desc": "rails locale",
+    "link": "https://gist.github.com/7474818"
+  },
+  {
+    "desc": "random line w/ ruby",
+    "link": "https://gist.github.com/7535719"
+  },
+  {
+    "desc": "random quote w/ perl",
+    "link": "https://gist.github.com/7364475"
+  },
+  {
+    "desc": "rbx w/ rvm",
+    "link": "https://gist.github.com/c4f0dff753589c251430"
+  },
+  {
+    "desc": "redcarpet command line",
+    "link": "https://gist.github.com/71413bbbe9b759c6dedb"
+  },
+  {
+    "desc": "relative path",
+    "link": "https://gist.github.com/7073906"
+  },
+  {
+    "desc": "reverse lines w/ perl",
+    "link": "https://gist.github.com/4a4d82ec2f1dfd90b9c1"
+  },
+  {
+    "desc": "rsync w/ destination-default permissions",
+    "link": "https://gist.github.com/01efde75d433885fd1d4"
+  },
+  {
+    "desc": "run chromium twice",
+    "link": "https://gist.github.com/5416615"
+  },
+  {
+    "desc": "run multiple apps w/ screen",
+    "link": "https://gist.github.com/7074181"
+  },
+  {
+    "desc": "run perl script with autoflush to prevent problems with buffered output (e.g. when piping to tee)",
+    "link": "https://gist.github.com/f813333808e57f6d598cc18bcffb01e9"
+  },
+  {
+    "desc": "run w/ utf8 locale | OBSOLETE; see https://github.com/obfusk/dotfiles",
+    "link": "https://gist.github.com/0dd10a6d62fcd1d29437"
+  },
+  {
+    "desc": "secure ssh",
+    "link": "https://gist.github.com/5314326"
+  },
+  {
+    "desc": "sftp chroot",
+    "link": "https://gist.github.com/58e5e41f88e51eaec9070dfaf92598a4"
+  },
+  {
+    "desc": "show terminal colours",
+    "link": "https://gist.github.com/6d78c2c4507cce795daa3fc966e5122c"
+  },
+  {
+    "desc": "sigusr1 + wait",
+    "link": "https://gist.github.com/7073863"
+  },
+  {
+    "desc": "snippets",
+    "link": "https://gist.github.com/4519518"
+  },
+  {
+    "desc": "socat -- still testing",
+    "link": "https://gist.github.com/7074305"
+  },
+  {
+    "desc": "sodium",
+    "link": "https://gist.github.com/4639443"
+  },
+  {
+    "desc": "sodium'",
+    "link": "https://gist.github.com/8256668"
+  },
+  {
+    "desc": "some gnome3 command-line tweaks",
+    "link": "https://gist.github.com/8262204"
+  },
+  {
+    "desc": "sqlite -> postgres",
+    "link": "https://gist.github.com/7074216"
+  },
+  {
+    "desc": "ssh restricted commands",
+    "link": "https://gist.github.com/5654115"
+  },
+  {
+    "desc": "ssl",
+    "link": "https://gist.github.com/7074059"
+  },
+  {
+    "desc": "start gnome-terminal (80x40) in top left or bottom right",
+    "link": "https://gist.github.com/6522912"
+  },
+  {
+    "desc": "su + ssh-agent + screen",
+    "link": "https://gist.github.com/4514225"
+  },
+  {
+    "desc": "sync",
+    "link": "https://gist.github.com/7076057"
+  },
+  {
+    "desc": "test VM: vagrant, etckeeper, postgresql, mongodb, ...",
+    "link": "https://gist.github.com/5646916"
+  },
+  {
+    "desc": "trs tools examples",
+    "link": "https://gist.github.com/8032e414610c8faca4a537fbe13d3798"
+  },
+  {
+    "desc": "umask",
+    "link": "https://gist.github.com/5314321"
+  },
+  {
+    "desc": "use omxplayer as default dvd player for raspbmc",
+    "link": "https://gist.github.com/267d11c897b34ae82556"
+  },
+  {
+    "desc": "use xrandr to enable only HDMI1 if connected, LVDS1 otherwise | OBSOLETE; see https://github.com/obfusk/dotfiles",
+    "link": "https://gist.github.com/cd99740e5562197908e7"
+  },
+  {
+    "desc": "utf8 for mutt (still latin1 for rest) | OBSOLETE; see https://github.com/obfusk/dotfiles",
+    "link": "https://gist.github.com/bb6b9504ce92b9f77ab10e69cdd45eda"
+  },
+  {
+    "desc": "utf8 terminal | OBSOLETE; see https://github.com/obfusk/dotfiles",
+    "link": "https://gist.github.com/f8b48e66d45db5827f3c8010080f19bd"
+  },
+  {
+    "desc": "vagrant + nginx + ssl",
+    "link": "https://gist.github.com/5665367"
+  },
+  {
+    "desc": "vagrant base box: precise64-flx",
+    "link": "https://gist.github.com/5768197"
+  },
+  {
+    "desc": "vim: load modeline of current file (when disabled by default)",
+    "link": "https://gist.github.com/7851059"
+  },
+  {
+    "desc": "weird behaviour with pypy",
+    "link": "https://gist.github.com/b1f35789eb3b728f8779c5fa8a3d1285"
+  },
+  {
+    "desc": "xss",
+    "link": "https://gist.github.com/a41dca4121b7466294f1"
+  },
+  {
+    "desc": "youtube-dl \"GUI\"",
+    "link": "https://gist.github.com/1a7ca8860b26cdbc7c37e356c1a3aaa3"
+  },
+  {
+    "desc": "~/dev tree sodium",
+    "link": "https://gist.github.com/6405016"
+  },
+  {
+    "desc": "~nap dotfiles",
+    "link": "https://gist.github.com/7491914"
+  }
+]

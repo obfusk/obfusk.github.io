@@ -1,6 +1,51 @@
 {% extends "_base.html" %}
 {% block content %}
-
-... TODO ...
-
+<div class="container">
+  <div class="row">
+    {%- for group in repos %}
+      <div class="col-md-6 col-lg-4 col-xl-3">
+        &rarr; <a href="#{{ anchor(group.title) }}">{{ group.title }}</a>
+      </div>
+    {%- endfor %}
+  </div>
+</div>
+<br />
+{%- for group in repos %}
+  <div class="anchor" id="{{ anchor(group.title) }}"></div>
+  <div class="card">
+    <h4 class="card-header">
+      <a href="#{{ anchor(group.title) }}">{{ group.title }}</a>
+    </h4>
+    <div class="card-body">
+      <div class="row no-gutters">
+      {%- for item in group.elems %}
+        <div class="col-md-6 col-lg-4 card-deck">
+          <div class="card m-1">
+            <div class="card-body">
+              <a href="{{ item.link }}">
+                <h5 class="card-title">{{ item.name }}</h5>
+              </a>
+              <h6 class="card-subtitle mb-2">{{ item.desc }}</h6>
+            </div>
+            {%- if item.lang or item.info or item.warn %}
+              <div class="card-footer">
+                {%- for x in item.lang %}
+                  <span class="badge badge-primary">{{ x }}</span>
+                {%- endfor %}
+                {%- for x in item.info %}
+                  <span class="badge badge-secondary">{{ x }}</span>
+                {%- endfor %}
+                {%- for x in item.warn %}
+                  <span class="badge badge-warning">{{ x }}</span>
+                {%- endfor %}
+              </div>
+            {%- endif %}
+          </div>
+        </div>
+      {%- endfor %}
+      </div>
+    </div>
+  </div>
+  <br />
+{%- endfor %}
 {% endblock %}

@@ -1,0 +1,1506 @@
+[
+  {
+    "title": "Featured",
+    "elems": [
+      {
+        "name": "autossh-init",
+        "desc": "autossh-init - AutoSSH init script",
+        "link": "https://github.com/obfusk/autossh-init",
+        "lang": [
+          "sh"
+        ]
+      },
+      {
+        "name": "bash-cheatsheet",
+        "desc": "bash cheat sheet",
+        "link": "https://github.com/obfusk/bash-cheatsheet",
+        "lang": [
+          "sh"
+        ]
+      },
+      {
+        "name": "bigbang.coffee",
+        "desc": "bigbang.coffee - graphical/evented functional programming for js/coffee",
+        "link": "https://github.com/obfusk/bigbang.coffee",
+        "lang": [
+          "js"
+        ],
+        "info": [
+          "inactive"
+        ]
+      },
+      {
+        "name": "cryptoparty-privacycafe-menu",
+        "desc": "cryptoparty/privacycafe menu",
+        "link": "https://github.com/obfusk/cryptoparty-privacycafe-menu"
+      },
+      {
+        "name": "eft",
+        "desc": "eft - ruby + whiptail",
+        "link": "https://github.com/obfusk/eft",
+        "lang": [
+          "rb",
+          "gem"
+        ]
+      },
+      {
+        "name": "eft.sh",
+        "desc": "eft.sh - bash + whiptail",
+        "link": "https://github.com/obfusk/eft.sh",
+        "lang": [
+          "sh"
+        ]
+      },
+      {
+        "name": "gitbak",
+        "desc": "gitbak - bitbucket/github/gist backup",
+        "link": "https://github.com/obfusk/gitbak",
+        "lang": [
+          "rb",
+          "gem"
+        ]
+      },
+      {
+        "name": "gpg",
+        "desc": "gpg key + fingerprint + HOWTO",
+        "link": "https://github.com/obfusk/gpg"
+      },
+      {
+        "name": "m",
+        "desc": "m - minimalistic media manager",
+        "link": "https://github.com/obfusk/m",
+        "lang": [
+          "py",
+          "pypi"
+        ]
+      },
+      {
+        "name": "mail-config",
+        "desc": "my mutt + isync config",
+        "link": "https://github.com/obfusk/mail-config"
+      },
+      {
+        "name": "map.sh",
+        "desc": "map.sh - map/filter for bash",
+        "link": "https://github.com/obfusk/map.sh",
+        "lang": [
+          "sh"
+        ]
+      },
+      {
+        "name": "nametag",
+        "desc": "nametag - set audio file tags based on file name",
+        "link": "https://github.com/obfusk/nametag",
+        "lang": [
+          "rb",
+          "gem"
+        ]
+      },
+      {
+        "name": "sokobang",
+        "desc": "sokobang - sokoban puzzle w/ bigbang.coffee",
+        "link": "https://github.com/obfusk/sokobang",
+        "lang": [
+          "js"
+        ]
+      },
+      {
+        "name": "taskmaster",
+        "desc": "taskmaster - manage tasks using a Taskfile",
+        "link": "https://github.com/obfusk/taskmaster",
+        "lang": [
+          "sh"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Latest",
+    "elems": [
+      {
+        "name": "koneko",
+        "desc": "koneko - ...",
+        "link": "https://github.com/obfusk/koneko",
+        "lang": [
+          "py"
+        ],
+        "warn": [
+          "wip"
+        ]
+      },
+      {
+        "name": "m",
+        "desc": "m - minimalistic media manager",
+        "link": "https://github.com/obfusk/m",
+        "lang": [
+          "py",
+          "pypi"
+        ]
+      },
+      {
+        "name": "obfusk.github.io",
+        "desc": "obfusk.github.io - /var/log/obfusk - hacking \u21d2 \u00acsleeping",
+        "link": "https://github.com/obfusk/obfusk.github.io"
+      }
+    ]
+  },
+  {
+    "title": "Utilities",
+    "elems": [
+      {
+        "name": "gitbak",
+        "desc": "gitbak - bitbucket/github/gist backup",
+        "link": "https://github.com/obfusk/gitbak",
+        "lang": [
+          "rb",
+          "gem"
+        ]
+      },
+      {
+        "name": "m",
+        "desc": "m - minimalistic media manager",
+        "link": "https://github.com/obfusk/m",
+        "lang": [
+          "py",
+          "pypi"
+        ]
+      },
+      {
+        "name": "map.sh",
+        "desc": "map.sh - map/filter for bash",
+        "link": "https://github.com/obfusk/map.sh",
+        "lang": [
+          "sh"
+        ]
+      },
+      {
+        "name": "mdview",
+        "desc": "mdview - markdown preview",
+        "link": "https://github.com/obfusk/mdview",
+        "lang": [
+          "rb",
+          "gem"
+        ],
+        "info": [
+          "inactive"
+        ]
+      },
+      {
+        "name": "nametag",
+        "desc": "nametag - set audio file tags based on file name",
+        "link": "https://github.com/obfusk/nametag",
+        "lang": [
+          "rb",
+          "gem"
+        ]
+      },
+      {
+        "name": "taskmaster",
+        "desc": "taskmaster - manage tasks using a Taskfile",
+        "link": "https://github.com/obfusk/taskmaster",
+        "lang": [
+          "sh"
+        ]
+      },
+      {
+        "name": "venv",
+        "desc": "venv - virtualenv's bundle exec",
+        "link": "https://github.com/obfusk/venv",
+        "lang": [
+          "py"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Development",
+    "elems": [
+      {
+        "name": "dev-vm-ruby",
+        "desc": "dev-vm-ruby - ruby development VM (scripts)",
+        "link": "https://github.com/obfusk/dev-vm-ruby",
+        "info": [
+          "inactive"
+        ]
+      },
+      {
+        "name": "fnjs",
+        "desc": "[TODO, ONHOLD] fnjs - functional javascript",
+        "link": "https://github.com/obfusk/fnjs",
+        "lang": [
+          "clj",
+          "js"
+        ],
+        "info": [
+          "unfinished"
+        ],
+        "warn": [
+          "on-hold"
+        ]
+      },
+      {
+        "name": "koneko",
+        "desc": "koneko - ...",
+        "link": "https://github.com/obfusk/koneko",
+        "lang": [
+          "py"
+        ],
+        "warn": [
+          "wip"
+        ]
+      },
+      {
+        "name": "venv",
+        "desc": "venv - virtualenv's bundle exec",
+        "link": "https://github.com/obfusk/venv",
+        "lang": [
+          "py"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Python",
+    "elems": [
+      {
+        "name": "algorithms.py",
+        "desc": "algorithms.py - python (2+3) implementations of standard algorithms",
+        "link": "https://github.com/obfusk/algorithms.py",
+        "lang": [
+          "py"
+        ],
+        "info": [
+          "inactive"
+        ]
+      },
+      {
+        "name": "cryptanalysis.py",
+        "desc": "cryptanalysis.py - simple python (2+3) cryptanalysis tools",
+        "link": "https://github.com/obfusk/cryptanalysis.py",
+        "lang": [
+          "py"
+        ],
+        "info": [
+          "inactive"
+        ]
+      },
+      {
+        "name": "dns.py",
+        "desc": "dns.py - python (2+3) DNS server + client",
+        "link": "https://github.com/obfusk/dns.py",
+        "lang": [
+          "py"
+        ]
+      },
+      {
+        "name": "httpony",
+        "desc": "HTTPony - HTTP server/client/dsl",
+        "link": "https://github.com/obfusk/httpony",
+        "lang": [
+          "py"
+        ]
+      },
+      {
+        "name": "koneko",
+        "desc": "koneko - ...",
+        "link": "https://github.com/obfusk/koneko",
+        "lang": [
+          "py"
+        ],
+        "warn": [
+          "wip"
+        ]
+      },
+      {
+        "name": "m",
+        "desc": "m - minimalistic media manager",
+        "link": "https://github.com/obfusk/m",
+        "lang": [
+          "py",
+          "pypi"
+        ]
+      },
+      {
+        "name": "netcat.py",
+        "desc": "netcat.py - python (2+3) netcat",
+        "link": "https://github.com/obfusk/netcat.py",
+        "lang": [
+          "py"
+        ]
+      },
+      {
+        "name": "obfusk.py",
+        "desc": "obfusk.py - functional programming (& other tools) library for python (2+3)",
+        "link": "https://github.com/obfusk/obfusk.py",
+        "lang": [
+          "py",
+          "pypi"
+        ],
+        "info": [
+          "inactive",
+          "unfinished"
+        ]
+      },
+      {
+        "name": "pypride",
+        "desc": "pypride - python (2+3) PRIDE cipher implementation",
+        "link": "https://github.com/obfusk/pypride",
+        "lang": [
+          "py"
+        ]
+      },
+      {
+        "name": "sniffer.py",
+        "desc": "sniffer.py - python (2+3) network sniffer",
+        "link": "https://github.com/obfusk/sniffer.py",
+        "lang": [
+          "py"
+        ]
+      },
+      {
+        "name": "trcrt.py",
+        "desc": "trcrt.py - python (2+3) traceroute implementation",
+        "link": "https://github.com/obfusk/trcrt.py",
+        "lang": [
+          "py"
+        ]
+      },
+      {
+        "name": "trstools.py",
+        "desc": "trstools.py - python (2+3) term rewriting tools",
+        "link": "https://github.com/obfusk/trstools.py",
+        "lang": [
+          "py"
+        ],
+        "info": [
+          "inactive",
+          "unfinished"
+        ]
+      },
+      {
+        "name": "venv",
+        "desc": "venv - virtualenv's bundle exec",
+        "link": "https://github.com/obfusk/venv",
+        "lang": [
+          "py"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Ruby",
+    "elems": [
+      {
+        "name": "achatwithsinatra",
+        "desc": "achatwithsinatra - a simple sinatra chat app",
+        "link": "https://github.com/obfusk/achatwithsinatra",
+        "lang": [
+          "rb"
+        ]
+      },
+      {
+        "name": "active-dump",
+        "desc": "active-dump - dump and restore activerecord from/to yaml",
+        "link": "https://github.com/obfusk/active-dump",
+        "lang": [
+          "rb",
+          "gem"
+        ],
+        "info": [
+          "inactive"
+        ]
+      },
+      {
+        "name": "bundler-fu",
+        "desc": "bundler-fu - tools for bundler",
+        "link": "https://github.com/obfusk/bundler-fu",
+        "lang": [
+          "rb",
+          "gem"
+        ],
+        "info": [
+          "inactive"
+        ]
+      },
+      {
+        "name": "eft",
+        "desc": "eft - ruby + whiptail",
+        "link": "https://github.com/obfusk/eft",
+        "lang": [
+          "rb",
+          "gem"
+        ]
+      },
+      {
+        "name": "eftcmdr",
+        "desc": "eftcmdr - yaml + ruby + whiptail",
+        "link": "https://github.com/obfusk/eftcmdr",
+        "lang": [
+          "rb",
+          "gem"
+        ]
+      },
+      {
+        "name": "gitbak",
+        "desc": "gitbak - bitbucket/github/gist backup",
+        "link": "https://github.com/obfusk/gitbak",
+        "lang": [
+          "rb",
+          "gem"
+        ]
+      },
+      {
+        "name": "localconfig-rails-example",
+        "desc": "localconfig example w/ rails",
+        "link": "https://github.com/obfusk/localconfig-rails-example",
+        "lang": [
+          "rb"
+        ],
+        "info": [
+          "inactive"
+        ]
+      },
+      {
+        "name": "manifest-dl",
+        "desc": "manifest-dl - download extra files for your ruby app",
+        "link": "https://github.com/obfusk/manifest-dl",
+        "lang": [
+          "rb",
+          "gem"
+        ],
+        "info": [
+          "inactive"
+        ]
+      },
+      {
+        "name": "mdview",
+        "desc": "mdview - markdown preview",
+        "link": "https://github.com/obfusk/mdview",
+        "lang": [
+          "rb",
+          "gem"
+        ],
+        "info": [
+          "inactive"
+        ]
+      },
+      {
+        "name": "nametag",
+        "desc": "nametag - set audio file tags based on file name",
+        "link": "https://github.com/obfusk/nametag",
+        "lang": [
+          "rb",
+          "gem"
+        ]
+      },
+      {
+        "name": "obfusk.rb",
+        "desc": "obfusk.rb - functional programming library for ruby",
+        "link": "https://github.com/obfusk/obfusk.rb",
+        "lang": [
+          "rb",
+          "gem"
+        ],
+        "info": [
+          "inactive",
+          "unfinished"
+        ]
+      },
+      {
+        "name": "open_uri_w_redirect_to_https",
+        "desc": "open_uri_w_redirect_to_https - open-uri HTTP to HTTPS redirect support patch",
+        "link": "https://github.com/obfusk/open_uri_w_redirect_to_https",
+        "lang": [
+          "rb",
+          "gem"
+        ]
+      },
+      {
+        "name": "rb-localconfig",
+        "desc": "[rb-]localconfig - local configuration for ruby (web) apps",
+        "link": "https://github.com/obfusk/rb-localconfig",
+        "lang": [
+          "rb",
+          "gem"
+        ],
+        "info": [
+          "inactive"
+        ]
+      },
+      {
+        "name": "rb-obfusk-data",
+        "desc": "[rb-]obfusk-data - data validation combinator library for ruby",
+        "link": "https://github.com/obfusk/rb-obfusk-data",
+        "lang": [
+          "rb",
+          "gem"
+        ],
+        "info": [
+          "inactive",
+          "unfinished"
+        ]
+      },
+      {
+        "name": "rb-obfusk-util",
+        "desc": "[rb-]obfusk-util - miscellaneous utility library for ruby",
+        "link": "https://github.com/obfusk/rb-obfusk-util",
+        "lang": [
+          "rb",
+          "gem"
+        ],
+        "info": [
+          "inactive",
+          "unfinished"
+        ]
+      },
+      {
+        "name": "siresta",
+        "desc": "[TODO] siRESTa - declarative REST APIs",
+        "link": "https://github.com/obfusk/siresta",
+        "lang": [
+          "rb",
+          "gem"
+        ],
+        "info": [
+          "unfinished"
+        ],
+        "warn": [
+          "on-hold"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Bash",
+    "elems": [
+      {
+        "name": "autossh-init",
+        "desc": "autossh-init - AutoSSH init script",
+        "link": "https://github.com/obfusk/autossh-init",
+        "lang": [
+          "sh"
+        ]
+      },
+      {
+        "name": "baktogit",
+        "desc": "baktogit - backup w/ git",
+        "link": "https://github.com/obfusk/baktogit",
+        "lang": [
+          "sh"
+        ]
+      },
+      {
+        "name": "bash-cheatsheet",
+        "desc": "bash cheat sheet",
+        "link": "https://github.com/obfusk/bash-cheatsheet",
+        "lang": [
+          "sh"
+        ]
+      },
+      {
+        "name": "bash-presentation",
+        "desc": "bash presentation",
+        "link": "https://github.com/obfusk/bash-presentation",
+        "lang": [
+          "sh"
+        ]
+      },
+      {
+        "name": "cpbak",
+        "desc": "cpbak - copy server backup (to e.g. a nas) using rsync + ssh (cron job)",
+        "link": "https://github.com/obfusk/cpbak",
+        "lang": [
+          "sh"
+        ]
+      },
+      {
+        "name": "eft.sh",
+        "desc": "eft.sh - bash + whiptail",
+        "link": "https://github.com/obfusk/eft.sh",
+        "lang": [
+          "sh"
+        ]
+      },
+      {
+        "name": "mailer",
+        "desc": "mailer - send(e)mail script",
+        "link": "https://github.com/obfusk/mailer",
+        "lang": [
+          "sh"
+        ]
+      },
+      {
+        "name": "map.sh",
+        "desc": "map.sh - map/filter for bash",
+        "link": "https://github.com/obfusk/map.sh",
+        "lang": [
+          "sh"
+        ]
+      },
+      {
+        "name": "srvbak",
+        "desc": "srvbak - server backup (cron job)",
+        "link": "https://github.com/obfusk/srvbak",
+        "lang": [
+          "sh"
+        ]
+      },
+      {
+        "name": "stat",
+        "desc": "stat - server status (cron job)",
+        "link": "https://github.com/obfusk/stat",
+        "lang": [
+          "sh"
+        ]
+      },
+      {
+        "name": "taskmaster",
+        "desc": "taskmaster - manage tasks using a Taskfile",
+        "link": "https://github.com/obfusk/taskmaster",
+        "lang": [
+          "sh"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Libraries",
+    "elems": [
+      {
+        "name": "active-dump",
+        "desc": "active-dump - dump and restore activerecord from/to yaml",
+        "link": "https://github.com/obfusk/active-dump",
+        "lang": [
+          "rb",
+          "gem"
+        ],
+        "info": [
+          "inactive"
+        ]
+      },
+      {
+        "name": "bigbang.coffee",
+        "desc": "bigbang.coffee - graphical/evented functional programming for js/coffee",
+        "link": "https://github.com/obfusk/bigbang.coffee",
+        "lang": [
+          "js"
+        ],
+        "info": [
+          "inactive"
+        ]
+      },
+      {
+        "name": "bundler-fu",
+        "desc": "bundler-fu - tools for bundler",
+        "link": "https://github.com/obfusk/bundler-fu",
+        "lang": [
+          "rb",
+          "gem"
+        ],
+        "info": [
+          "inactive"
+        ]
+      },
+      {
+        "name": "clj-obfusk-data",
+        "desc": "[clj-]obfusk-data - data validation combinator library for clojure",
+        "link": "https://github.com/obfusk/clj-obfusk-data",
+        "lang": [
+          "clj"
+        ],
+        "info": [
+          "inactive",
+          "unfinished"
+        ]
+      },
+      {
+        "name": "eft",
+        "desc": "eft - ruby + whiptail",
+        "link": "https://github.com/obfusk/eft",
+        "lang": [
+          "rb",
+          "gem"
+        ]
+      },
+      {
+        "name": "eft.sh",
+        "desc": "eft.sh - bash + whiptail",
+        "link": "https://github.com/obfusk/eft.sh",
+        "lang": [
+          "sh"
+        ]
+      },
+      {
+        "name": "eftcmdr",
+        "desc": "eftcmdr - yaml + ruby + whiptail",
+        "link": "https://github.com/obfusk/eftcmdr",
+        "lang": [
+          "rb",
+          "gem"
+        ]
+      },
+      {
+        "name": "localconfig-rails-example",
+        "desc": "localconfig example w/ rails",
+        "link": "https://github.com/obfusk/localconfig-rails-example",
+        "lang": [
+          "rb"
+        ],
+        "info": [
+          "inactive"
+        ]
+      },
+      {
+        "name": "manifest-dl",
+        "desc": "manifest-dl - download extra files for your ruby app",
+        "link": "https://github.com/obfusk/manifest-dl",
+        "lang": [
+          "rb",
+          "gem"
+        ],
+        "info": [
+          "inactive"
+        ]
+      },
+      {
+        "name": "open_uri_w_redirect_to_https",
+        "desc": "open_uri_w_redirect_to_https - open-uri HTTP to HTTPS redirect support patch",
+        "link": "https://github.com/obfusk/open_uri_w_redirect_to_https",
+        "lang": [
+          "rb",
+          "gem"
+        ]
+      },
+      {
+        "name": "rb-localconfig",
+        "desc": "[rb-]localconfig - local configuration for ruby (web) apps",
+        "link": "https://github.com/obfusk/rb-localconfig",
+        "lang": [
+          "rb",
+          "gem"
+        ],
+        "info": [
+          "inactive"
+        ]
+      },
+      {
+        "name": "rb-obfusk-data",
+        "desc": "[rb-]obfusk-data - data validation combinator library for ruby",
+        "link": "https://github.com/obfusk/rb-obfusk-data",
+        "lang": [
+          "rb",
+          "gem"
+        ],
+        "info": [
+          "inactive",
+          "unfinished"
+        ]
+      },
+      {
+        "name": "rb-obfusk-util",
+        "desc": "[rb-]obfusk-util - miscellaneous utility library for ruby",
+        "link": "https://github.com/obfusk/rb-obfusk-util",
+        "lang": [
+          "rb",
+          "gem"
+        ],
+        "info": [
+          "inactive",
+          "unfinished"
+        ]
+      },
+      {
+        "name": "siresta",
+        "desc": "[TODO] siRESTa - declarative REST APIs",
+        "link": "https://github.com/obfusk/siresta",
+        "lang": [
+          "rb",
+          "gem"
+        ],
+        "info": [
+          "unfinished"
+        ],
+        "warn": [
+          "on-hold"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Functional Programming",
+    "elems": [
+      {
+        "name": "bigbang-examples",
+        "desc": "bigbang-examples - bigbang.coffee examples",
+        "link": "https://github.com/obfusk/bigbang-examples",
+        "lang": [
+          "js"
+        ]
+      },
+      {
+        "name": "bigbang-snake",
+        "desc": "bigbang-snake - snake game w/ bigbang.coffee",
+        "link": "https://github.com/obfusk/bigbang-snake",
+        "lang": [
+          "js"
+        ]
+      },
+      {
+        "name": "bigbang.coffee",
+        "desc": "bigbang.coffee - graphical/evented functional programming for js/coffee",
+        "link": "https://github.com/obfusk/bigbang.coffee",
+        "lang": [
+          "js"
+        ],
+        "info": [
+          "inactive"
+        ]
+      },
+      {
+        "name": "obfusk.coffee",
+        "desc": "[TODO] obfusk.coffee - functional programming library for js/coffee",
+        "link": "https://github.com/obfusk/obfusk.coffee",
+        "lang": [
+          "js"
+        ],
+        "info": [
+          "inactive",
+          "unfinished"
+        ]
+      },
+      {
+        "name": "obfusk.py",
+        "desc": "obfusk.py - functional programming (& other tools) library for python (2+3)",
+        "link": "https://github.com/obfusk/obfusk.py",
+        "lang": [
+          "py",
+          "pypi"
+        ],
+        "info": [
+          "inactive",
+          "unfinished"
+        ]
+      },
+      {
+        "name": "obfusk.rb",
+        "desc": "obfusk.rb - functional programming library for ruby",
+        "link": "https://github.com/obfusk/obfusk.rb",
+        "lang": [
+          "rb",
+          "gem"
+        ],
+        "info": [
+          "inactive",
+          "unfinished"
+        ]
+      },
+      {
+        "name": "snake.coffee",
+        "desc": "snake.coffee - snake game library w/ bigbang.coffee",
+        "link": "https://github.com/obfusk/snake.coffee",
+        "lang": [
+          "js"
+        ]
+      },
+      {
+        "name": "sokobang",
+        "desc": "sokobang - sokoban puzzle w/ bigbang.coffee",
+        "link": "https://github.com/obfusk/sokobang",
+        "lang": [
+          "js"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Games",
+    "elems": [
+      {
+        "name": "bigbang-examples",
+        "desc": "bigbang-examples - bigbang.coffee examples",
+        "link": "https://github.com/obfusk/bigbang-examples",
+        "lang": [
+          "js"
+        ]
+      },
+      {
+        "name": "bigbang-snake",
+        "desc": "bigbang-snake - snake game w/ bigbang.coffee",
+        "link": "https://github.com/obfusk/bigbang-snake",
+        "lang": [
+          "js"
+        ]
+      },
+      {
+        "name": "bigbang.coffee",
+        "desc": "bigbang.coffee - graphical/evented functional programming for js/coffee",
+        "link": "https://github.com/obfusk/bigbang.coffee",
+        "lang": [
+          "js"
+        ],
+        "info": [
+          "inactive"
+        ]
+      },
+      {
+        "name": "snake.coffee",
+        "desc": "snake.coffee - snake game library w/ bigbang.coffee",
+        "link": "https://github.com/obfusk/snake.coffee",
+        "lang": [
+          "js"
+        ]
+      },
+      {
+        "name": "sokobang",
+        "desc": "sokobang - sokoban puzzle w/ bigbang.coffee",
+        "link": "https://github.com/obfusk/sokobang",
+        "lang": [
+          "js"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Server Administration",
+    "elems": [
+      {
+        "name": "autossh-init",
+        "desc": "autossh-init - AutoSSH init script",
+        "link": "https://github.com/obfusk/autossh-init",
+        "lang": [
+          "sh"
+        ]
+      },
+      {
+        "name": "baktogit",
+        "desc": "baktogit - backup w/ git",
+        "link": "https://github.com/obfusk/baktogit",
+        "lang": [
+          "sh"
+        ]
+      },
+      {
+        "name": "cpbak",
+        "desc": "cpbak - copy server backup (to e.g. a nas) using rsync + ssh (cron job)",
+        "link": "https://github.com/obfusk/cpbak",
+        "lang": [
+          "sh"
+        ]
+      },
+      {
+        "name": "dev-vm-ruby",
+        "desc": "dev-vm-ruby - ruby development VM (scripts)",
+        "link": "https://github.com/obfusk/dev-vm-ruby",
+        "info": [
+          "inactive"
+        ]
+      },
+      {
+        "name": "mailer",
+        "desc": "mailer - send(e)mail script",
+        "link": "https://github.com/obfusk/mailer",
+        "lang": [
+          "sh"
+        ]
+      },
+      {
+        "name": "srvbak",
+        "desc": "srvbak - server backup (cron job)",
+        "link": "https://github.com/obfusk/srvbak",
+        "lang": [
+          "sh"
+        ]
+      },
+      {
+        "name": "stat",
+        "desc": "stat - server status (cron job)",
+        "link": "https://github.com/obfusk/stat",
+        "lang": [
+          "sh"
+        ]
+      },
+      {
+        "name": "taskmaster",
+        "desc": "taskmaster - manage tasks using a Taskfile",
+        "link": "https://github.com/obfusk/taskmaster",
+        "lang": [
+          "sh"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Free Software & Privacy",
+    "elems": [
+      {
+        "name": "cryptoparty-privacycafe-menu",
+        "desc": "cryptoparty/privacycafe menu",
+        "link": "https://github.com/obfusk/cryptoparty-privacycafe-menu"
+      },
+      {
+        "name": "cryptoparty-privacycafe-slides",
+        "desc": "cryptoparty/privacycafe slides (w/ notes)",
+        "link": "https://github.com/obfusk/cryptoparty-privacycafe-slides"
+      },
+      {
+        "name": "ds-lunch-talk-foss",
+        "desc": "Radboud University Digital Security Colloquium Lunch Talk: Free and Open-Source Software (FOSS) (Licensing): A Crash Course for Computer Scientists",
+        "link": "https://github.com/obfusk/ds-lunch-talk-foss"
+      },
+      {
+        "name": "iot-tdose",
+        "desc": "my IoT presentation for T-DOSE",
+        "link": "https://github.com/obfusk/iot-tdose"
+      },
+      {
+        "name": "keep-it-private",
+        "desc": "[TODO] keep-it-private - privacy/crypto presentations",
+        "link": "https://github.com/obfusk/keep-it-private",
+        "info": [
+          "unfinished"
+        ],
+        "warn": [
+          "on-hold"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Presentations",
+    "elems": [
+      {
+        "name": "achatwithsinatra",
+        "desc": "achatwithsinatra - a simple sinatra chat app",
+        "link": "https://github.com/obfusk/achatwithsinatra",
+        "lang": [
+          "rb"
+        ]
+      },
+      {
+        "name": "bash-presentation",
+        "desc": "bash presentation",
+        "link": "https://github.com/obfusk/bash-presentation",
+        "lang": [
+          "sh"
+        ]
+      },
+      {
+        "name": "buffer-overflows-101",
+        "desc": "buffer overflows presentation",
+        "link": "https://github.com/obfusk/buffer-overflows-101"
+      },
+      {
+        "name": "cryptoparty-privacycafe-slides",
+        "desc": "cryptoparty/privacycafe slides (w/ notes)",
+        "link": "https://github.com/obfusk/cryptoparty-privacycafe-slides"
+      },
+      {
+        "name": "ds-lunch-talk-foss",
+        "desc": "Radboud University Digital Security Colloquium Lunch Talk: Free and Open-Source Software (FOSS) (Licensing): A Crash Course for Computer Scientists",
+        "link": "https://github.com/obfusk/ds-lunch-talk-foss"
+      },
+      {
+        "name": "iot-tdose",
+        "desc": "my IoT presentation for T-DOSE",
+        "link": "https://github.com/obfusk/iot-tdose"
+      },
+      {
+        "name": "keep-it-private",
+        "desc": "[TODO] keep-it-private - privacy/crypto presentations",
+        "link": "https://github.com/obfusk/keep-it-private",
+        "info": [
+          "unfinished"
+        ],
+        "warn": [
+          "on-hold"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Miscellaneous",
+    "elems": [
+      {
+        "name": "dev-misc",
+        "desc": "scripts + *rc",
+        "link": "https://github.com/obfusk/dev-misc"
+      },
+      {
+        "name": "dotfiles",
+        "desc": "some of my dotfiles",
+        "link": "https://github.com/obfusk/dotfiles"
+      },
+      {
+        "name": "gpg",
+        "desc": "gpg key + fingerprint + HOWTO",
+        "link": "https://github.com/obfusk/gpg"
+      },
+      {
+        "name": "i3-config",
+        "desc": "my i3 config",
+        "link": "https://github.com/obfusk/i3-config"
+      },
+      {
+        "name": "mail-config",
+        "desc": "my mutt + isync config",
+        "link": "https://github.com/obfusk/mail-config"
+      },
+      {
+        "name": "obfusk.github.io",
+        "desc": "obfusk.github.io - /var/log/obfusk - hacking \u21d2 \u00acsleeping",
+        "link": "https://github.com/obfusk/obfusk.github.io"
+      },
+      {
+        "name": "phonegap-android-coffee-haml",
+        "desc": "phonegap-android-coffee-haml - use coffeescript and haml to build phonegap apps on android",
+        "link": "https://github.com/obfusk/phonegap-android-coffee-haml"
+      },
+      {
+        "name": "play-galgje",
+        "desc": null,
+        "link": "https://github.com/obfusk/play-galgje",
+        "lang": [
+          "js"
+        ]
+      },
+      {
+        "name": "scripts",
+        "desc": "miscellaneous scripts",
+        "link": "https://github.com/obfusk/scripts"
+      },
+      {
+        "name": "sh-config",
+        "desc": "[ba]sh config",
+        "link": "https://github.com/obfusk/sh-config"
+      },
+      {
+        "name": "simple-stack-exploit",
+        "desc": "simple-stack-exploit - a simple demo exploit",
+        "link": "https://github.com/obfusk/simple-stack-exploit"
+      },
+      {
+        "name": "webrtc-xftv",
+        "desc": "webrtc-xftv - record video+audio with webrtc/xftv/recorderjs",
+        "link": "https://github.com/obfusk/webrtc-xftv"
+      },
+      {
+        "name": "xuggle-frames-to-video",
+        "desc": "xuggle-frames-to-video (xftv) - turn a stream of frame+timestamp into a video - useful for webrtc",
+        "link": "https://github.com/obfusk/xuggle-frames-to-video"
+      }
+    ]
+  },
+  {
+    "title": "Nap",
+    "elems": [
+      {
+        "name": "eftcmdr-nap",
+        "desc": "eftcmdr-nap - eftcmdr + nap",
+        "link": "https://github.com/obfusk/eftcmdr-nap",
+        "lang": [
+          "rb"
+        ]
+      },
+      {
+        "name": "nap",
+        "desc": "nap - nightmare(less) application platform",
+        "link": "https://github.com/obfusk/nap",
+        "lang": [
+          "sh"
+        ],
+        "info": [
+          "inactive"
+        ]
+      },
+      {
+        "name": "nap-app",
+        "desc": "nap-app - web-based \"naps\" command",
+        "link": "https://github.com/obfusk/nap-app",
+        "lang": [
+          "rb"
+        ],
+        "info": [
+          "inactive"
+        ]
+      },
+      {
+        "name": "nap-hello",
+        "desc": "nap-hello - nap test app: hello world w/ sinatra",
+        "link": "https://github.com/obfusk/nap-hello",
+        "info": [
+          "inactive"
+        ]
+      },
+      {
+        "name": "napp",
+        "desc": "[TODO] napp - nightmare(less) application platform",
+        "link": "https://github.com/obfusk/napp",
+        "lang": [
+          "rb"
+        ],
+        "info": [
+          "unfinished"
+        ],
+        "warn": [
+          "on-hold"
+        ]
+      },
+      {
+        "name": "napp-hello-compojure",
+        "desc": "napp-hello-compojure - hello world w/ compojure",
+        "link": "https://github.com/obfusk/napp-hello-compojure",
+        "info": [
+          "unfinished"
+        ],
+        "warn": [
+          "on-hold"
+        ]
+      },
+      {
+        "name": "napp-hello-express",
+        "desc": "napp-hello-express - hello world w/ express",
+        "link": "https://github.com/obfusk/napp-hello-express",
+        "info": [
+          "unfinished"
+        ],
+        "warn": [
+          "on-hold"
+        ]
+      },
+      {
+        "name": "napp-hello-flask",
+        "desc": "napp-hello-flask - hello world w/ flask",
+        "link": "https://github.com/obfusk/napp-hello-flask",
+        "info": [
+          "unfinished"
+        ],
+        "warn": [
+          "on-hold"
+        ]
+      },
+      {
+        "name": "napp-hello-jetty",
+        "desc": "napp-hello-jetty - hello world w/ jetty",
+        "link": "https://github.com/obfusk/napp-hello-jetty",
+        "info": [
+          "unfinished"
+        ],
+        "warn": [
+          "on-hold"
+        ]
+      },
+      {
+        "name": "napp-hello-nc",
+        "desc": "napp-hello-nc - hello world w/ nc",
+        "link": "https://github.com/obfusk/napp-hello-nc",
+        "info": [
+          "unfinished"
+        ],
+        "warn": [
+          "on-hold"
+        ]
+      },
+      {
+        "name": "napp-hello-ncat",
+        "desc": "napp-hello-ncat - hello world w/ ncat",
+        "link": "https://github.com/obfusk/napp-hello-ncat",
+        "info": [
+          "unfinished"
+        ],
+        "warn": [
+          "on-hold"
+        ]
+      },
+      {
+        "name": "napp-hello-rails",
+        "desc": "napp-hello-rails - hello world w/ rails",
+        "link": "https://github.com/obfusk/napp-hello-rails",
+        "info": [
+          "unfinished"
+        ],
+        "warn": [
+          "on-hold"
+        ]
+      },
+      {
+        "name": "napp-hello-sinatra",
+        "desc": "napp-hello-sinatra - hello world w/ sinatra",
+        "link": "https://github.com/obfusk/napp-hello-sinatra",
+        "info": [
+          "unfinished"
+        ],
+        "warn": [
+          "on-hold"
+        ]
+      },
+      {
+        "name": "napp-puppet",
+        "desc": "[TODO, ONHOLD] napp-puppet - puppet config for napp server",
+        "link": "https://github.com/obfusk/napp-puppet",
+        "info": [
+          "unfinished"
+        ],
+        "warn": [
+          "on-hold"
+        ]
+      },
+      {
+        "name": "napp-server",
+        "desc": "[TODO, ONHOLD] napp-server - napp server template",
+        "link": "https://github.com/obfusk/napp-server",
+        "info": [
+          "unfinished"
+        ],
+        "warn": [
+          "on-hold"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Unfinished",
+    "elems": [
+      {
+        "name": "algorithms.cpp",
+        "desc": "algorithms.cpp - implementations of standard algorithms in C++",
+        "link": "https://github.com/obfusk/algorithms.cpp",
+        "lang": [
+          "cpp"
+        ],
+        "info": [
+          "inactive",
+          "unfinished"
+        ]
+      },
+      {
+        "name": "clj-obfusk-data",
+        "desc": "[clj-]obfusk-data - data validation combinator library for clojure",
+        "link": "https://github.com/obfusk/clj-obfusk-data",
+        "lang": [
+          "clj"
+        ],
+        "info": [
+          "inactive",
+          "unfinished"
+        ]
+      },
+      {
+        "name": "fnjs",
+        "desc": "[TODO, ONHOLD] fnjs - functional javascript",
+        "link": "https://github.com/obfusk/fnjs",
+        "lang": [
+          "clj",
+          "js"
+        ],
+        "info": [
+          "unfinished"
+        ],
+        "warn": [
+          "on-hold"
+        ]
+      },
+      {
+        "name": "keep-it-private",
+        "desc": "[TODO] keep-it-private - privacy/crypto presentations",
+        "link": "https://github.com/obfusk/keep-it-private",
+        "info": [
+          "unfinished"
+        ],
+        "warn": [
+          "on-hold"
+        ]
+      },
+      {
+        "name": "obfusk.coffee",
+        "desc": "[TODO] obfusk.coffee - functional programming library for js/coffee",
+        "link": "https://github.com/obfusk/obfusk.coffee",
+        "lang": [
+          "js"
+        ],
+        "info": [
+          "inactive",
+          "unfinished"
+        ]
+      },
+      {
+        "name": "obfusk.py",
+        "desc": "obfusk.py - functional programming (& other tools) library for python (2+3)",
+        "link": "https://github.com/obfusk/obfusk.py",
+        "lang": [
+          "py",
+          "pypi"
+        ],
+        "info": [
+          "inactive",
+          "unfinished"
+        ]
+      },
+      {
+        "name": "obfusk.rb",
+        "desc": "obfusk.rb - functional programming library for ruby",
+        "link": "https://github.com/obfusk/obfusk.rb",
+        "lang": [
+          "rb",
+          "gem"
+        ],
+        "info": [
+          "inactive",
+          "unfinished"
+        ]
+      },
+      {
+        "name": "rb-obfusk-data",
+        "desc": "[rb-]obfusk-data - data validation combinator library for ruby",
+        "link": "https://github.com/obfusk/rb-obfusk-data",
+        "lang": [
+          "rb",
+          "gem"
+        ],
+        "info": [
+          "inactive",
+          "unfinished"
+        ]
+      },
+      {
+        "name": "rb-obfusk-util",
+        "desc": "[rb-]obfusk-util - miscellaneous utility library for ruby",
+        "link": "https://github.com/obfusk/rb-obfusk-util",
+        "lang": [
+          "rb",
+          "gem"
+        ],
+        "info": [
+          "inactive",
+          "unfinished"
+        ]
+      },
+      {
+        "name": "siresta",
+        "desc": "[TODO] siRESTa - declarative REST APIs",
+        "link": "https://github.com/obfusk/siresta",
+        "lang": [
+          "rb",
+          "gem"
+        ],
+        "info": [
+          "unfinished"
+        ],
+        "warn": [
+          "on-hold"
+        ]
+      },
+      {
+        "name": "trstools.py",
+        "desc": "trstools.py - python (2+3) term rewriting tools",
+        "link": "https://github.com/obfusk/trstools.py",
+        "lang": [
+          "py"
+        ],
+        "info": [
+          "inactive",
+          "unfinished"
+        ]
+      }
+    ]
+  }
+]

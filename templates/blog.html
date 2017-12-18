@@ -1,22 +1,36 @@
 {% extends "_base.html" %}
+{% macro post(date, title) %}
+  <div class="anchor" id="{{ anchor(title) }}"></div>
+  <div class="card m-y-2">
+    <div class="card-header">
+      <small class="text-muted float-right">[{{ date }}]</small>
+      <h4 class="mb-0">
+        <a href="#{{ anchor(title) }}">{{ title }}</a>
+      </h4>
+    </div>
+    <div class="card-body">
+      {% filter markdown %}{{ caller() }}{% endfilter %}
+    </div>
+  </div>
+  <br />
+{% endmacro %}
 {% block content %}
-{% filter markdown %}
+{% call post("2017-12-18", "A Repositories Page") %}
 
-{{ blog_header("2017-12-18", "Repositories & Gists") }}
-
-... TODO ...
+I just finished making a nice overview of my GitHub
+[repositories](/repos.html).
 
 \- Felix
 
-{{ blog_sep }}
-
-{{ blog_header("2017-12-18", 'A new "blog"') }}
+{% endcall %}
+{% call post("2017-12-18", 'A New "Blog"') %}
 
 ```python3
 print("Hello, Blog!")
 ```
 
-I reworked this site and rewrote the static HTML generator in Python a
+I reworked this site and rewrote the [static HTML
+generator](https://github.com/obfusk/obfusk.github.io) in Python a
 while back, but I finally got around to re-adding a blog part.
 
 I'm keeping it really simple for now: just a single page.  Most of my
@@ -28,5 +42,5 @@ For now, I got to play around with jinja2, markdown and pygments :)
 
 \- Felix
 
-{% endfilter %}
+{% endcall %}
 {% endblock %}
