@@ -38,7 +38,9 @@ master: clean build
 	./build.sh
 
 ci-test:
-	if [ "$$( git symbolic-ref HEAD )" != refs/heads/master ];
-	then make build && html5validator --root __html__/;
-	else html5validator --root ./;
+	if [ "$$( git symbolic-ref HEAD )" != refs/heads/master ]; \
+	then \
+	  make build && html5validator --root __html__/; \
+	else \
+	  html5validator --root ./; \
 	fi
