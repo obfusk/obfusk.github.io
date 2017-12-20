@@ -77,4 +77,4 @@ validate-html:
 	done
 
 ci-test: validate-css
-	$(H5VCMD) --root $(HTMLROOT)/
+	$(H5VCMD) --root $(HTMLROOT)/ --blacklist old
