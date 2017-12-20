@@ -2,7 +2,7 @@ SHELL := /bin/bash
 PY    := python3
 ME    := obfusk
 
-.PHONY: build clean serve master
+.PHONY: build clean serve master ci-test
 
 build: css/pygments.css data/gists.json data/repos.json
 	mkdir -p __html__
@@ -36,3 +36,9 @@ serve: build
 
 master: clean build
 	./build.sh
+
+ci-test:
+	if [ "$$( git symbolic-ref HEAD )" != refs/heads/master ];
+	then make build && html5validator --root __html__/;
+	else html5validator --root ./;
+	fi
