@@ -60,7 +60,7 @@ master: clean build
 validate: validate-css validate-html
 
 validate-css:
-	[ $(HTMLROOT) == __html__ ] && make build
+	[ $(HTMLROOT) != __html__ ] || make build
 	for file in $(HTMLROOT)/css/*.css; do \
 	  echo "$$file" | grep -q bootstrap && continue; \
 	  echo "validating $$file..."; \
@@ -69,7 +69,7 @@ validate-css:
 	done
 
 validate-html:
-	[ $(HTMLROOT) == __html__ ] && make build
+	[ $(HTMLROOT) != __html__ ] || make build
 	for file in $$( find $(HTMLROOT) -name '*.html' | sort ); do \
 	  echo "validating $$file..."; \
 	  curl -sF "file=@$$file;type=text/html" -- "$(HTMLV)" \
