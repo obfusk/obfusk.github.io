@@ -4,16 +4,26 @@ from datetime import date
 from jinja2   import Environment, FileSystemLoader, Markup, \
                      select_autoescape
 from markdown import Markdown
+from pathlib  import Path
 
 def anchor(t):
   return "a_" + "_".join( "".join( c for c in s if c.isalnum() )
                           for s in t.lower().split() )
 
+def blog_post(t):
+  head, body = t.split("\n---\n", 1)
+  info       = { k.strip(): v.strip() for k,v in ( l.split(":", 1)
+                 for l in head.splitlines() if l.strip() ) }
+  return dict(date = info["date"], title = info["title"], body = body)
+
 with open("data/repos.json") as f: repos = json.load(f)
 with open("data/gists.json") as f: gists = json.load(f)
 
-templates = "index blog repos".split()  # TODO: gists
-data      = dict(
+blog_posts    = [ blog_post(f.read_text())
+                  for f in sorted(Path("blog").glob("*.md"),
+                                  key = lambda f: f.name) ]
+templates     = "index blog repos".split()  # TODO: gists
+data          = dict(                       # TODO: declare in .json?
   title       = "/var/log/obfusk",
   tagline     = "hacking ⇒ ¬sleeping",
   name        = "Felix C. Stegerman",
@@ -29,6 +39,7 @@ data      = dict(
   anchor      = lambda t: Markup(anchor(t)),
   repos       = repos,
   gists       = gists,
+  blog_posts  = blog_posts,
 )
 
 md  = Markdown(output_format = "xhtml5",

@@ -1,46 +1,18 @@
 {% extends "_base.html" %}
-{% macro post(date, title) %}
-  <div class="anchor" id="{{ anchor(title) }}"></div>
-  <div class="card m-y-2">
-    <div class="card-header">
-      <small class="text-muted float-right">[{{ date }}]</small>
-      <h4 class="mb-0">
-        <a href="#{{ anchor(title) }}">{{ title }}</a>
-      </h4>
-    </div>
-    <div class="card-body">
-      {% filter markdown %}{{ caller() }}{% endfilter %}
-    </div>
-  </div>
-  <br />
-{% endmacro %}
 {% block content %}
-{% call post("2017-12-18", "A Repositories Page") %}
-
-I just finished making a nice overview of my GitHub
-[repositories](/repos.html).
-
-\- Felix
-
-{% endcall %}
-{% call post("2017-12-18", 'A New "Blog"') %}
-
-```python3
-print("Hello, Blog!")
-```
-
-I reworked this site and rewrote the [static HTML
-generator](https://github.com/obfusk/obfusk.github.io) in Python a
-while back, but I finally got around to re-adding a blog part.
-
-I'm keeping it really simple for now: just a single page.  Most of my
-entries will be pretty short probably, and if I want a longer piece I
-can just add a page and link to it from here.  That's the flexibility
-you get when you write everything yourself.
-
-For now, I got to play around with jinja2, markdown and pygments :)
-
-\- Felix
-
-{% endcall %}
+  {%- for p in blog_posts|reverse %}
+    <div class="anchor" id="{{ anchor(p.title) }}"></div>
+    <div class="card m-y-2">
+      <div class="card-header">
+        <small class="text-muted float-right">[{{ p.date }}]</small>
+        <h4 class="mb-0">
+          <a href="#{{ anchor(p.title) }}">{{ p.title }}</a>
+        </h4>
+      </div>
+      <div class="card-body">
+        {{ p.body|markdown }}
+      </div>
+    </div>
+    <br />
+  {%- endfor %}
 {% endblock %}
