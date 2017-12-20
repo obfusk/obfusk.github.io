@@ -52,6 +52,7 @@ validate: validate-css validate-html
 validate-css:
 	[ $(HTMLROOT) == __html__ ] && make build
 	for file in $(HTMLROOT)/css/*.css; do \
+	  echo "$$file" | grep -q bootstrap && continue; \
 	  echo "validating $$file..."; \
 	  curl -sF "file=@$$file;type=text/css" -- "$(CSSV)" \
 	    | grep -qF '$(CSSOK)' || exit 1; \

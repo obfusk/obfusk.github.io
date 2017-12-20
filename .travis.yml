@@ -8,7 +8,8 @@ addons:
 install: pip install html5validator Jinja2 Markdown Pygments
 script:
   if [ "${TRAVIS_PULL_REQUEST_BRANCH:-$TRAVIS_BRANCH}" == master ]; then
-    git show code:Makefile > Makefile
-    make ci-test ROOT=.
+    git show code:Makefile > Makefile;
+    make ci-test ROOT=.;
   else
-    make ci-test
+    make ci-test;
+  fi
