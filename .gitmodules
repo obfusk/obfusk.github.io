@@ -1,0 +1,3 @@
+[submodule "deps/gh.py"]
+	path = deps/gh.py
+	url = https://github.com/obfusk/gh.py.git

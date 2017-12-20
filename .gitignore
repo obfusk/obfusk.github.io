@@ -1,2 +1,4 @@
 /__html__
 /css/pygments.css
+
+*.pyc
