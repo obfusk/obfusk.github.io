@@ -45,7 +45,7 @@ serve: build
 	cd __html__ && $(PY) -m http.server 8888
 
 master: clean build
-	./build.sh
+	./build-master.sh
 
 validate: validate-css validate-html
 
