@@ -3,8 +3,8 @@ html, body {
 }
 
 body {
-  padding-top: 3.5rem;
-  margin: 1em;
+  padding-top:  3.5rem;
+  margin:       1rem;
 }
 
 #logo {
@@ -39,8 +39,17 @@ ul.raquo li:before {
   font-size: 70%;
 }
 
-h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-  color: inherit;
+.permalink {
+  visibility: hidden;
+}
+
+.permalink:hover {
+  color:            inherit !important;
+  text-decoration:  none;
+}
+
+.permalink:hover, *:hover > .permalink {
+  visibility: visible;
 }
 
 .anchor {
@@ -62,4 +71,8 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 
 .card-deck {
   margin: inherit;
+}
+
+.path-divider {
+  margin: 0 .25em;
 }
