@@ -6,7 +6,7 @@ script: |
   if [ "${TRAVIS_PULL_REQUEST_BRANCH:-$TRAVIS_BRANCH}" == master ]; then
     git fetch origin code:code
     git show code:Makefile > Makefile
-    make ci-test ROOT=.
+    make ci-test HTMLROOT=.
   else
     make ci-test
   fi
