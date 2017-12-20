@@ -26,7 +26,7 @@ data/gists.json: data/gh-gists.json
 	# TODO
 
 data/repos.json: data/gh-repos.json
-	./data/repos.py
+	$(PY) data/repos.py
 
 data/gh-gists.json:
 	$(PY) -m data.gh gists $(ME) > $@
