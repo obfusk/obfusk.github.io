@@ -1,8 +1,18 @@
-SHELL := /bin/bash
-PY    := python3
-ME    := obfusk
+SHELL     := /bin/bash
+PY        := python3
+ME        := obfusk
 
-.PHONY: build clean serve master ci-test
+HTMLROOT  ?= __html__
+
+CSSV      := https://jigsaw.w3.org/css-validator/validator
+CSSOK     := Congratulations! No Error Found.
+
+HTMLV     := https://html5.validator.nu
+HTMLOK    := The document is valid HTML5
+
+H5VCMD    := html5validator --show-warnings --log INFO
+
+.PHONY: build clean serve master validate validate-css validate-html ci-test
 
 build: css/pygments.css data/gists.json data/repos.json
 	mkdir -p __html__
@@ -37,10 +47,23 @@ serve: build
 master: clean build
 	./build.sh
 
-ci-test:
-	if [ "$$( git symbolic-ref HEAD )" != refs/heads/master ]; \
-	then \
-	  make build && html5validator --root __html__/; \
-	else \
-	  html5validator --root ./; \
-	fi
+validate: validate-css validate-html
+
+validate-css:
+	[ $(HTMLROOT) == __html__ ] && make build
+	for file in $(HTMLROOT)/css/*.css; do \
+	  echo "validating $$file..."; \
+	  curl -sF "file=@$$file;type=text/css" -- "$(CSSV)" \
+	    | grep -qF '$(CSSOK)' || exit 1; \
+	done
+
+validate-html:
+	[ $(HTMLROOT) == __html__ ] && make build
+	for file in $$( find $(HTMLROOT) -name '*.html' | sort ); do \
+	  echo "validating $$file..."; \
+	  curl -sF "file=@$$file;type=text/html" -- "$(HTMLV)" \
+	    | grep -qF '$(HTMLOK)' || exit 1; \
+	done
+
+ci-test: validate-css
+	$(H5VCMD) --root $(HTMLROOT)/

@@ -6,4 +6,9 @@ addons:
     packages:
     - oracle-java8-set-default
 install: pip install html5validator Jinja2 Markdown Pygments
-script: make ci-test
+script:
+  if [ "${TRAVIS_PULL_REQUEST_BRANCH:-$TRAVIS_BRANCH}" == master ]; then
+    git show code:Makefile > Makefile
+    make ci-test ROOT=.
+  else
+    make ci-test
