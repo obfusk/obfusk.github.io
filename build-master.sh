@@ -21,7 +21,7 @@ git status
 if [ -n "$( git status -s )" ]; then
   read -r -p 'continue [y/N]? '
   [[ "$REPLY" = [Yy]* ]] || exit 1
-  git commit -m 'updated by build.sh'
+  git commit -m 'updated by build-master.sh'
 fi
 
 git checkout code
