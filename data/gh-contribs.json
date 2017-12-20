@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Homebrew/legacy-homebrew",
+    "count": 3,
+    "contrib": true
+  },
+  {
+    "name": "ajaxorg/ace",
+    "count": 1,
+    "contrib": false
+  },
+  {
+    "name": "ansible/ansible",
+    "count": 1,
+    "contrib": false
+  },
+  {
+    "name": "ariya/phantomjs",
+    "count": 1,
+    "contrib": false
+  },
+  {
+    "name": "berkes/berkes.github.com",
+    "count": 1,
+    "contrib": false
+  },
+  {
+    "name": "bundler/bundler",
+    "count": 1,
+    "contrib": true
+  },
+  {
+    "name": "colszowka/phantomjs-gem",
+    "count": 1,
+    "contrib": false
+  },
+  {
+    "name": "comfy/comfortable-mexican-sofa",
+    "count": 3,
+    "contrib": true
+  },
+  {
+    "name": "github/government.github.com",
+    "count": 1,
+    "contrib": false
+  },
+  {
+    "name": "gitlabhq/gitlabhq",
+    "count": 1,
+    "contrib": false
+  },
+  {
+    "name": "gnab/remark",
+    "count": 1,
+    "contrib": true
+  },
+  {
+    "name": "hankache/perl6intro",
+    "count": 1,
+    "contrib": true
+  },
+  {
+    "name": "hashicorp/vagrant",
+    "count": 6,
+    "contrib": true
+  },
+  {
+    "name": "i3/i3",
+    "count": 3,
+    "contrib": true
+  },
+  {
+    "name": "ibdknox/waltz",
+    "count": 1,
+    "contrib": false
+  },
+  {
+    "name": "jashkenas/docco",
+    "count": 2,
+    "contrib": false
+  },
+  {
+    "name": "ninjudd/drip",
+    "count": 1,
+    "contrib": false
+  },
+  {
+    "name": "open-uri-redirections/open_uri_redirections",
+    "count": 3,
+    "contrib": true
+  },
+  {
+    "name": "rack/rack",
+    "count": 2,
+    "contrib": true
+  },
+  {
+    "name": "resume/resume.github.com",
+    "count": 1,
+    "contrib": false
+  },
+  {
+    "name": "rubinius/rubinius",
+    "count": 1,
+    "contrib": false
+  },
+  {
+    "name": "rvm/rvm-site",
+    "count": 1,
+    "contrib": true
+  },
+  {
+    "name": "sbt/sbt",
+    "count": 1,
+    "contrib": false
+  },
+  {
+    "name": "sstephenson/sprockets",
+    "count": 2,
+    "contrib": true
+  },
+  {
+    "name": "teampoltergeist/poltergeist",
+    "count": 1,
+    "contrib": false
+  },
+  {
+    "name": "thoughtbot/capybara-webkit",
+    "count": 1,
+    "contrib": false
+  }
+]

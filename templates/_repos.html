@@ -1,0 +1,54 @@
+{%- macro repository(repo) %}
+  <!-- repository -->
+  <div class="col-md-6 col-lg-4 card-deck">
+    <div class="card m-1">
+      <div class="card-body">
+        <h5 class="card-title">
+          <a href="{{ repo.link }}">
+            {%- for elem in repo.name.split("/") %}
+              {{- elem }}
+              {%- if not loop.last -%}
+                <wbr/><span class="path-divider">/</span><wbr/>
+              {%- endif %}
+            {%- endfor -%}
+          </a>
+        </h5>
+        <h6 class="card-subtitle mb-2">{{ repo.desc }}</h6>
+      </div>
+      {%- if repo.lang or repo.info or repo.warn %}
+        <div class="card-footer">
+          {%- for x in repo.lang %}
+            <span class="badge badge-primary">{{ x }}</span>
+          {%- endfor %}
+          {%- for x in repo.info %}
+            <span class="badge badge-secondary">{{ x }}</span>
+          {%- endfor %}
+          {%- for x in repo.warn %}
+            <span class="badge badge-warning">{{ x }}</span>
+          {%- endfor %}
+        </div>
+      {%- endif %}
+    </div>
+  </div>
+  <!-- /repository -->
+{%- endmacro %}
+{%- macro repository_group(group) %}
+  <!-- repository_group -->
+  <div class="anchor" id="{{ anchor(group.title) }}"></div>
+  <div class="card">
+    <h4 class="card-header">
+      {{ group.title }}
+      <a href="#{{ anchor(group.title) }}"
+         class="permalink text-muted"
+         title="Permalink to this group">¶</a>
+    </h4>
+    <div class="card-body">
+      <div class="row no-gutters">
+        {%- for repo in group.elems %}
+          {{- repository(repo) }}
+        {%- endfor %}
+      </div>
+    </div>
+  </div>
+  <!-- /repository_group -->
+{%- endmacro %}

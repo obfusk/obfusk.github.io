@@ -6,7 +6,10 @@
       <div class="card-header">
         <small class="text-muted float-right">[{{ p.date }}]</small>
         <h4 class="mb-0">
-          <a href="#{{ anchor(p.title) }}">{{ p.title }}</a>
+          {{ p.title }}
+          <a href="#{{ anchor(p.title) }}"
+             class="permalink text-muted"
+             title="Permalink to this post">¶</a>
         </h4>
       </div>
       <div class="card-body">

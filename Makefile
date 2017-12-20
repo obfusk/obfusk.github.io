@@ -12,9 +12,11 @@ HTMLOK    := The document is valid HTML5
 
 H5VCMD    := html5validator --show-warnings --log INFO
 
-.PHONY: build clean serve master validate validate-css validate-html ci-test
+.PHONY: build clean serve master validate validate-css validate-html \
+        ci-test
 
-build: css/pygments.css data/gists.json data/repos.json
+build: css/pygments.css data/repos.json data/gists.json \
+       data/contribs.json
 	mkdir -p __html__
 	$(PY) build.py
 	cp -av css img js __html__/
@@ -22,17 +24,25 @@ build: css/pygments.css data/gists.json data/repos.json
 css/pygments.css:
 	pygmentize -S friendly -f html -a .codehilite > $@
 
+data/repos.json: data/gh-repos.json data/repos-blacklist.json \
+                 data/repos-cats.json data/repos-tags.json
+	$(PY) -m data.repos
+
 data/gists.json: data/gh-gists.json
 	# TODO
 
-data/repos.json: data/gh-repos.json
-	$(PY) data/repos.py
+data/contribs.json: data/gh-contribs.json data/gh-contribs-add.json \
+                    data/contribs-blacklist.json
+	$(PY) -m data.contribs
+
+data/gh-repos.json:
+	$(PY) -m data.gh repos $(ME) > $@
 
 data/gh-gists.json:
 	$(PY) -m data.gh gists $(ME) > $@
 
-data/gh-repos.json:
-	$(PY) -m data.gh repos $(ME) > $@
+data/gh-contribs.json:
+	$(PY) -m data.gh contribs $(ME) > $@
 
 clean:
 	find -name '*~' -delete -print

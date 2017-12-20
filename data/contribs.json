@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Direct Contributions",
+    "elems": [
+      {
+        "name": "Homebrew/legacy-homebrew",
+        "link": "https://github.com/Homebrew/legacy-homebrew",
+        "desc": ":skull: The former home of Homebrew/homebrew (deprecated)"
+      },
+      {
+        "name": "bundler/bundler",
+        "link": "https://github.com/bundler/bundler",
+        "desc": "Manage your Ruby application's gem dependencies"
+      },
+      {
+        "name": "comfy/comfortable-mexican-sofa",
+        "link": "https://github.com/comfy/comfortable-mexican-sofa",
+        "desc": "ComfortableMexicanSofa is a powerful Rails 5.2+ CMS (Content Management System) Engine"
+      },
+      {
+        "name": "gnab/remark",
+        "link": "https://github.com/gnab/remark",
+        "desc": "A simple, in-browser, markdown-driven slideshow tool."
+      },
+      {
+        "name": "hankache/perl6intro",
+        "link": "https://github.com/hankache/perl6intro",
+        "desc": "Perl 6 Introduction"
+      },
+      {
+        "name": "hashicorp/vagrant",
+        "link": "https://github.com/hashicorp/vagrant",
+        "desc": "Vagrant is a tool for building and distributing development environments."
+      },
+      {
+        "name": "i3/i3",
+        "link": "https://github.com/i3/i3",
+        "desc": "A tiling window manager"
+      },
+      {
+        "name": "losingkeys/vim-niji",
+        "link": "https://github.com/losingkeys/vim-niji",
+        "desc": "Yet another rainbow parentheses plugin."
+      },
+      {
+        "name": "open-uri-redirections/open_uri_redirections",
+        "link": "https://github.com/open-uri-redirections/open_uri_redirections",
+        "desc": "OpenURI patch to allow redirections between HTTP and HTTPS"
+      },
+      {
+        "name": "rack/rack",
+        "link": "https://github.com/rack/rack",
+        "desc": "a modular Ruby webserver interface"
+      },
+      {
+        "name": "rvm/rvm-site",
+        "link": "https://github.com/rvm/rvm-site",
+        "desc": "RVM website and documentation"
+      },
+      {
+        "name": "sinatra/sinatra",
+        "link": "https://github.com/sinatra/sinatra",
+        "desc": "Classy web-development dressed in a DSL (official / canonical repo)"
+      },
+      {
+        "name": "sstephenson/sprockets",
+        "link": "https://github.com/sstephenson/sprockets",
+        "desc": "Rack-based asset packaging system"
+      }
+    ]
+  },
+  {
+    "title": "Indirect Contributions (e.g. Issues)",
+    "elems": [
+      {
+        "name": "gitlabhq/gitlabhq",
+        "link": "https://github.com/gitlabhq/gitlabhq",
+        "desc": "GitLab CE | Please open new issues in our issue tracker on GitLab.com"
+      },
+      {
+        "name": "jashkenas/docco",
+        "link": "https://github.com/jashkenas/docco",
+        "desc": "Literate Programming can be Quick and Dirty."
+      },
+      {
+        "name": "resume/resume.github.com",
+        "link": "https://github.com/resume/resume.github.com",
+        "desc": "Resumes generated using the GitHub informations"
+      },
+      {
+        "name": "rubinius/rubinius",
+        "link": "https://github.com/rubinius/rubinius",
+        "desc": "The Rubinius Language Platform"
+      },
+      {
+        "name": "sbt/sbt",
+        "link": "https://github.com/sbt/sbt",
+        "desc": "sbt, the interactive build tool"
+      }
+    ]
+  }
+]

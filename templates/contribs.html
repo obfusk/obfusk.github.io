@@ -1,0 +1,8 @@
+{% extends "_base.html" %}
+{% from "_repos.html" import repository_group %}
+{% block content %}
+  {%- for group in contribs %}
+    {{- repository_group(group) }}
+    <br />
+  {%- endfor %}
+{% endblock %}

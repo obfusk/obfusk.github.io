@@ -39,7 +39,8 @@ GH_PRE = "https://github.com/obfusk/"
 if __name__ == "__main__":
   with open("data/gh-repos.json") as f:
     gh_repos = json.load(f)
-  assert all( r["link"] == GH_PRE + r["name"] for r in gh_repos )
+  gh_repos.sort(key = lambda x: x["name"])
+  assert all( x["link"] == GH_PRE + x["name"] for x in gh_repos )
   repos = list(repositories(gh_repos))
   with open("data/repos.json", "w") as f:
     json.dump(repos, f, indent = 2); f.write("\n")
