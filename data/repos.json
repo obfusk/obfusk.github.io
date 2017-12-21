@@ -140,7 +140,10 @@
       {
         "name": "obfusk.github.io",
         "desc": "obfusk.github.io - /var/log/obfusk - hacking \u21d2 \u00acsleeping",
-        "link": "https://github.com/obfusk/obfusk.github.io"
+        "link": "https://github.com/obfusk/obfusk.github.io",
+        "lang": [
+          "py"
+        ]
       }
     ]
   },
@@ -324,6 +327,14 @@
         "name": "netcat.py",
         "desc": "netcat.py - python (2+3) netcat",
         "link": "https://github.com/obfusk/netcat.py",
+        "lang": [
+          "py"
+        ]
+      },
+      {
+        "name": "obfusk.github.io",
+        "desc": "obfusk.github.io - /var/log/obfusk - hacking \u21d2 \u00acsleeping",
+        "link": "https://github.com/obfusk/obfusk.github.io",
         "lang": [
           "py"
         ]
@@ -566,6 +577,15 @@
         ],
         "warn": [
           "on-hold"
+        ]
+      },
+      {
+        "name": "webrtc-xftv",
+        "desc": "webrtc-xftv - record video+audio with webrtc/xftv/recorderjs",
+        "link": "https://github.com/obfusk/webrtc-xftv",
+        "lang": [
+          "js",
+          "rb"
         ]
       }
     ]
@@ -857,6 +877,21 @@
         ]
       },
       {
+        "name": "fnjs",
+        "desc": "[TODO, ONHOLD] fnjs - functional javascript",
+        "link": "https://github.com/obfusk/fnjs",
+        "lang": [
+          "clj",
+          "js"
+        ],
+        "info": [
+          "unfinished"
+        ],
+        "warn": [
+          "on-hold"
+        ]
+      },
+      {
         "name": "obfusk.coffee",
         "desc": "[TODO] obfusk.coffee - functional programming library for js/coffee",
         "link": "https://github.com/obfusk/obfusk.coffee",
@@ -956,6 +991,126 @@
         "link": "https://github.com/obfusk/sokobang",
         "lang": [
           "js"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Web",
+    "elems": [
+      {
+        "name": "achatwithsinatra",
+        "desc": "achatwithsinatra - a simple sinatra chat app",
+        "link": "https://github.com/obfusk/achatwithsinatra",
+        "lang": [
+          "rb"
+        ]
+      },
+      {
+        "name": "bigbang-examples",
+        "desc": "bigbang-examples - bigbang.coffee examples",
+        "link": "https://github.com/obfusk/bigbang-examples",
+        "lang": [
+          "js"
+        ]
+      },
+      {
+        "name": "bigbang-snake",
+        "desc": "bigbang-snake - snake game w/ bigbang.coffee",
+        "link": "https://github.com/obfusk/bigbang-snake",
+        "lang": [
+          "js"
+        ]
+      },
+      {
+        "name": "bigbang.coffee",
+        "desc": "bigbang.coffee - graphical/evented functional programming for js/coffee",
+        "link": "https://github.com/obfusk/bigbang.coffee",
+        "lang": [
+          "js"
+        ],
+        "info": [
+          "inactive"
+        ]
+      },
+      {
+        "name": "httpony",
+        "desc": "HTTPony - HTTP server/client/dsl",
+        "link": "https://github.com/obfusk/httpony",
+        "lang": [
+          "py"
+        ]
+      },
+      {
+        "name": "localconfig-rails-example",
+        "desc": "localconfig example w/ rails",
+        "link": "https://github.com/obfusk/localconfig-rails-example",
+        "lang": [
+          "rb"
+        ],
+        "info": [
+          "inactive"
+        ]
+      },
+      {
+        "name": "obfusk.github.io",
+        "desc": "obfusk.github.io - /var/log/obfusk - hacking \u21d2 \u00acsleeping",
+        "link": "https://github.com/obfusk/obfusk.github.io",
+        "lang": [
+          "py"
+        ]
+      },
+      {
+        "name": "open_uri_w_redirect_to_https",
+        "desc": "open_uri_w_redirect_to_https - open-uri HTTP to HTTPS redirect support patch",
+        "link": "https://github.com/obfusk/open_uri_w_redirect_to_https",
+        "lang": [
+          "rb",
+          "gem"
+        ]
+      },
+      {
+        "name": "rb-localconfig",
+        "desc": "[rb-]localconfig - local configuration for ruby (web) apps",
+        "link": "https://github.com/obfusk/rb-localconfig",
+        "lang": [
+          "rb",
+          "gem"
+        ],
+        "info": [
+          "inactive"
+        ]
+      },
+      {
+        "name": "siresta",
+        "desc": "[TODO] siRESTa - declarative REST APIs",
+        "link": "https://github.com/obfusk/siresta",
+        "lang": [
+          "rb",
+          "gem"
+        ],
+        "info": [
+          "unfinished"
+        ],
+        "warn": [
+          "on-hold"
+        ]
+      },
+      {
+        "name": "sokobang",
+        "desc": "sokobang - sokoban puzzle w/ bigbang.coffee",
+        "link": "https://github.com/obfusk/sokobang",
+        "lang": [
+          "js"
+        ]
+      },
+      {
+        "name": "webrtc-xftv",
+        "desc": "webrtc-xftv - record video+audio with webrtc/xftv/recorderjs",
+        "link": "https://github.com/obfusk/webrtc-xftv",
+        "lang": [
+          "js",
+          "rb"
         ]
       }
     ]
@@ -1121,6 +1276,18 @@
     "title": "Miscellaneous",
     "elems": [
       {
+        "name": "algorithms.cpp",
+        "desc": "algorithms.cpp - implementations of standard algorithms in C++",
+        "link": "https://github.com/obfusk/algorithms.cpp",
+        "lang": [
+          "cpp"
+        ],
+        "info": [
+          "inactive",
+          "unfinished"
+        ]
+      },
+      {
         "name": "dev-misc",
         "desc": "scripts + *rc",
         "link": "https://github.com/obfusk/dev-misc"
@@ -1144,11 +1311,6 @@
         "name": "mail-config",
         "desc": "my mutt + isync config",
         "link": "https://github.com/obfusk/mail-config"
-      },
-      {
-        "name": "obfusk.github.io",
-        "desc": "obfusk.github.io - /var/log/obfusk - hacking \u21d2 \u00acsleeping",
-        "link": "https://github.com/obfusk/obfusk.github.io"
       },
       {
         "name": "phonegap-android-coffee-haml",
@@ -1179,14 +1341,12 @@
         "link": "https://github.com/obfusk/simple-stack-exploit"
       },
       {
-        "name": "webrtc-xftv",
-        "desc": "webrtc-xftv - record video+audio with webrtc/xftv/recorderjs",
-        "link": "https://github.com/obfusk/webrtc-xftv"
-      },
-      {
         "name": "xuggle-frames-to-video",
         "desc": "xuggle-frames-to-video (xftv) - turn a stream of frame+timestamp into a video - useful for webrtc",
-        "link": "https://github.com/obfusk/xuggle-frames-to-video"
+        "link": "https://github.com/obfusk/xuggle-frames-to-video",
+        "lang": [
+          "clj"
+        ]
       }
     ]
   },
@@ -1353,152 +1513,6 @@
         ],
         "warn": [
           "on-hold"
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Unfinished",
-    "elems": [
-      {
-        "name": "algorithms.cpp",
-        "desc": "algorithms.cpp - implementations of standard algorithms in C++",
-        "link": "https://github.com/obfusk/algorithms.cpp",
-        "lang": [
-          "cpp"
-        ],
-        "info": [
-          "inactive",
-          "unfinished"
-        ]
-      },
-      {
-        "name": "clj-obfusk-data",
-        "desc": "[clj-]obfusk-data - data validation combinator library for clojure",
-        "link": "https://github.com/obfusk/clj-obfusk-data",
-        "lang": [
-          "clj"
-        ],
-        "info": [
-          "inactive",
-          "unfinished"
-        ]
-      },
-      {
-        "name": "fnjs",
-        "desc": "[TODO, ONHOLD] fnjs - functional javascript",
-        "link": "https://github.com/obfusk/fnjs",
-        "lang": [
-          "clj",
-          "js"
-        ],
-        "info": [
-          "unfinished"
-        ],
-        "warn": [
-          "on-hold"
-        ]
-      },
-      {
-        "name": "keep-it-private",
-        "desc": "[TODO] keep-it-private - privacy/crypto presentations",
-        "link": "https://github.com/obfusk/keep-it-private",
-        "info": [
-          "unfinished"
-        ],
-        "warn": [
-          "on-hold"
-        ]
-      },
-      {
-        "name": "obfusk.coffee",
-        "desc": "[TODO] obfusk.coffee - functional programming library for js/coffee",
-        "link": "https://github.com/obfusk/obfusk.coffee",
-        "lang": [
-          "js"
-        ],
-        "info": [
-          "inactive",
-          "unfinished"
-        ]
-      },
-      {
-        "name": "obfusk.py",
-        "desc": "obfusk.py - functional programming (& other tools) library for python (2+3)",
-        "link": "https://github.com/obfusk/obfusk.py",
-        "lang": [
-          "py",
-          "pypi"
-        ],
-        "info": [
-          "inactive",
-          "unfinished"
-        ]
-      },
-      {
-        "name": "obfusk.rb",
-        "desc": "obfusk.rb - functional programming library for ruby",
-        "link": "https://github.com/obfusk/obfusk.rb",
-        "lang": [
-          "rb",
-          "gem"
-        ],
-        "info": [
-          "inactive",
-          "unfinished"
-        ]
-      },
-      {
-        "name": "rb-obfusk-data",
-        "desc": "[rb-]obfusk-data - data validation combinator library for ruby",
-        "link": "https://github.com/obfusk/rb-obfusk-data",
-        "lang": [
-          "rb",
-          "gem"
-        ],
-        "info": [
-          "inactive",
-          "unfinished"
-        ]
-      },
-      {
-        "name": "rb-obfusk-util",
-        "desc": "[rb-]obfusk-util - miscellaneous utility library for ruby",
-        "link": "https://github.com/obfusk/rb-obfusk-util",
-        "lang": [
-          "rb",
-          "gem"
-        ],
-        "info": [
-          "inactive",
-          "unfinished"
-        ]
-      },
-      {
-        "name": "siresta",
-        "desc": "[TODO] siRESTa - declarative REST APIs",
-        "link": "https://github.com/obfusk/siresta",
-        "lang": [
-          "rb",
-          "gem"
-        ],
-        "info": [
-          "unfinished"
-        ],
-        "warn": [
-          "on-hold"
-        ]
-      },
-      {
-        "name": "trstools.py",
-        "desc": "trstools.py - python (2+3) term rewriting tools",
-        "link": "https://github.com/obfusk/trstools.py",
-        "lang": [
-          "py"
-        ],
-        "info": [
-          "inactive",
-          "unfinished"
         ]
       }
     ]

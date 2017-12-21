@@ -10,15 +10,20 @@ with open("data/repos-tags.json") as f:
 with open("data/repos-blacklist.json") as f:
   blacklist = set(json.load(f))
 
+non_cat_tags  = set("clj cpp gem inactive js on-hold pypi " \
+                    "unfinished uni wip".split())
+unused_tags   = set("uni".split())
+keys          = "name desc link lang info warn".split()
+badges        = dict(lang = "clj cpp js py rb sh gem pypi".split(),
+                     info = "inactive unfinished".split(),
+                     warn = "on-hold wip".split())
+
+assert non_cat_tags & set(cats) == set()
 assert all( any( c in v for c in cats ) for v in tags.values() )
-
-# non-category tags: clj cpp gem inactive js on-hold pypi uni wip
-# unused tags: uni
-
-keys    = "name desc link lang info warn".split()
-badges  = dict(lang = "clj cpp js py rb sh gem pypi".split(),
-               info = "inactive unfinished".split(),
-               warn = "on-hold wip".split())
+assert all( t in cats or t in non_cat_tags
+            for v in tags.values() for t in v )
+assert (non_cat_tags - unused_tags) <= \
+       set( t for ts in badges.values() for t in ts )
 
 def repositories(repos):
   data = { x["name"]: OrderedDict( (k,x[k]) for k in keys if k in x )
