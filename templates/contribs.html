@@ -1,5 +1,5 @@
 {% extends "_base.html" %}
-{% from "_repos.html" import repository_group %}
+{% from "_macros.html" import repository_group %}
 {% block content %}
   {%- for group in contribs %}
     {{- repository_group(group) }}

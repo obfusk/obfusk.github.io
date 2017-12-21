@@ -56,8 +56,7 @@ ul.raquo li:before {
 }
 
 .permalink:hover {
-  color:            inherit !important;
-  text-decoration:  none;
+  text-decoration: none;
 }
 
 .permalink:hover, *:hover > .permalink {

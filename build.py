@@ -9,7 +9,7 @@ from jinja2       import Environment, FileSystemLoader, Markup, \
 from markdown     import Markdown
 from pathlib      import Path
 
-def anchor(t):
+def anchor_id(t):
   return "a_" + "_".join( "".join( c for c in s if c.isalnum() )
                           for s in t.lower().split() )
 
@@ -49,12 +49,12 @@ data          = dict(                               # TODO: .json?
   blog_posts  = blog_posts,
 )
 
-md  = Markdown(output_format = "xhtml5",
-               extensions = "extra codehilite".split())
-env = Environment(loader = FileSystemLoader("templates"),
-                  autoescape = select_autoescape())
-env.filters["markdown"] = lambda s: Markup(md.convert(s))
-env.globals["anchor"]   = lambda t: Markup(anchor(t))
+md  = Markdown(output_format  = "xhtml5",
+               extensions     = "extra codehilite".split())
+env = Environment(loader      = FileSystemLoader("templates"),
+                  autoescape  = select_autoescape())
+env.filters["markdown"]       = lambda s: Markup(md.convert(s))
+env.globals["anchor_id"]      = lambda t: Markup(anchor_id(t))
 
 for t in templates:
   print("building {}.html ...".format(t))

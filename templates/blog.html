@@ -1,21 +1,20 @@
 {% extends "_base.html" %}
+{% from "_macros.html" import anchor, anchor_link %}
 {% block content %}
   {%- for p in blog_posts|reverse %}
-    <div class="anchor" id="{{ anchor(p.title) }}"></div>
-    <div class="card m-y-2">
+    {{- anchor(p.title) }}
+    <article class="card m-y-2">
       <div class="card-header">
         <small class="text-muted float-right">[{{ p.date }}]</small>
         <h5 class="mb-0">
           {{ p.title }}
-          <a href="#{{ anchor(p.title) }}"
-             class="permalink text-muted"
-             title="Permalink to this post">¶</a>
+          {{- anchor_link(p.title) }}
         </h5>
       </div>
       <div class="card-body">
         {{ p.body|markdown }}
       </div>
-    </div>
+    </article>
     <br />
   {%- endfor %}
 {% endblock %}

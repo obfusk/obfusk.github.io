@@ -1,5 +1,5 @@
 {% extends "_base.html" %}
-{% from "_repos.html" import repository_group %}
+{% from "_macros.html" import repository_group %}
 {% block content %}
   <div class="alert alert-info">
     See also my
@@ -10,7 +10,7 @@
     <div class="row">
       {%- for group in repos %}
         <div class="col-md-6 col-lg-4 col-xl-3">
-          &rarr; <a href="#{{ anchor(group.title) }}">{{ group.title }}</a>
+          &rarr; <a href="#{{ anchor_id(group.title) }}">{{ group.title }}</a>
         </div>
       {%- endfor %}
     </div>

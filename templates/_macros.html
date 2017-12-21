@@ -1,7 +1,14 @@
+{%- macro anchor(title) %}
+  <div class="anchor" id="{{ anchor_id(title) }}"></div>
+{%- endmacro %}
+{%- macro anchor_link(title, what = "post") %}
+  <a href="#{{ anchor_id(title) }}" class="permalink"
+     title="Permalink to this {{ what }}">#</a>
+{%- endmacro %}
 {%- macro repository(repo) %}
   <!-- repository -->
   <div class="col-md-6 col-lg-4 card-deck">
-    <div class="card m-1">
+    <section class="card m-1">
       <div class="card-body">
         <h6 class="card-title">
           <a href="{{ repo.link }}">
@@ -28,13 +35,13 @@
           {%- endfor %}
         </div>
       {%- endif %}
-    </div>
+    </section>
   </div>
   <!-- /repository -->
 {%- endmacro %}
 {%- macro repository_group(group) %}
   <!-- repository_group -->
-  <div class="anchor" id="{{ anchor(group.title) }}"></div>
+  {{- anchor(group.title) }}
   <div class="card">
     <h5 class="card-header">
       {%- set t, st = (group.title.split("|") + [""])[:2] %}
@@ -42,9 +49,7 @@
       {%- if st|trim %}
       <small class="text-muted">{{ st|trim }}</small>
       {%- endif %}
-      <a href="#{{ anchor(group.title) }}"
-         class="permalink text-muted"
-         title="Permalink to this group">¶</a>
+      {{- anchor_link(group.title, "group") }}
     </h5>
     <div class="card-body">
       <div class="row no-gutters">
