@@ -5,7 +5,7 @@ set -ex
 git checkout master
 
 rsync_cmd=(
-  rsync -av --delete __html__/ ./
+  rsync -av -c --delete __html__/ ./
     --exclude=.git --exclude='*~' --exclude=/__html__ --exclude=/old
     --exclude=/.gitignore --exclude=/.nojekyll --exclude=/CNAME
     --exclude=/deps
