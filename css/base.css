@@ -1,10 +1,27 @@
-html, body {
-  font-family: "DejaVu Sans", sans-serif;
+html {
+  font-size: .9rem;
+}
+
+@media (max-width: 767px) {
+  html {
+    font-size: .85rem;
+  }
+}
+
+/* NB: update when updating bootstrap */
+html, body, .tooltip, .popover {
+  font-family:  "DejaVu Sans", -apple-system, BlinkMacSystemFont,
+                "Segoe UI", Roboto, "Helvetica Neue", Arial,
+                sans-serif;
 }
 
 body {
   padding-top:  3.5rem;
   margin:       1rem;
+}
+
+.h6, h6 {
+  font-size: 1.1rem;
 }
 
 #logo {
@@ -27,16 +44,11 @@ ul.raquo li:before {
 }
 
 .jap {
-  font-family:  ipaexgothic, ipagothic, ipaexmincho, ipamincho,
-                sans-serif;
+  font-family: ipaexgothic, ipagothic, sans-serif;
 }
 
 .nowrap {
   display: inline-block;
-}
-
-.smaller {
-  font-size: 70%;
 }
 
 .permalink {

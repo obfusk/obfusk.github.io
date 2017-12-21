@@ -21,7 +21,7 @@ def contributions(contribs):
   direct    = [ info(c) for c in contribs_ if c["contrib"] ]
   indirect  = [ info(c) for c in contribs_ if not c["contrib"] ]
   return [cat("Direct Contributions", direct),
-          cat("Indirect Contributions (e.g. Issues)", indirect)]
+          cat("Indirect Contributions | (e.g. Issues)", indirect)]
 
 if __name__ == "__main__":
   with open("data/gh-contribs.json") as f:

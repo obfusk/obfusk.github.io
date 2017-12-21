@@ -5,12 +5,12 @@
     <div class="card m-y-2">
       <div class="card-header">
         <small class="text-muted float-right">[{{ p.date }}]</small>
-        <h4 class="mb-0">
+        <h5 class="mb-0">
           {{ p.title }}
           <a href="#{{ anchor(p.title) }}"
              class="permalink text-muted"
              title="Permalink to this post">¶</a>
-        </h4>
+        </h5>
       </div>
       <div class="card-body">
         {{ p.body|markdown }}

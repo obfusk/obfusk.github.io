@@ -3,7 +3,7 @@
   <div class="col-md-6 col-lg-4 card-deck">
     <div class="card m-1">
       <div class="card-body">
-        <h5 class="card-title">
+        <h6 class="card-title">
           <a href="{{ repo.link }}">
             {%- for elem in repo.name.split("/") %}
               {{- elem }}
@@ -12,8 +12,8 @@
               {%- endif %}
             {%- endfor -%}
           </a>
-        </h5>
-        <h6 class="card-subtitle mb-2">{{ repo.desc }}</h6>
+        </h6>
+        <p class="card-text">{{ repo.desc }}</p>
       </div>
       {%- if repo.lang or repo.info or repo.warn %}
         <div class="card-footer">
@@ -36,12 +36,16 @@
   <!-- repository_group -->
   <div class="anchor" id="{{ anchor(group.title) }}"></div>
   <div class="card">
-    <h4 class="card-header">
-      {{ group.title }}
+    <h5 class="card-header">
+      {%- set t, st = (group.title.split("|") + [""])[:2] %}
+      {{ t|trim }}
+      {%- if st|trim %}
+      <small class="text-muted">{{ st|trim }}</small>
+      {%- endif %}
       <a href="#{{ anchor(group.title) }}"
          class="permalink text-muted"
          title="Permalink to this group">¶</a>
-    </h4>
+    </h5>
     <div class="card-body">
       <div class="row no-gutters">
         {%- for repo in group.elems %}

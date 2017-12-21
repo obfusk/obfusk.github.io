@@ -70,7 +70,7 @@
     ]
   },
   {
-    "title": "Indirect Contributions (e.g. Issues)",
+    "title": "Indirect Contributions | (e.g. Issues)",
     "elems": [
       {
         "name": "gitlabhq/gitlabhq",
