@@ -45,11 +45,6 @@
     "contrib": false
   },
   {
-    "name": "gitlabhq/gitlabhq",
-    "count": 1,
-    "contrib": false
-  },
-  {
     "name": "gnab/remark",
     "count": 1,
     "contrib": true
@@ -87,7 +82,7 @@
   {
     "name": "open-uri-redirections/open_uri_redirections",
     "count": 3,
-    "contrib": true
+    "contrib": false
   },
   {
     "name": "rack/rack",

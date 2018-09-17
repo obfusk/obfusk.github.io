@@ -90,11 +90,6 @@
     "link": "https://github.com/obfusk/bigbang.coffee"
   },
   {
-    "name": "bthesis",
-    "desc": null,
-    "link": "https://github.com/obfusk/bthesis"
-  },
-  {
     "name": "buffer-overflows-101",
     "desc": "buffer overflows presentation",
     "link": "https://github.com/obfusk/buffer-overflows-101"
@@ -113,11 +108,6 @@
     "name": "clj-obfusk-data",
     "desc": "[clj-]obfusk-data - data validation combinator library for clojure",
     "link": "https://github.com/obfusk/clj-obfusk-data"
-  },
-  {
-    "name": "clj.rkt",
-    "desc": "clj.rkt - TODO",
-    "link": "https://github.com/obfusk/clj.rkt"
   },
   {
     "name": "comfortable-mexican-sofa",
@@ -235,6 +225,11 @@
     "link": "https://github.com/obfusk/gastcollege_avans_20150313"
   },
   {
+    "name": "gh.py",
+    "desc": null,
+    "link": "https://github.com/obfusk/gh.py"
+  },
+  {
     "name": "git-boot",
     "desc": "[OLD] git-boot - git meta-projects",
     "link": "https://github.com/obfusk/git-boot"
@@ -313,6 +308,11 @@
     "name": "m",
     "desc": "m - minimalistic media manager",
     "link": "https://github.com/obfusk/m"
+  },
+  {
+    "name": "m-gui",
+    "desc": "m - minimalistic media manager - GUI",
+    "link": "https://github.com/obfusk/m-gui"
   },
   {
     "name": "mail-config",
@@ -510,9 +510,24 @@
     "link": "https://github.com/obfusk/play-galgje"
   },
   {
+    "name": "playing-with-clojure",
+    "desc": null,
+    "link": "https://github.com/obfusk/playing-with-clojure"
+  },
+  {
+    "name": "playing-with-elixir",
+    "desc": null,
+    "link": "https://github.com/obfusk/playing-with-elixir"
+  },
+  {
     "name": "playing-with-factor",
     "desc": null,
     "link": "https://github.com/obfusk/playing-with-factor"
+  },
+  {
+    "name": "playing-with-haskell",
+    "desc": null,
+    "link": "https://github.com/obfusk/playing-with-haskell"
   },
   {
     "name": "pp-gitolite",

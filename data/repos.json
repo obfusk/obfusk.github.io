@@ -75,6 +75,15 @@
         ]
       },
       {
+        "name": "m-gui",
+        "desc": "m - minimalistic media manager - GUI",
+        "link": "https://github.com/obfusk/m-gui",
+        "lang": [
+          "py",
+          "pypi"
+        ]
+      },
+      {
         "name": "mail-config",
         "desc": "my mutt + isync config",
         "link": "https://github.com/obfusk/mail-config"
@@ -118,17 +127,6 @@
     "title": "Latest",
     "elems": [
       {
-        "name": "koneko",
-        "desc": "koneko - ...",
-        "link": "https://github.com/obfusk/koneko",
-        "lang": [
-          "py"
-        ],
-        "warn": [
-          "wip"
-        ]
-      },
-      {
         "name": "m",
         "desc": "m - minimalistic media manager",
         "link": "https://github.com/obfusk/m",
@@ -138,11 +136,12 @@
         ]
       },
       {
-        "name": "obfusk.github.io",
-        "desc": "obfusk.github.io - /var/log/obfusk - hacking \u21d2 \u00acsleeping",
-        "link": "https://github.com/obfusk/obfusk.github.io",
+        "name": "m-gui",
+        "desc": "m - minimalistic media manager - GUI",
+        "link": "https://github.com/obfusk/m-gui",
         "lang": [
-          "py"
+          "py",
+          "pypi"
         ]
       }
     ]
@@ -163,6 +162,15 @@
         "name": "m",
         "desc": "m - minimalistic media manager",
         "link": "https://github.com/obfusk/m",
+        "lang": [
+          "py",
+          "pypi"
+        ]
+      },
+      {
+        "name": "m-gui",
+        "desc": "m - minimalistic media manager - GUI",
+        "link": "https://github.com/obfusk/m-gui",
         "lang": [
           "py",
           "pypi"
@@ -318,6 +326,15 @@
         "name": "m",
         "desc": "m - minimalistic media manager",
         "link": "https://github.com/obfusk/m",
+        "lang": [
+          "py",
+          "pypi"
+        ]
+      },
+      {
+        "name": "m-gui",
+        "desc": "m - minimalistic media manager - GUI",
+        "link": "https://github.com/obfusk/m-gui",
         "lang": [
           "py",
           "pypi"

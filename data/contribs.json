@@ -74,7 +74,7 @@
     "elems": [
       {
         "name": "gitlabhq/gitlabhq",
-        "desc": "GitLab CE | Please open new issues in our issue tracker on GitLab.com",
+        "desc": "GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com",
         "link": "https://github.com/gitlabhq/gitlabhq"
       },
       {

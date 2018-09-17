@@ -20,7 +20,7 @@
             {%- endfor -%}
           </a>
         </h6>
-        <p class="card-text">{{ repo.desc }}</p>
+        <p class="card-text">{{ repo.desc or "" }}</p>
       </div>
       {%- if repo.lang or repo.info or repo.warn %}
         <div class="card-footer">
