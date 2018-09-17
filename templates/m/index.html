@@ -1,0 +1,76 @@
+{% extends "_base.html" %}
+{% block content %}
+  <article class="card">
+    <div class="card-header">
+      <h5 class="mb-0 text-center">
+        m - minimalistic media manager
+      </h5>
+    </div>
+    <div class="card-body">
+      <div class="row text-center">
+        <div class="col-sm p-1">
+          <a href="https://www.gnu.org/licenses/gpl-3.0.html">
+            <img alt="GPLv3+"
+                 src="https://img.shields.io/badge/license-GPLv3+-blue.svg" />
+          </a>
+        </div>
+        <div class="col-sm p-1">
+          <a href="https://github.com/obfusk/m"
+             class="btn btn-outline-primary btn-sm">
+            m @ GitHub
+          </a>
+          <a href="https://pypi.python.org/pypi/mmm">
+            <img alt="m PyPI Version"
+                 src="https://img.shields.io/pypi/v/mmm.svg" />
+          </a>
+          <a href="https://travis-ci.org/obfusk/m">
+            <img alt="m Build Status"
+                 src="https://travis-ci.org/obfusk/m.svg?branch=master" />
+          </a>
+        </div>
+        <div class="col-sm p-1">
+          <a href="https://github.com/obfusk/m-gui"
+             class="btn btn-outline-primary btn-sm">
+            m-gui @ GitHub
+          </a>
+          <a href="https://pypi.python.org/pypi/mmm-gui">
+            <img alt="m-gui PyPI Version"
+                 src="https://img.shields.io/pypi/v/mmm-gui.svg" />
+          </a>
+          <a href="https://travis-ci.org/obfusk/m-gui">
+            <img alt="m-gui Build Status"
+                 src="https://travis-ci.org/obfusk/m-gui.svg?branch=master" />
+          </a>
+        </div>
+      </div>
+      <hr />
+      <p>m keeps track of which files you've played (or are still
+      playing) and thus allows you to easily continue playing the
+      next file (using vlc or mpv).</p>
+      <p>And for situations where you prefer simple keybindings to
+      typing on the command-line, there's the m-gui wrapper.</p>
+      <p>
+        More information and examples:
+        <a href="https://github.com/obfusk/m#readme"
+           class="btn btn-outline-primary btn-sm m-1">
+          &rarr; m README @ GitHub
+        </a>
+        <a href="https://github.com/obfusk/m-gui#readme"
+           class="btn btn-outline-primary btn-sm m-1">
+          &rarr; m-gui README @ GitHub
+        </a>
+      </p>
+      <hr />
+      <img src="/screenshots/m.png"
+           class="img-fluid img-thumbnail mx-auto d-block"
+           alt="shell screenshot" />
+      <hr />
+      <img src="/screenshots/m-gui-1.png"
+           class="img-fluid img-thumbnail mx-auto d-block"
+           alt="gui screenshot 1" />
+      <img src="/screenshots/m-gui-2.png"
+           class="img-fluid img-thumbnail mx-auto d-block"
+           alt="gui screenshot 2" />
+    </div>
+  </article>
+{% endblock %}

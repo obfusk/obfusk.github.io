@@ -28,6 +28,7 @@ blog_posts    = [ blog_post(f.read_text())
                                   key = lambda f: f.name) ]
 
 templates     = "index blog repos contribs".split() # TODO: gists
+templates_prj = "m/index".split()                   # TODO
 data          = dict(                               # TODO: .json?
   title       = "/var/log/obfusk",
   tagline     = "hacking ⇒ ¬sleeping",
@@ -56,8 +57,10 @@ env = Environment(loader      = FileSystemLoader("templates"),
 env.filters["markdown"]       = lambda s: Markup(md.convert(s))
 env.globals["anchor_id"]      = lambda t: Markup(anchor_id(t))
 
-for t in templates:
+for t in templates + templates_prj:
   print("building {}.html ...".format(t))
-  template = env.get_template(t + ".html")
-  with open("__html__/{}.html".format(t), "w") as f:
+  template  = env.get_template(t + ".html")
+  out       = Path("__html__/{}.html".format(t))
+  out.parent.mkdir(exist_ok = True)
+  with out.open("w") as f:
     template.stream(page = t, **data).dump(f); f.write("\n")

@@ -3,7 +3,7 @@
 {% block content %}
   {%- for p in blog_posts|reverse %}
     {{- anchor(p.title) }}
-    <article class="card m-y-2">
+    <article class="card">
       <div class="card-header">
         <small class="text-muted float-right">[{{ p.date }}]</small>
         <h5 class="mb-0">
