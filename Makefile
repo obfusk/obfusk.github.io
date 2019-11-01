@@ -10,7 +10,7 @@ CSSOK     := Congratulations! No Error Found.
 HTMLV     := https://html5.validator.nu
 HTMLOK    := The document is valid HTML5
 
-H5VCMD    := html5validator --show-warnings --log INFO
+H5VCMD    := html5validator --show-warnings --log INFO --no-langdetect
 
 .PHONY: build clean serve master validate validate-css validate-html \
         ci-test
