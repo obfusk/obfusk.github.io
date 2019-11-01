@@ -3,6 +3,7 @@
   [">",           "Latest"],
   ["util",        "Utilities"],
   ["dev",         "Development"],
+  ["hs",          "Haskell"],
   ["py",          "Python"],
   ["rb",          "Ruby"],
   ["sh",          "Bash"],

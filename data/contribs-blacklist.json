@@ -1,12 +1,15 @@
 [
+  "DisciplinaOU/disciplina-nixops",
   "ajaxorg/ace",
   "ansible/ansible",
   "ariya/phantomjs",
   "berkes/berkes.github.com",
+  "bitwalker/distillery",
   "colszowka/phantomjs-gem",
   "github/government.github.com",
   "ibdknox/waltz",
   "ninjudd/drip",
+  "serokell/serokell-closure",
   "teampoltergeist/poltergeist",
   "thoughtbot/capybara-webkit"
 ]

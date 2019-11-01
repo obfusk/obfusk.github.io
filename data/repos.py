@@ -11,10 +11,10 @@ with open("data/repos-blacklist.json") as f:
   blacklist = set(json.load(f))
 
 non_cat_tags  = set("clj cpp gem inactive js on-hold pypi " \
-                    "unfinished uni wip".split())
+                    "unfinished uni wip 日本語".split())
 unused_tags   = set("uni".split())
 keys          = "name desc link lang info warn".split()
-badges        = dict(lang = "clj cpp js py rb sh gem pypi".split(),
+badges        = dict(lang = "clj cpp hs js py rb sh gem pypi 日本語".split(),
                      info = "inactive unfinished".split(),
                      warn = "on-hold wip".split())
 

@@ -66,6 +66,17 @@
         "link": "https://github.com/obfusk/gpg"
       },
       {
+        "name": "koneko",
+        "desc": "koneko - a concatenative not-quite-lisp for kittens",
+        "link": "https://github.com/obfusk/koneko",
+        "lang": [
+          "hs"
+        ],
+        "warn": [
+          "wip"
+        ]
+      },
+      {
         "name": "m",
         "desc": "m - minimalistic media manager",
         "link": "https://github.com/obfusk/m",
@@ -126,6 +137,25 @@
   {
     "title": "Latest",
     "elems": [
+      {
+        "name": "kanji-strokes",
+        "desc": "kanji-strokes - \u6f22\u5b57\u3068\u4eee\u540d\u306e\u7b46\u9806 - stroke order for japanese text",
+        "link": "https://github.com/obfusk/kanji-strokes",
+        "lang": [
+          "\u65e5\u672c\u8a9e"
+        ]
+      },
+      {
+        "name": "koneko",
+        "desc": "koneko - a concatenative not-quite-lisp for kittens",
+        "link": "https://github.com/obfusk/koneko",
+        "lang": [
+          "hs"
+        ],
+        "warn": [
+          "wip"
+        ]
+      },
       {
         "name": "m",
         "desc": "m - minimalistic media manager",
@@ -251,10 +281,10 @@
       },
       {
         "name": "koneko",
-        "desc": "koneko - ...",
+        "desc": "koneko - a concatenative not-quite-lisp for kittens",
         "link": "https://github.com/obfusk/koneko",
         "lang": [
-          "py"
+          "hs"
         ],
         "warn": [
           "wip"
@@ -266,6 +296,22 @@
         "link": "https://github.com/obfusk/venv",
         "lang": [
           "py"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Haskell",
+    "elems": [
+      {
+        "name": "koneko",
+        "desc": "koneko - a concatenative not-quite-lisp for kittens",
+        "link": "https://github.com/obfusk/koneko",
+        "lang": [
+          "hs"
+        ],
+        "warn": [
+          "wip"
         ]
       }
     ]
@@ -309,17 +355,6 @@
         "link": "https://github.com/obfusk/httpony",
         "lang": [
           "py"
-        ]
-      },
-      {
-        "name": "koneko",
-        "desc": "koneko - ...",
-        "link": "https://github.com/obfusk/koneko",
-        "lang": [
-          "py"
-        ],
-        "warn": [
-          "wip"
         ]
       },
       {
@@ -909,6 +944,17 @@
         ]
       },
       {
+        "name": "koneko",
+        "desc": "koneko - a concatenative not-quite-lisp for kittens",
+        "link": "https://github.com/obfusk/koneko",
+        "lang": [
+          "hs"
+        ],
+        "warn": [
+          "wip"
+        ]
+      },
+      {
         "name": "obfusk.coffee",
         "desc": "[TODO] obfusk.coffee - functional programming library for js/coffee",
         "link": "https://github.com/obfusk/obfusk.coffee",
@@ -1323,6 +1369,14 @@
         "name": "i3-config",
         "desc": "my i3 config",
         "link": "https://github.com/obfusk/i3-config"
+      },
+      {
+        "name": "kanji-strokes",
+        "desc": "kanji-strokes - \u6f22\u5b57\u3068\u4eee\u540d\u306e\u7b46\u9806 - stroke order for japanese text",
+        "link": "https://github.com/obfusk/kanji-strokes",
+        "lang": [
+          "\u65e5\u672c\u8a9e"
+        ]
       },
       {
         "name": "mail-config",

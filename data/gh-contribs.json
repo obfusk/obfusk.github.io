@@ -1,6 +1,16 @@
 [
   {
+    "name": "DisciplinaOU/disciplina-nixops",
+    "count": 1,
+    "contrib": true
+  },
+  {
     "name": "Homebrew/legacy-homebrew",
+    "count": 3,
+    "contrib": true
+  },
+  {
+    "name": "NixOS/nix",
     "count": 3,
     "contrib": true
   },
@@ -25,9 +35,19 @@
     "contrib": false
   },
   {
+    "name": "bitwalker/distillery",
+    "count": 1,
+    "contrib": false
+  },
+  {
     "name": "bundler/bundler",
     "count": 1,
     "contrib": true
+  },
+  {
+    "name": "chrisdone/formatting",
+    "count": 1,
+    "contrib": false
   },
   {
     "name": "colszowka/phantomjs-gem",
@@ -60,6 +80,16 @@
     "contrib": true
   },
   {
+    "name": "haskell-hvr/HsYAML",
+    "count": 1,
+    "contrib": true
+  },
+  {
+    "name": "haskell-suite/haskell-src-exts",
+    "count": 1,
+    "contrib": false
+  },
+  {
     "name": "i3/i3",
     "count": 3,
     "contrib": true
@@ -73,6 +103,11 @@
     "name": "jashkenas/docco",
     "count": 2,
     "contrib": false
+  },
+  {
+    "name": "ndmitchell/hoogle",
+    "count": 6,
+    "contrib": true
   },
   {
     "name": "ninjudd/drip",
@@ -110,6 +145,26 @@
     "contrib": false
   },
   {
+    "name": "serokell/nix-npm-buildpackage",
+    "count": 2,
+    "contrib": true
+  },
+  {
+    "name": "serokell/serokell-closure",
+    "count": 2,
+    "contrib": true
+  },
+  {
+    "name": "siers/nix-gitignore",
+    "count": 2,
+    "contrib": true
+  },
+  {
+    "name": "simonmichael/shelltestrunner",
+    "count": 1,
+    "contrib": false
+  },
+  {
     "name": "sstephenson/sprockets",
     "count": 2,
     "contrib": true
@@ -123,5 +178,10 @@
     "name": "thoughtbot/capybara-webkit",
     "count": 1,
     "contrib": false
+  },
+  {
+    "name": "tom-anders/Easy_xkcd",
+    "count": 1,
+    "contrib": true
   }
 ]

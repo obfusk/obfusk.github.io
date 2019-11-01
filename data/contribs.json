@@ -4,8 +4,13 @@
     "elems": [
       {
         "name": "Homebrew/legacy-homebrew",
-        "desc": ":skull: The former home of Homebrew/homebrew (deprecated)",
+        "desc": "\ud83d\udc80 The former home of Homebrew/homebrew (deprecated)",
         "link": "https://github.com/Homebrew/legacy-homebrew"
+      },
+      {
+        "name": "NixOS/nix",
+        "desc": "Nix, the purely functional package manager",
+        "link": "https://github.com/NixOS/nix"
       },
       {
         "name": "bundler/bundler",
@@ -33,6 +38,11 @@
         "link": "https://github.com/hashicorp/vagrant"
       },
       {
+        "name": "haskell-hvr/HsYAML",
+        "desc": "YAML 1.2 implementation in pure Haskell",
+        "link": "https://github.com/haskell-hvr/HsYAML"
+      },
+      {
         "name": "i3/i3",
         "desc": "A tiling window manager",
         "link": "https://github.com/i3/i3"
@@ -41,6 +51,11 @@
         "name": "losingkeys/vim-niji",
         "desc": "Yet another rainbow parentheses plugin.",
         "link": "https://github.com/losingkeys/vim-niji"
+      },
+      {
+        "name": "ndmitchell/hoogle",
+        "desc": "Haskell API search engine",
+        "link": "https://github.com/ndmitchell/hoogle"
       },
       {
         "name": "open-uri-redirections/open_uri_redirections",
@@ -58,6 +73,16 @@
         "link": "https://github.com/rvm/rvm-site"
       },
       {
+        "name": "serokell/nix-npm-buildpackage",
+        "desc": "build nix packages that use npm/yarn packages",
+        "link": "https://github.com/serokell/nix-npm-buildpackage"
+      },
+      {
+        "name": "siers/nix-gitignore",
+        "desc": "A nix expression that filters source based on a .gitignore file.",
+        "link": "https://github.com/siers/nix-gitignore"
+      },
+      {
         "name": "sinatra/sinatra",
         "desc": "Classy web-development dressed in a DSL (official / canonical repo)",
         "link": "https://github.com/sinatra/sinatra"
@@ -66,6 +91,11 @@
         "name": "sstephenson/sprockets",
         "desc": "Rack-based asset packaging system",
         "link": "https://github.com/sstephenson/sprockets"
+      },
+      {
+        "name": "tom-anders/Easy_xkcd",
+        "desc": "An easy and simple open source xkcd reader",
+        "link": "https://github.com/tom-anders/Easy_xkcd"
       }
     ]
   },
@@ -73,9 +103,19 @@
     "title": "Indirect Contributions | (e.g. Issues)",
     "elems": [
       {
+        "name": "chrisdone/formatting",
+        "desc": "Format strings type-safely with combinators",
+        "link": "https://github.com/chrisdone/formatting"
+      },
+      {
         "name": "gitlabhq/gitlabhq",
         "desc": "GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com",
         "link": "https://github.com/gitlabhq/gitlabhq"
+      },
+      {
+        "name": "haskell-suite/haskell-src-exts",
+        "desc": "Manipulating Haskell source: abstract syntax, lexer, parser, and pretty-printer",
+        "link": "https://github.com/haskell-suite/haskell-src-exts"
       },
       {
         "name": "jashkenas/docco",
@@ -96,6 +136,11 @@
         "name": "sbt/sbt",
         "desc": "sbt, the interactive build tool",
         "link": "https://github.com/sbt/sbt"
+      },
+      {
+        "name": "simonmichael/shelltestrunner",
+        "desc": "Easy, repeatable testing of CLI programs/commands",
+        "link": "https://github.com/simonmichael/shelltestrunner"
       }
     ]
   }

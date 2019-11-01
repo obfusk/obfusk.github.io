@@ -5,6 +5,16 @@
     "link": "https://github.com/obfusk/2des-attack"
   },
   {
+    "name": "Easy_xkcd",
+    "desc": "[FORK] An easy and simple open source xkcd reader",
+    "link": "https://github.com/obfusk/Easy_xkcd"
+  },
+  {
+    "name": "HsYAML",
+    "desc": "[FORK] YAML 1.2 implementation in pure Haskell",
+    "link": "https://github.com/obfusk/HsYAML"
+  },
+  {
     "name": "__obfusk-cljs",
     "desc": null,
     "link": "https://github.com/obfusk/__obfusk-cljs"
@@ -210,6 +220,11 @@
     "link": "https://github.com/obfusk/fnxnl"
   },
   {
+    "name": "formatting",
+    "desc": "[FORK] Format strings type-safely with combinators",
+    "link": "https://github.com/obfusk/formatting"
+  },
+  {
     "name": "fsfe-blog",
     "desc": "fsfe-blog - data from my fsfe blog",
     "link": "https://github.com/obfusk/fsfe-blog"
@@ -245,6 +260,11 @@
     "link": "https://github.com/obfusk/gpg"
   },
   {
+    "name": "haskell-src-exts",
+    "desc": "[FORK] Manipulating Haskell source: abstract syntax, lexer, parser, and pretty-printer",
+    "link": "https://github.com/obfusk/haskell-src-exts"
+  },
+  {
     "name": "homebrew",
     "desc": "[FORK] The missing package manager for OS X.",
     "link": "https://github.com/obfusk/homebrew"
@@ -258,6 +278,11 @@
     "name": "homebrew-tap",
     "desc": "[OLD] obfusk's homebrew tap",
     "link": "https://github.com/obfusk/homebrew-tap"
+  },
+  {
+    "name": "hoogle",
+    "desc": "[FORK] Haskell API search engine",
+    "link": "https://github.com/obfusk/hoogle"
   },
   {
     "name": "hs-flx",
@@ -290,13 +315,18 @@
     "link": "https://github.com/obfusk/iot-tdose"
   },
   {
+    "name": "kanji-strokes",
+    "desc": "kanji-strokes - \u6f22\u5b57\u3068\u4eee\u540d\u306e\u7b46\u9806 - stroke order for japanese text",
+    "link": "https://github.com/obfusk/kanji-strokes"
+  },
+  {
     "name": "keep-it-private",
     "desc": "[TODO] keep-it-private - privacy/crypto presentations",
     "link": "https://github.com/obfusk/keep-it-private"
   },
   {
     "name": "koneko",
-    "desc": "koneko - ...",
+    "desc": "koneko - a concatenative not-quite-lisp for kittens",
     "link": "https://github.com/obfusk/koneko"
   },
   {
@@ -313,6 +343,11 @@
     "name": "m-gui",
     "desc": "m - minimalistic media manager - GUI",
     "link": "https://github.com/obfusk/m-gui"
+  },
+  {
+    "name": "m-nix",
+    "desc": "m - minimalistic media manager - nix packages",
+    "link": "https://github.com/obfusk/m-nix"
   },
   {
     "name": "mail-config",
@@ -438,6 +473,26 @@
     "name": "netcat.py",
     "desc": "netcat.py - python (2+3) netcat",
     "link": "https://github.com/obfusk/netcat.py"
+  },
+  {
+    "name": "nix",
+    "desc": "[FORK] Nix, the purely functional package manager",
+    "link": "https://github.com/obfusk/nix"
+  },
+  {
+    "name": "nix-gitignore",
+    "desc": "[FORK] A nix expression that filters source based on a .gitignore file.",
+    "link": "https://github.com/obfusk/nix-gitignore"
+  },
+  {
+    "name": "nix-vault-with-ui",
+    "desc": "nix(os) vault package w/ ui (using nix-npm-buildpackage)",
+    "link": "https://github.com/obfusk/nix-vault-with-ui"
+  },
+  {
+    "name": "nixpkgs",
+    "desc": "[FORK] Nix Packages collection",
+    "link": "https://github.com/obfusk/nixpkgs"
   },
   {
     "name": "obfusk.coffee",
@@ -595,14 +650,29 @@
     "link": "https://github.com/obfusk/rvm-site"
   },
   {
+    "name": "screenshots",
+    "desc": null,
+    "link": "https://github.com/obfusk/screenshots"
+  },
+  {
     "name": "scripts",
     "desc": "miscellaneous scripts",
     "link": "https://github.com/obfusk/scripts"
   },
   {
+    "name": "serokell-closure",
+    "desc": "[FORK] Overlayed Nixpkgs closure for Serokell build systems",
+    "link": "https://github.com/obfusk/serokell-closure"
+  },
+  {
     "name": "sh-config",
     "desc": "[ba]sh config",
     "link": "https://github.com/obfusk/sh-config"
+  },
+  {
+    "name": "shelltestrunner",
+    "desc": "[FORK] Easy, repeatable testing of CLI programs/commands",
+    "link": "https://github.com/obfusk/shelltestrunner"
   },
   {
     "name": "simple-stack-exploit",
