@@ -6,7 +6,7 @@
   },
   {
     "name": "Homebrew/legacy-homebrew",
-    "count": 3,
+    "count": 1,
     "contrib": true
   },
   {
@@ -40,11 +40,6 @@
     "contrib": false
   },
   {
-    "name": "bundler/bundler",
-    "count": 1,
-    "contrib": true
-  },
-  {
     "name": "chrisdone/formatting",
     "count": 1,
     "contrib": false
@@ -70,7 +65,7 @@
     "contrib": true
   },
   {
-    "name": "hankache/perl6intro",
+    "name": "hankache/rakuguide",
     "count": 1,
     "contrib": true
   },
@@ -115,6 +110,11 @@
     "contrib": false
   },
   {
+    "name": "npm/read",
+    "count": 1,
+    "contrib": false
+  },
+  {
     "name": "open-uri-redirections/open_uri_redirections",
     "count": 3,
     "contrib": false
@@ -133,6 +133,11 @@
     "name": "rubinius/rubinius",
     "count": 1,
     "contrib": false
+  },
+  {
+    "name": "rubygems/bundler",
+    "count": 1,
+    "contrib": true
   },
   {
     "name": "rvm/rvm-site",
@@ -181,7 +186,12 @@
   },
   {
     "name": "tom-anders/Easy_xkcd",
-    "count": 1,
+    "count": 2,
     "contrib": true
+  },
+  {
+    "name": "vim/vim",
+    "count": 1,
+    "contrib": false
   }
 ]

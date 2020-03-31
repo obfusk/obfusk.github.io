@@ -30,6 +30,22 @@
         ]
       },
       {
+        "name": "cahpy",
+        "desc": "cahpy - capybaras against humanity",
+        "link": "https://github.com/obfusk/cahpy",
+        "lang": [
+          "py"
+        ]
+      },
+      {
+        "name": "codespy",
+        "desc": "codespy - cooperative spy code",
+        "link": "https://github.com/obfusk/codespy",
+        "lang": [
+          "py"
+        ]
+      },
+      {
         "name": "cryptoparty-privacycafe-menu",
         "desc": "cryptoparty/privacycafe menu",
         "link": "https://github.com/obfusk/cryptoparty-privacycafe-menu"
@@ -64,6 +80,14 @@
         "name": "gpg",
         "desc": "gpg key + fingerprint + HOWTO",
         "link": "https://github.com/obfusk/gpg"
+      },
+      {
+        "name": "heartspy",
+        "desc": "heartspy - beware of the black queen",
+        "link": "https://github.com/obfusk/heartspy",
+        "lang": [
+          "py"
+        ]
       },
       {
         "name": "koneko",
@@ -137,6 +161,30 @@
   {
     "title": "Latest",
     "elems": [
+      {
+        "name": "cahpy",
+        "desc": "cahpy - capybaras against humanity",
+        "link": "https://github.com/obfusk/cahpy",
+        "lang": [
+          "py"
+        ]
+      },
+      {
+        "name": "codespy",
+        "desc": "codespy - cooperative spy code",
+        "link": "https://github.com/obfusk/codespy",
+        "lang": [
+          "py"
+        ]
+      },
+      {
+        "name": "heartspy",
+        "desc": "heartspy - beware of the black queen",
+        "link": "https://github.com/obfusk/heartspy",
+        "lang": [
+          "py"
+        ]
+      },
       {
         "name": "kanji-strokes",
         "desc": "kanji-strokes - \u6f22\u5b57\u3068\u4eee\u540d\u306e\u7b46\u9806 - stroke order for japanese text",
@@ -331,6 +379,22 @@
         ]
       },
       {
+        "name": "cahpy",
+        "desc": "cahpy - capybaras against humanity",
+        "link": "https://github.com/obfusk/cahpy",
+        "lang": [
+          "py"
+        ]
+      },
+      {
+        "name": "codespy",
+        "desc": "codespy - cooperative spy code",
+        "link": "https://github.com/obfusk/codespy",
+        "lang": [
+          "py"
+        ]
+      },
+      {
         "name": "cryptanalysis.py",
         "desc": "cryptanalysis.py - simple python (2+3) cryptanalysis tools",
         "link": "https://github.com/obfusk/cryptanalysis.py",
@@ -345,6 +409,14 @@
         "name": "dns.py",
         "desc": "dns.py - python (2+3) DNS server + client",
         "link": "https://github.com/obfusk/dns.py",
+        "lang": [
+          "py"
+        ]
+      },
+      {
+        "name": "heartspy",
+        "desc": "heartspy - beware of the black queen",
+        "link": "https://github.com/obfusk/heartspy",
         "lang": [
           "py"
         ]
@@ -1041,6 +1113,30 @@
         ]
       },
       {
+        "name": "cahpy",
+        "desc": "cahpy - capybaras against humanity",
+        "link": "https://github.com/obfusk/cahpy",
+        "lang": [
+          "py"
+        ]
+      },
+      {
+        "name": "codespy",
+        "desc": "codespy - cooperative spy code",
+        "link": "https://github.com/obfusk/codespy",
+        "lang": [
+          "py"
+        ]
+      },
+      {
+        "name": "heartspy",
+        "desc": "heartspy - beware of the black queen",
+        "link": "https://github.com/obfusk/heartspy",
+        "lang": [
+          "py"
+        ]
+      },
+      {
         "name": "snake.coffee",
         "desc": "snake.coffee - snake game library w/ bigbang.coffee",
         "link": "https://github.com/obfusk/snake.coffee",
@@ -1094,6 +1190,30 @@
         ],
         "info": [
           "inactive"
+        ]
+      },
+      {
+        "name": "cahpy",
+        "desc": "cahpy - capybaras against humanity",
+        "link": "https://github.com/obfusk/cahpy",
+        "lang": [
+          "py"
+        ]
+      },
+      {
+        "name": "codespy",
+        "desc": "codespy - cooperative spy code",
+        "link": "https://github.com/obfusk/codespy",
+        "lang": [
+          "py"
+        ]
+      },
+      {
+        "name": "heartspy",
+        "desc": "heartspy - beware of the black queen",
+        "link": "https://github.com/obfusk/heartspy",
+        "lang": [
+          "py"
         ]
       },
       {

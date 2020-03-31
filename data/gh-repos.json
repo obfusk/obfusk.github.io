@@ -115,9 +115,19 @@
     "link": "https://github.com/obfusk/bundler-fu"
   },
   {
+    "name": "cahpy",
+    "desc": "cahpy - capybaras against humanity",
+    "link": "https://github.com/obfusk/cahpy"
+  },
+  {
     "name": "clj-obfusk-data",
     "desc": "[clj-]obfusk-data - data validation combinator library for clojure",
     "link": "https://github.com/obfusk/clj-obfusk-data"
+  },
+  {
+    "name": "codespy",
+    "desc": "codespy - cooperative spy code",
+    "link": "https://github.com/obfusk/codespy"
   },
   {
     "name": "comfortable-mexican-sofa",
@@ -263,6 +273,11 @@
     "name": "haskell-src-exts",
     "desc": "[FORK] Manipulating Haskell source: abstract syntax, lexer, parser, and pretty-printer",
     "link": "https://github.com/obfusk/haskell-src-exts"
+  },
+  {
+    "name": "heartspy",
+    "desc": "heartspy - beware of the black queen",
+    "link": "https://github.com/obfusk/heartspy"
   },
   {
     "name": "homebrew",
@@ -745,9 +760,19 @@
     "link": "https://github.com/obfusk/venv"
   },
   {
+    "name": "vim",
+    "desc": "[FORK] The official Vim repository",
+    "link": "https://github.com/obfusk/vim"
+  },
+  {
     "name": "vim-niji",
     "desc": "[FORK] Yet another rainbow parentheses plugin.",
     "link": "https://github.com/obfusk/vim-niji"
+  },
+  {
+    "name": "vim-niji-1",
+    "desc": "[FORK] Yet another rainbow parentheses plugin for Vim.",
+    "link": "https://github.com/obfusk/vim-niji-1"
   },
   {
     "name": "waltz",

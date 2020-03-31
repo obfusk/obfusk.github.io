@@ -16,6 +16,10 @@
     "desc": ""
   },
   {
+    "link": "https://gist.github.com/0d0a988827c33bcb6d4ac5f557ef5224",
+    "desc": "gtree (tree w/ quick-and-dirty .gitignore support)"
+  },
+  {
     "link": "https://gist.github.com/0dc8a8babe80058cdfe3",
     "desc": "chromium-trunk"
   },
@@ -56,6 +60,10 @@
     "desc": "python equivalent of ruby's binding.pry"
   },
   {
+    "link": "https://gist.github.com/2350a5511dd8bf7b597fb1abdbc61b2c",
+    "desc": "command-line tools you'll miss once you know they exist"
+  },
+  {
     "link": "https://gist.github.com/237e3b289b7d03f4b16b4628a1530c6f",
     "desc": "list japanese fonts"
   },
@@ -86,6 +94,10 @@
   {
     "link": "https://gist.github.com/389a86237a0b02e83ec1",
     "desc": "chromium socks"
+  },
+  {
+    "link": "https://gist.github.com/3b38f74d2a49457e9e96ed243b61c622",
+    "desc": "gh api + httpie + jq"
   },
   {
     "link": "https://gist.github.com/44bdca9caf5ef89e7ef0f4c985363d85",
@@ -544,12 +556,20 @@
     "desc": "weird behaviour with pypy"
   },
   {
+    "link": "https://gist.github.com/b656f4aedc0ecbacdd2b467084685a4c",
+    "desc": "hub issue format"
+  },
+  {
     "link": "https://gist.github.com/bb6b9504ce92b9f77ab10e69cdd45eda",
     "desc": "utf8 for mutt (still latin1 for rest) | OBSOLETE; see https://github.com/obfusk/dotfiles"
   },
   {
     "link": "https://gist.github.com/bc146e6c76996792af859096cd37b4d6",
     "desc": "tiny elixir HTTP GET client w/ ssl verification using python3-certifi's certificate bundle"
+  },
+  {
+    "link": "https://gist.github.com/bf70b992f2e7da6691caf2274ee8368f",
+    "desc": "ghc profile memory (stack + heap)"
   },
   {
     "link": "https://gist.github.com/c4f0dff753589c251430",
@@ -574,6 +594,10 @@
   {
     "link": "https://gist.github.com/db1ebd1f7e54a29fdbd9",
     "desc": "convert icedove address book .csv to mutt aliases file (to be modified afterwards)"
+  },
+  {
+    "link": "https://gist.github.com/dba6447e4e28277c2791d86463283385",
+    "desc": "<img> w/ data-src -> src"
   },
   {
     "link": "https://gist.github.com/f0203e520f2a5f759973",

@@ -13,11 +13,6 @@
         "link": "https://github.com/NixOS/nix"
       },
       {
-        "name": "bundler/bundler",
-        "desc": "Manage your Ruby application's gem dependencies",
-        "link": "https://github.com/bundler/bundler"
-      },
-      {
         "name": "comfy/comfortable-mexican-sofa",
         "desc": "ComfortableMexicanSofa is a powerful Ruby on Rails 5.2+ CMS (Content Management System) Engine",
         "link": "https://github.com/comfy/comfortable-mexican-sofa"
@@ -28,9 +23,9 @@
         "link": "https://github.com/gnab/remark"
       },
       {
-        "name": "hankache/perl6intro",
-        "desc": "Perl 6 Introduction",
-        "link": "https://github.com/hankache/perl6intro"
+        "name": "hankache/rakuguide",
+        "desc": "The Raku Guide",
+        "link": "https://github.com/hankache/rakuguide"
       },
       {
         "name": "hashicorp/vagrant",
@@ -68,13 +63,18 @@
         "link": "https://github.com/rack/rack"
       },
       {
+        "name": "rubygems/bundler",
+        "desc": "Manage your Ruby application's gem dependencies",
+        "link": "https://github.com/rubygems/bundler"
+      },
+      {
         "name": "rvm/rvm-site",
         "desc": "RVM website and documentation",
         "link": "https://github.com/rvm/rvm-site"
       },
       {
         "name": "serokell/nix-npm-buildpackage",
-        "desc": "build nix packages that use npm/yarn packages",
+        "desc": "Build nix packages that use npm/yarn",
         "link": "https://github.com/serokell/nix-npm-buildpackage"
       },
       {
@@ -123,6 +123,11 @@
         "link": "https://github.com/jashkenas/docco"
       },
       {
+        "name": "npm/read",
+        "desc": "read(1) for node.",
+        "link": "https://github.com/npm/read"
+      },
+      {
         "name": "resume/resume.github.com",
         "desc": "Resumes generated using the GitHub informations",
         "link": "https://github.com/resume/resume.github.com"
@@ -141,6 +146,11 @@
         "name": "simonmichael/shelltestrunner",
         "desc": "Easy, repeatable testing of CLI programs/commands",
         "link": "https://github.com/simonmichael/shelltestrunner"
+      },
+      {
+        "name": "vim/vim",
+        "desc": "The official Vim repository",
+        "link": "https://github.com/vim/vim"
       }
     ]
   }
