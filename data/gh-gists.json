@@ -28,6 +28,10 @@
     "desc": "run w/ utf8 locale | OBSOLETE; see https://github.com/obfusk/dotfiles"
   },
   {
+    "link": "https://gist.github.com/0e9203a2fc9e883a273413ff9173d7ab",
+    "desc": "reload all broken images"
+  },
+  {
     "link": "https://gist.github.com/0ea6b7e392e443bf2f2a",
     "desc": ".guile"
   },
@@ -98,6 +102,10 @@
   {
     "link": "https://gist.github.com/3b38f74d2a49457e9e96ed243b61c622",
     "desc": "gh api + httpie + jq"
+  },
+  {
+    "link": "https://gist.github.com/44225839d51f82e1800fa6b4613268a2",
+    "desc": "(pipe to this command to) view html on command line"
   },
   {
     "link": "https://gist.github.com/44bdca9caf5ef89e7ef0f4c985363d85",
@@ -454,6 +462,10 @@
   {
     "link": "https://gist.github.com/7553915",
     "desc": "prettyfy json w/ ruby oneliner"
+  },
+  {
+    "link": "https://gist.github.com/768b52dbb6e3693b20dbb10ced06bfeb",
+    "desc": "watch a video together with friends using rtmp live streaming w/ nginx, stunnel, ffmpeg & mpv (replace $STREAMNAME, $FQDN, $IP)"
   },
   {
     "link": "https://gist.github.com/77a957d6dbb8202f59741ef8489f5093",

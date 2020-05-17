@@ -40,6 +40,11 @@
     "contrib": false
   },
   {
+    "name": "canonical-web-and-design/canonical.com",
+    "count": 1,
+    "contrib": false
+  },
+  {
     "name": "chrisdone/formatting",
     "count": 1,
     "contrib": false
@@ -100,6 +105,26 @@
     "contrib": false
   },
   {
+    "name": "jitsi/jicofo",
+    "count": 1,
+    "contrib": false
+  },
+  {
+    "name": "jitsi/jitsi-meet",
+    "count": 6,
+    "contrib": true
+  },
+  {
+    "name": "jitsi/jitsi-videobridge",
+    "count": 1,
+    "contrib": false
+  },
+  {
+    "name": "mdn/sprints",
+    "count": 1,
+    "contrib": false
+  },
+  {
     "name": "ndmitchell/hoogle",
     "count": 6,
     "contrib": true
@@ -117,6 +142,11 @@
   {
     "name": "open-uri-redirections/open_uri_redirections",
     "count": 3,
+    "contrib": false
+  },
+  {
+    "name": "pallets/flask",
+    "count": 1,
     "contrib": false
   },
   {
@@ -166,7 +196,7 @@
   },
   {
     "name": "simonmichael/shelltestrunner",
-    "count": 1,
+    "count": 2,
     "contrib": false
   },
   {
@@ -186,7 +216,12 @@
   },
   {
     "name": "tom-anders/Easy_xkcd",
-    "count": 2,
+    "count": 4,
+    "contrib": true
+  },
+  {
+    "name": "tommoor/react-emoji-render",
+    "count": 5,
     "contrib": true
   },
   {

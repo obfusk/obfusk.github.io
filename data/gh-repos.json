@@ -120,6 +120,11 @@
     "link": "https://github.com/obfusk/cahpy"
   },
   {
+    "name": "ci-pr-conflict-test",
+    "desc": null,
+    "link": "https://github.com/obfusk/ci-pr-conflict-test"
+  },
+  {
     "name": "clj-obfusk-data",
     "desc": "[clj-]obfusk-data - data validation combinator library for clojure",
     "link": "https://github.com/obfusk/clj-obfusk-data"
@@ -208,6 +213,11 @@
     "name": "eftcmdr-nap",
     "desc": "eftcmdr-nap - eftcmdr + nap",
     "link": "https://github.com/obfusk/eftcmdr-nap"
+  },
+  {
+    "name": "flask",
+    "desc": "[FORK] The Python micro framework for building web applications.",
+    "link": "https://github.com/obfusk/flask"
   },
   {
     "name": "flx-docs",
@@ -328,6 +338,21 @@
     "name": "iot-tdose",
     "desc": "my IoT presentation for T-DOSE",
     "link": "https://github.com/obfusk/iot-tdose"
+  },
+  {
+    "name": "jicofo",
+    "desc": "[FORK] JItsi COnference FOcus is a server side focus component used in Jitsi Meet conferences.",
+    "link": "https://github.com/obfusk/jicofo"
+  },
+  {
+    "name": "jitsi-meet",
+    "desc": "[FORK] Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.",
+    "link": "https://github.com/obfusk/jitsi-meet"
+  },
+  {
+    "name": "jitsi-videobridge",
+    "desc": "[FORK] Jitsi Videobridge is a WebRTC compatible video router or SFU that lets build highly scalable video conferencing infrastructure (i.e., up to hundreds of conferences per server).",
+    "link": "https://github.com/obfusk/jitsi-videobridge"
   },
   {
     "name": "kanji-strokes",
@@ -643,6 +668,11 @@
     "name": "rb-obfusk-util",
     "desc": "[rb-]obfusk-util - miscellaneous utility library for ruby",
     "link": "https://github.com/obfusk/rb-obfusk-util"
+  },
+  {
+    "name": "react-emoji-render",
+    "desc": "[FORK] Normalize and render emoji's the way your users expect.",
+    "link": "https://github.com/obfusk/react-emoji-render"
   },
   {
     "name": "refactor.py",

@@ -43,6 +43,11 @@
         "link": "https://github.com/i3/i3"
       },
       {
+        "name": "jitsi/jitsi-meet",
+        "desc": "Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.",
+        "link": "https://github.com/jitsi/jitsi-meet"
+      },
+      {
         "name": "losingkeys/vim-niji",
         "desc": "Yet another rainbow parentheses plugin.",
         "link": "https://github.com/losingkeys/vim-niji"
@@ -79,7 +84,7 @@
       },
       {
         "name": "siers/nix-gitignore",
-        "desc": "A nix expression that filters source based on a .gitignore file.",
+        "desc": "superseded / unmaintained",
         "link": "https://github.com/siers/nix-gitignore"
       },
       {
@@ -96,12 +101,22 @@
         "name": "tom-anders/Easy_xkcd",
         "desc": "An easy and simple open source xkcd reader",
         "link": "https://github.com/tom-anders/Easy_xkcd"
+      },
+      {
+        "name": "tommoor/react-emoji-render",
+        "desc": "Normalize and render emoji's the way your users expect.",
+        "link": "https://github.com/tommoor/react-emoji-render"
       }
     ]
   },
   {
     "title": "Indirect Contributions | (e.g. Issues)",
     "elems": [
+      {
+        "name": "canonical-web-and-design/canonical.com",
+        "desc": "Repository for the new version of canonical.com",
+        "link": "https://github.com/canonical-web-and-design/canonical.com"
+      },
       {
         "name": "chrisdone/formatting",
         "desc": "Format strings type-safely with combinators",
@@ -123,9 +138,29 @@
         "link": "https://github.com/jashkenas/docco"
       },
       {
+        "name": "jitsi/jicofo",
+        "desc": "JItsi COnference FOcus is a server side focus component used in Jitsi Meet conferences.",
+        "link": "https://github.com/jitsi/jicofo"
+      },
+      {
+        "name": "jitsi/jitsi-videobridge",
+        "desc": "Jitsi Videobridge is a WebRTC compatible video router or SFU that lets build highly scalable video conferencing infrastructure (i.e., up to hundreds of conferences per server).",
+        "link": "https://github.com/jitsi/jitsi-videobridge"
+      },
+      {
+        "name": "mdn/sprints",
+        "desc": "Issues and documentation related to MDN's use of ZenHub for sprint planning",
+        "link": "https://github.com/mdn/sprints"
+      },
+      {
         "name": "npm/read",
         "desc": "read(1) for node.",
         "link": "https://github.com/npm/read"
+      },
+      {
+        "name": "pallets/flask",
+        "desc": "The Python micro framework for building web applications.",
+        "link": "https://github.com/pallets/flask"
       },
       {
         "name": "resume/resume.github.com",
