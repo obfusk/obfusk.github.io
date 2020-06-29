@@ -8,7 +8,7 @@ rsync_cmd=(
   rsync -av -c --delete __html__/ ./
     --exclude=.git --exclude='*~' --exclude=/__html__ --exclude=/old
     --exclude=/.gitignore --exclude=/.nojekyll --exclude=/CNAME
-    --exclude=/deps
+    --exclude=/deps --exclude=/.well-known
 )
 
 "${rsync_cmd[@]}" --dry-run
