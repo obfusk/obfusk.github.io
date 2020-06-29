@@ -5,6 +5,11 @@
     "contrib": true
   },
   {
+    "name": "EFForg/https-everywhere",
+    "count": 1,
+    "contrib": true
+  },
+  {
     "name": "Homebrew/legacy-homebrew",
     "count": 1,
     "contrib": true
@@ -28,6 +33,11 @@
     "name": "ariya/phantomjs",
     "count": 1,
     "contrib": false
+  },
+  {
+    "name": "badges/shields",
+    "count": 1,
+    "contrib": true
   },
   {
     "name": "berkes/berkes.github.com",
@@ -106,18 +116,23 @@
   },
   {
     "name": "jitsi/jicofo",
-    "count": 1,
-    "contrib": false
+    "count": 2,
+    "contrib": true
   },
   {
     "name": "jitsi/jitsi-meet",
-    "count": 6,
+    "count": 12,
     "contrib": true
   },
   {
     "name": "jitsi/jitsi-videobridge",
-    "count": 1,
-    "contrib": false
+    "count": 5,
+    "contrib": true
+  },
+  {
+    "name": "lunasorcery/pridecat",
+    "count": 6,
+    "contrib": true
   },
   {
     "name": "mdn/sprints",
@@ -190,14 +205,19 @@
     "contrib": true
   },
   {
+    "name": "sharkdp/bat",
+    "count": 1,
+    "contrib": false
+  },
+  {
     "name": "siers/nix-gitignore",
     "count": 2,
     "contrib": true
   },
   {
     "name": "simonmichael/shelltestrunner",
-    "count": 2,
-    "contrib": false
+    "count": 4,
+    "contrib": true
   },
   {
     "name": "sstephenson/sprockets",
@@ -208,6 +228,11 @@
     "name": "teampoltergeist/poltergeist",
     "count": 1,
     "contrib": false
+  },
+  {
+    "name": "termux/termux-app",
+    "count": 1,
+    "contrib": true
   },
   {
     "name": "thoughtbot/capybara-webkit",

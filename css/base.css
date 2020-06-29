@@ -15,6 +15,10 @@ html, body, .tooltip, .popover {
                 sans-serif;
 }
 
+.emoji {
+  font-family: "Noto Color Emoji";
+}
+
 body {
   padding-top:  3.5rem;
   margin:       1rem;

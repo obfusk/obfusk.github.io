@@ -68,12 +68,12 @@
         ]
       },
       {
-        "name": "gitbak",
-        "desc": "gitbak - bitbucket/github/gist backup",
-        "link": "https://github.com/obfusk/gitbak",
+        "name": "ghbak",
+        "desc": "ghbak - github backup",
+        "link": "https://github.com/obfusk/ghbak",
         "lang": [
-          "rb",
-          "gem"
+          "py",
+          "pypi"
         ]
       },
       {
@@ -87,6 +87,16 @@
         "link": "https://github.com/obfusk/heartspy",
         "lang": [
           "py"
+        ]
+      },
+      {
+        "name": "jiten",
+        "desc": "jiten - japanese cli&web dictionary based on jmdict/kanjidic | \u65e5\u672c\u8a9e | \u8f9e\u5178 | \u548c\u82f1\u8f9e\u5178 | \u6f22\u82f1\u5b57\u5178 | \u548c\u72ec\u8f9e\u5178 | \u548c\u862d\u8f9e\u5178",
+        "link": "https://github.com/obfusk/jiten",
+        "lang": [
+          "py",
+          "pypi",
+          "\u65e5\u672c\u8a9e"
         ]
       },
       {
@@ -178,6 +188,15 @@
         ]
       },
       {
+        "name": "ghbak",
+        "desc": "ghbak - github backup",
+        "link": "https://github.com/obfusk/ghbak",
+        "lang": [
+          "py",
+          "pypi"
+        ]
+      },
+      {
         "name": "heartspy",
         "desc": "heartspy - beware of the black queen",
         "link": "https://github.com/obfusk/heartspy",
@@ -186,10 +205,12 @@
         ]
       },
       {
-        "name": "kanji-strokes",
-        "desc": "kanji-strokes - \u6f22\u5b57\u3068\u4eee\u540d\u306e\u7b46\u9806 - stroke order for japanese text",
-        "link": "https://github.com/obfusk/kanji-strokes",
+        "name": "jiten",
+        "desc": "jiten - japanese cli&web dictionary based on jmdict/kanjidic | \u65e5\u672c\u8a9e | \u8f9e\u5178 | \u548c\u82f1\u8f9e\u5178 | \u6f22\u82f1\u5b57\u5178 | \u548c\u72ec\u8f9e\u5178 | \u548c\u862d\u8f9e\u5178",
+        "link": "https://github.com/obfusk/jiten",
         "lang": [
+          "py",
+          "pypi",
           "\u65e5\u672c\u8a9e"
         ]
       },
@@ -221,6 +242,75 @@
           "py",
           "pypi"
         ]
+      },
+      {
+        "name": "proudcat",
+        "desc": "proudcat - cat + :rainbow:",
+        "link": "https://github.com/obfusk/proudcat",
+        "lang": [
+          "py",
+          "pypi"
+        ]
+      },
+      {
+        "name": "proudcat-rust",
+        "desc": "proudcat-rust - cat + :rainbow:",
+        "link": "https://github.com/obfusk/proudcat-rust",
+        "lang": [
+          "rs",
+          "crate"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Command Line",
+    "elems": [
+      {
+        "name": "ghbak",
+        "desc": "ghbak - github backup",
+        "link": "https://github.com/obfusk/ghbak",
+        "lang": [
+          "py",
+          "pypi"
+        ]
+      },
+      {
+        "name": "jiten",
+        "desc": "jiten - japanese cli&web dictionary based on jmdict/kanjidic | \u65e5\u672c\u8a9e | \u8f9e\u5178 | \u548c\u82f1\u8f9e\u5178 | \u6f22\u82f1\u5b57\u5178 | \u548c\u72ec\u8f9e\u5178 | \u548c\u862d\u8f9e\u5178",
+        "link": "https://github.com/obfusk/jiten",
+        "lang": [
+          "py",
+          "pypi",
+          "\u65e5\u672c\u8a9e"
+        ]
+      },
+      {
+        "name": "m",
+        "desc": "m - minimalistic media manager",
+        "link": "https://github.com/obfusk/m",
+        "lang": [
+          "py",
+          "pypi"
+        ]
+      },
+      {
+        "name": "proudcat",
+        "desc": "proudcat - cat + :rainbow:",
+        "link": "https://github.com/obfusk/proudcat",
+        "lang": [
+          "py",
+          "pypi"
+        ]
+      },
+      {
+        "name": "proudcat-rust",
+        "desc": "proudcat-rust - cat + :rainbow:",
+        "link": "https://github.com/obfusk/proudcat-rust",
+        "lang": [
+          "rs",
+          "crate"
+        ]
       }
     ]
   },
@@ -228,12 +318,31 @@
     "title": "Utilities",
     "elems": [
       {
+        "name": "ghbak",
+        "desc": "ghbak - github backup",
+        "link": "https://github.com/obfusk/ghbak",
+        "lang": [
+          "py",
+          "pypi"
+        ]
+      },
+      {
         "name": "gitbak",
-        "desc": "gitbak - bitbucket/github/gist backup",
+        "desc": "UNMAINTAINED & REPLACED BY https://github.com/obfusk/ghbak !!! [gitbak - bitbucket/github/gist backup]",
         "link": "https://github.com/obfusk/gitbak",
         "lang": [
           "rb",
           "gem"
+        ]
+      },
+      {
+        "name": "jiten",
+        "desc": "jiten - japanese cli&web dictionary based on jmdict/kanjidic | \u65e5\u672c\u8a9e | \u8f9e\u5178 | \u548c\u82f1\u8f9e\u5178 | \u6f22\u82f1\u5b57\u5178 | \u548c\u72ec\u8f9e\u5178 | \u548c\u862d\u8f9e\u5178",
+        "link": "https://github.com/obfusk/jiten",
+        "lang": [
+          "py",
+          "pypi",
+          "\u65e5\u672c\u8a9e"
         ]
       },
       {
@@ -281,6 +390,24 @@
         "lang": [
           "rb",
           "gem"
+        ]
+      },
+      {
+        "name": "proudcat",
+        "desc": "proudcat - cat + :rainbow:",
+        "link": "https://github.com/obfusk/proudcat",
+        "lang": [
+          "py",
+          "pypi"
+        ]
+      },
+      {
+        "name": "proudcat-rust",
+        "desc": "proudcat-rust - cat + :rainbow:",
+        "link": "https://github.com/obfusk/proudcat-rust",
+        "lang": [
+          "rs",
+          "crate"
         ]
       },
       {
@@ -414,6 +541,15 @@
         ]
       },
       {
+        "name": "ghbak",
+        "desc": "ghbak - github backup",
+        "link": "https://github.com/obfusk/ghbak",
+        "lang": [
+          "py",
+          "pypi"
+        ]
+      },
+      {
         "name": "heartspy",
         "desc": "heartspy - beware of the black queen",
         "link": "https://github.com/obfusk/heartspy",
@@ -427,6 +563,16 @@
         "link": "https://github.com/obfusk/httpony",
         "lang": [
           "py"
+        ]
+      },
+      {
+        "name": "jiten",
+        "desc": "jiten - japanese cli&web dictionary based on jmdict/kanjidic | \u65e5\u672c\u8a9e | \u8f9e\u5178 | \u548c\u82f1\u8f9e\u5178 | \u6f22\u82f1\u5b57\u5178 | \u548c\u72ec\u8f9e\u5178 | \u548c\u862d\u8f9e\u5178",
+        "link": "https://github.com/obfusk/jiten",
+        "lang": [
+          "py",
+          "pypi",
+          "\u65e5\u672c\u8a9e"
         ]
       },
       {
@@ -474,6 +620,15 @@
         "info": [
           "inactive",
           "unfinished"
+        ]
+      },
+      {
+        "name": "proudcat",
+        "desc": "proudcat - cat + :rainbow:",
+        "link": "https://github.com/obfusk/proudcat",
+        "lang": [
+          "py",
+          "pypi"
         ]
       },
       {
@@ -577,7 +732,7 @@
       },
       {
         "name": "gitbak",
-        "desc": "gitbak - bitbucket/github/gist backup",
+        "desc": "UNMAINTAINED & REPLACED BY https://github.com/obfusk/ghbak !!! [gitbak - bitbucket/github/gist backup]",
         "link": "https://github.com/obfusk/gitbak",
         "lang": [
           "rb",
@@ -710,6 +865,20 @@
         "lang": [
           "js",
           "rb"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Rust",
+    "elems": [
+      {
+        "name": "proudcat-rust",
+        "desc": "proudcat-rust - cat + :rainbow:",
+        "link": "https://github.com/obfusk/proudcat-rust",
+        "lang": [
+          "rs",
+          "crate"
         ]
       }
     ]
@@ -1225,6 +1394,16 @@
         ]
       },
       {
+        "name": "jiten",
+        "desc": "jiten - japanese cli&web dictionary based on jmdict/kanjidic | \u65e5\u672c\u8a9e | \u8f9e\u5178 | \u548c\u82f1\u8f9e\u5178 | \u6f22\u82f1\u5b57\u5178 | \u548c\u72ec\u8f9e\u5178 | \u548c\u862d\u8f9e\u5178",
+        "link": "https://github.com/obfusk/jiten",
+        "lang": [
+          "py",
+          "pypi",
+          "\u65e5\u672c\u8a9e"
+        ]
+      },
+      {
         "name": "localconfig-rails-example",
         "desc": "localconfig example w/ rails",
         "link": "https://github.com/obfusk/localconfig-rails-example",
@@ -1492,7 +1671,7 @@
       },
       {
         "name": "kanji-strokes",
-        "desc": "kanji-strokes - \u6f22\u5b57\u3068\u4eee\u540d\u306e\u7b46\u9806 - stroke order for japanese text",
+        "desc": "REPLACED BY https://github.com/obfusk/jiten [kanji-strokes - \u6f22\u5b57\u3068\u4eee\u540d\u306e\u7b46\u9806 - stroke order for japanese text]",
         "link": "https://github.com/obfusk/kanji-strokes",
         "lang": [
           "\u65e5\u672c\u8a9e"

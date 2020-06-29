@@ -10,13 +10,16 @@ with open("data/repos-tags.json") as f:
 with open("data/repos-blacklist.json") as f:
   blacklist = set(json.load(f))
 
-non_cat_tags  = set("clj cpp gem inactive js on-hold pypi " \
+non_cat_tags  = set("clj cpp crate gem inactive js on-hold pypi " \
                     "unfinished uni wip 日本語".split())
 unused_tags   = set("uni".split())
 keys          = "name desc link lang info warn".split()
-badges        = dict(lang = "clj cpp hs js py rb sh gem pypi 日本語".split(),
-                     info = "inactive unfinished".split(),
-                     warn = "on-hold wip".split())
+
+badges = dict(
+  lang = "clj cpp hs js py rb rs sh crate gem pypi 日本語".split(),
+  info = "inactive unfinished".split(),
+  warn = "on-hold wip".split()
+)
 
 assert non_cat_tags & set(cats) == set()
 assert all( any( c in v for c in cats ) for v in tags.values() )

@@ -1,11 +1,13 @@
 [
   ["!",           "Featured"],
   [">",           "Latest"],
+  ["cli",         "Command Line"],
   ["util",        "Utilities"],
   ["dev",         "Development"],
   ["hs",          "Haskell"],
   ["py",          "Python"],
   ["rb",          "Ruby"],
+  ["rs",          "Rust"],
   ["sh",          "Bash"],
   ["lib",         "Libraries"],
   ["fp",          "Functional Programming"],

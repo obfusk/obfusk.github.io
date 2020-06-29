@@ -80,6 +80,11 @@
     "link": "https://github.com/obfusk/bash-presentation"
   },
   {
+    "name": "bat",
+    "desc": "[FORK] A cat(1) clone with wings.",
+    "link": "https://github.com/obfusk/bat"
+  },
+  {
     "name": "belasting-vm",
     "desc": "[DO NOT USE] belasting-vm - scripts for aangifte inkomstenbelasting VM",
     "link": "https://github.com/obfusk/belasting-vm"
@@ -265,13 +270,18 @@
     "link": "https://github.com/obfusk/gh.py"
   },
   {
+    "name": "ghbak",
+    "desc": "ghbak - github backup",
+    "link": "https://github.com/obfusk/ghbak"
+  },
+  {
     "name": "git-boot",
     "desc": "[OLD] git-boot - git meta-projects",
     "link": "https://github.com/obfusk/git-boot"
   },
   {
     "name": "gitbak",
-    "desc": "gitbak - bitbucket/github/gist backup",
+    "desc": "UNMAINTAINED & REPLACED BY https://github.com/obfusk/ghbak !!! [gitbak - bitbucket/github/gist backup]",
     "link": "https://github.com/obfusk/gitbak"
   },
   {
@@ -320,6 +330,11 @@
     "link": "https://github.com/obfusk/httpony"
   },
   {
+    "name": "https-everywhere",
+    "desc": "[FORK] A browser extension that encrypts your communications with many websites that offer HTTPS but still allow unencrypted connections.",
+    "link": "https://github.com/obfusk/https-everywhere"
+  },
+  {
     "name": "i3",
     "desc": "[FORK] A better tiling and dynamic window manager",
     "link": "https://github.com/obfusk/i3"
@@ -345,6 +360,11 @@
     "link": "https://github.com/obfusk/jicofo"
   },
   {
+    "name": "jiten",
+    "desc": "jiten - japanese cli&web dictionary based on jmdict/kanjidic | \u65e5\u672c\u8a9e | \u8f9e\u5178 | \u548c\u82f1\u8f9e\u5178 | \u6f22\u82f1\u5b57\u5178 | \u548c\u72ec\u8f9e\u5178 | \u548c\u862d\u8f9e\u5178",
+    "link": "https://github.com/obfusk/jiten"
+  },
+  {
     "name": "jitsi-meet",
     "desc": "[FORK] Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.",
     "link": "https://github.com/obfusk/jitsi-meet"
@@ -356,7 +376,7 @@
   },
   {
     "name": "kanji-strokes",
-    "desc": "kanji-strokes - \u6f22\u5b57\u3068\u4eee\u540d\u306e\u7b46\u9806 - stroke order for japanese text",
+    "desc": "REPLACED BY https://github.com/obfusk/jiten [kanji-strokes - \u6f22\u5b57\u3068\u4eee\u540d\u306e\u7b46\u9806 - stroke order for japanese text]",
     "link": "https://github.com/obfusk/kanji-strokes"
   },
   {
@@ -640,9 +660,24 @@
     "link": "https://github.com/obfusk/pp-misc"
   },
   {
+    "name": "pridecat",
+    "desc": "[FORK] \ud83c\udff3\ufe0f\u200d\ud83c\udf08 Like cat but more colorful! \u2728",
+    "link": "https://github.com/obfusk/pridecat"
+  },
+  {
     "name": "privacycafe-misc",
     "desc": "miscellaneous stuff for privacy cafe",
     "link": "https://github.com/obfusk/privacycafe-misc"
+  },
+  {
+    "name": "proudcat",
+    "desc": "proudcat - cat + :rainbow:",
+    "link": "https://github.com/obfusk/proudcat"
+  },
+  {
+    "name": "proudcat-rust",
+    "desc": "proudcat-rust - cat + :rainbow:",
+    "link": "https://github.com/obfusk/proudcat-rust"
   },
   {
     "name": "pypride",
@@ -720,6 +755,11 @@
     "link": "https://github.com/obfusk/shelltestrunner"
   },
   {
+    "name": "shields",
+    "desc": "[FORK] Concise, consistent, and legible badges in SVG and raster format",
+    "link": "https://github.com/obfusk/shields"
+  },
+  {
     "name": "simple-stack-exploit",
     "desc": "simple-stack-exploit - a simple demo exploit",
     "link": "https://github.com/obfusk/simple-stack-exploit"
@@ -768,6 +808,11 @@
     "name": "taskmaster",
     "desc": "taskmaster - manage tasks using a Taskfile",
     "link": "https://github.com/obfusk/taskmaster"
+  },
+  {
+    "name": "termux-app",
+    "desc": "[FORK] Android terminal and Linux environment - app repository.",
+    "link": "https://github.com/obfusk/termux-app"
   },
   {
     "name": "trcrt.py",

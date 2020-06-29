@@ -524,6 +524,10 @@
     "desc": "dotfiles | OBSOLETE; see https://github.com/obfusk/dotfiles"
   },
   {
+    "link": "https://gist.github.com/861f2908d58435a56fc6959d77684b0f",
+    "desc": ".cargo/config to use local/offline debian packages instead of crates.io"
+  },
+  {
     "link": "https://gist.github.com/8848c124eaeeec43fea97839ea6eebb2",
     "desc": "git word diff"
   },
@@ -586,6 +590,10 @@
   {
     "link": "https://gist.github.com/c4f0dff753589c251430",
     "desc": "rbx w/ rvm"
+  },
+  {
+    "link": "https://gist.github.com/c8470c65bb5367df83e0af03a3147dc7",
+    "desc": "jitsi security"
   },
   {
     "link": "https://gist.github.com/cc16d2a331f105f3928cc6a959ecd854",

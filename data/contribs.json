@@ -3,6 +3,11 @@
     "title": "Direct Contributions",
     "elems": [
       {
+        "name": "EFForg/https-everywhere",
+        "desc": "A browser extension that encrypts your communications with many websites that offer HTTPS but still allow unencrypted connections.",
+        "link": "https://github.com/EFForg/https-everywhere"
+      },
+      {
         "name": "Homebrew/legacy-homebrew",
         "desc": "\ud83d\udc80 The former home of Homebrew/homebrew (deprecated)",
         "link": "https://github.com/Homebrew/legacy-homebrew"
@@ -11,6 +16,11 @@
         "name": "NixOS/nix",
         "desc": "Nix, the purely functional package manager",
         "link": "https://github.com/NixOS/nix"
+      },
+      {
+        "name": "badges/shields",
+        "desc": "Concise, consistent, and legible badges in SVG and raster format",
+        "link": "https://github.com/badges/shields"
       },
       {
         "name": "comfy/comfortable-mexican-sofa",
@@ -43,14 +53,29 @@
         "link": "https://github.com/i3/i3"
       },
       {
+        "name": "jitsi/jicofo",
+        "desc": "JItsi COnference FOcus is a server side focus component used in Jitsi Meet conferences.",
+        "link": "https://github.com/jitsi/jicofo"
+      },
+      {
         "name": "jitsi/jitsi-meet",
         "desc": "Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.",
         "link": "https://github.com/jitsi/jitsi-meet"
       },
       {
+        "name": "jitsi/jitsi-videobridge",
+        "desc": "Jitsi Videobridge is a WebRTC compatible video router or SFU that lets build highly scalable video conferencing infrastructure (i.e., up to hundreds of conferences per server).",
+        "link": "https://github.com/jitsi/jitsi-videobridge"
+      },
+      {
         "name": "losingkeys/vim-niji",
         "desc": "Yet another rainbow parentheses plugin.",
         "link": "https://github.com/losingkeys/vim-niji"
+      },
+      {
+        "name": "lunasorcery/pridecat",
+        "desc": "\ud83c\udff3\ufe0f\u200d\ud83c\udf08 Like cat but more colorful! \u2728",
+        "link": "https://github.com/lunasorcery/pridecat"
       },
       {
         "name": "ndmitchell/hoogle",
@@ -64,7 +89,7 @@
       },
       {
         "name": "rack/rack",
-        "desc": "a modular Ruby webserver interface",
+        "desc": "A modular Ruby web server interface.",
         "link": "https://github.com/rack/rack"
       },
       {
@@ -88,6 +113,11 @@
         "link": "https://github.com/siers/nix-gitignore"
       },
       {
+        "name": "simonmichael/shelltestrunner",
+        "desc": "Easy, repeatable testing of CLI programs/commands",
+        "link": "https://github.com/simonmichael/shelltestrunner"
+      },
+      {
         "name": "sinatra/sinatra",
         "desc": "Classy web-development dressed in a DSL (official / canonical repo)",
         "link": "https://github.com/sinatra/sinatra"
@@ -96,6 +126,11 @@
         "name": "sstephenson/sprockets",
         "desc": "Rack-based asset packaging system",
         "link": "https://github.com/sstephenson/sprockets"
+      },
+      {
+        "name": "termux/termux-app",
+        "desc": "Android terminal and Linux environment - app repository.",
+        "link": "https://github.com/termux/termux-app"
       },
       {
         "name": "tom-anders/Easy_xkcd",
@@ -138,18 +173,8 @@
         "link": "https://github.com/jashkenas/docco"
       },
       {
-        "name": "jitsi/jicofo",
-        "desc": "JItsi COnference FOcus is a server side focus component used in Jitsi Meet conferences.",
-        "link": "https://github.com/jitsi/jicofo"
-      },
-      {
-        "name": "jitsi/jitsi-videobridge",
-        "desc": "Jitsi Videobridge is a WebRTC compatible video router or SFU that lets build highly scalable video conferencing infrastructure (i.e., up to hundreds of conferences per server).",
-        "link": "https://github.com/jitsi/jitsi-videobridge"
-      },
-      {
         "name": "mdn/sprints",
-        "desc": "Issues and documentation related to MDN's use of ZenHub for sprint planning",
+        "desc": "MDN Web Docs content issue management",
         "link": "https://github.com/mdn/sprints"
       },
       {
@@ -178,9 +203,9 @@
         "link": "https://github.com/sbt/sbt"
       },
       {
-        "name": "simonmichael/shelltestrunner",
-        "desc": "Easy, repeatable testing of CLI programs/commands",
-        "link": "https://github.com/simonmichael/shelltestrunner"
+        "name": "sharkdp/bat",
+        "desc": "A cat(1) clone with wings.",
+        "link": "https://github.com/sharkdp/bat"
       },
       {
         "name": "vim/vim",
