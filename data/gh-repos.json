@@ -15,6 +15,11 @@
     "link": "https://github.com/obfusk/HsYAML"
   },
   {
+    "name": "WaDokuJT-Data",
+    "desc": "[FORK] Official WaDokuJT data source files.",
+    "link": "https://github.com/obfusk/WaDokuJT-Data"
+  },
+  {
     "name": "__obfusk-cljs",
     "desc": null,
     "link": "https://github.com/obfusk/__obfusk-cljs"
@@ -133,6 +138,11 @@
     "name": "clj-obfusk-data",
     "desc": "[clj-]obfusk-data - data validation combinator library for clojure",
     "link": "https://github.com/obfusk/clj-obfusk-data"
+  },
+  {
+    "name": "clmn",
+    "desc": null,
+    "link": "https://github.com/obfusk/clmn"
   },
   {
     "name": "codespy",
@@ -683,6 +693,11 @@
     "name": "pypride",
     "desc": "pypride - python (2+3) PRIDE cipher implementation",
     "link": "https://github.com/obfusk/pypride"
+  },
+  {
+    "name": "python-for-android",
+    "desc": "[FORK] Turn your Python application into an Android APK",
+    "link": "https://github.com/obfusk/python-for-android"
   },
   {
     "name": "rack",

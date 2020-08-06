@@ -130,6 +130,16 @@
     "contrib": true
   },
   {
+    "name": "kivy/python-for-android",
+    "count": 15,
+    "contrib": true
+  },
+  {
+    "name": "librariesio/libraries.io",
+    "count": 1,
+    "contrib": false
+  },
+  {
     "name": "lunasorcery/pridecat",
     "count": 6,
     "contrib": true

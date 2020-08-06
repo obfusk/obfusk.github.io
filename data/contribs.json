@@ -68,6 +68,11 @@
         "link": "https://github.com/jitsi/jitsi-videobridge"
       },
       {
+        "name": "kivy/python-for-android",
+        "desc": "Turn your Python application into an Android APK",
+        "link": "https://github.com/kivy/python-for-android"
+      },
+      {
         "name": "losingkeys/vim-niji",
         "desc": "Yet another rainbow parentheses plugin.",
         "link": "https://github.com/losingkeys/vim-niji"
@@ -171,6 +176,11 @@
         "name": "jashkenas/docco",
         "desc": "Literate Programming can be Quick and Dirty.",
         "link": "https://github.com/jashkenas/docco"
+      },
+      {
+        "name": "librariesio/libraries.io",
+        "desc": ":books: The Open Source Discovery Service",
+        "link": "https://github.com/librariesio/libraries.io"
       },
       {
         "name": "mdn/sprints",

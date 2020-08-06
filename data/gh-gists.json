@@ -104,6 +104,10 @@
     "desc": "gh api + httpie + jq"
   },
   {
+    "link": "https://gist.github.com/3caa8c38829895dfdbe3a8b6625e7004",
+    "desc": "quick command line string equality test"
+  },
+  {
     "link": "https://gist.github.com/44225839d51f82e1800fa6b4613268a2",
     "desc": "(pipe to this command to) view html on command line"
   },
@@ -564,6 +568,10 @@
     "desc": "only allow specific packages from non-free using apt pinning (/etc/apt/sources.list, /etc/apt/preferences.d/non-free)"
   },
   {
+    "link": "https://gist.github.com/b19e087bab1f4e1f7e837dab32c4dad2",
+    "desc": "radicals"
+  },
+  {
     "link": "https://gist.github.com/b1bd473469f78ece2ff3",
     "desc": "nginx ssl"
   },
@@ -622,6 +630,10 @@
   {
     "link": "https://gist.github.com/f0203e520f2a5f759973",
     "desc": "how to use bash read w/ last line w/o newline"
+  },
+  {
+    "link": "https://gist.github.com/f02f8cff391f304fd83dfa1e1a0eb02e",
+    "desc": "git diff xml.gz"
   },
   {
     "link": "https://gist.github.com/f0a782194a0390a9bbed",
