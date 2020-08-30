@@ -6,14 +6,13 @@
     <a href="{{ navs.contribs.link }}" class="alert-link">contributions</a>
     to others' repositories.
   </div>
-  <div class="container">
-    <div class="row">
-      {%- for group in repos %}
-        <div class="col-md-6 col-lg-4 col-xl-3">
-          &rarr; <a href="#{{ anchor_id(group.title) }}">{{ group.title }}</a>
-        </div>
-      {%- endfor %}
-    </div>
+  <div>
+    {%- for group in repos %}
+      <span class="nowrap ml-1 mr-1">
+        &rarr; <a href="#{{ anchor_id(group.title) }}">{{ group.title }}</a>
+        {%- if not loop.last %},{% endif -%}
+      </span>
+    {%- endfor %}
   </div>
   <br />
   {%- for group in repos %}
