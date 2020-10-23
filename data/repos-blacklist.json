@@ -11,6 +11,7 @@
   "bat",
   "belasting-vm",
   "bthesis",
+  "buildozer",
   "bundler",
   "ci-pr-conflict-test",
   "clj.rkt",
@@ -62,6 +63,7 @@
   "pp-misc",
   "pridecat",
   "privacycafe-misc",
+  "pyjnius",
   "python-for-android",
   "rack",
   "react-emoji-render",
@@ -80,5 +82,6 @@
   "vim",
   "vim-niji",
   "vim-niji-1",
-  "waltz"
+  "waltz",
+  "werkzeug"
 ]

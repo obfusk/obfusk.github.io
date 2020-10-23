@@ -115,6 +115,11 @@
     "link": "https://github.com/obfusk/buffer-overflows-101"
   },
   {
+    "name": "buildozer",
+    "desc": "[FORK] Generic Python packager for Android and iOS",
+    "link": "https://github.com/obfusk/buildozer"
+  },
+  {
     "name": "bundler",
     "desc": "[FORK] Manage your application's gem dependencies with less pain",
     "link": "https://github.com/obfusk/bundler"
@@ -128,6 +133,11 @@
     "name": "cahpy",
     "desc": "cahpy - capybaras against humanity",
     "link": "https://github.com/obfusk/cahpy"
+  },
+  {
+    "name": "checkupdates",
+    "desc": null,
+    "link": "https://github.com/obfusk/checkupdates"
   },
   {
     "name": "ci-pr-conflict-test",
@@ -565,6 +575,11 @@
     "link": "https://github.com/obfusk/nixpkgs"
   },
   {
+    "name": "obfusk",
+    "desc": "GitHub profile README",
+    "link": "https://github.com/obfusk/obfusk"
+  },
+  {
     "name": "obfusk.coffee",
     "desc": "[TODO] obfusk.coffee - functional programming library for js/coffee",
     "link": "https://github.com/obfusk/obfusk.coffee"
@@ -688,6 +703,11 @@
     "name": "proudcat-rust",
     "desc": "proudcat-rust - cat + :rainbow:",
     "link": "https://github.com/obfusk/proudcat-rust"
+  },
+  {
+    "name": "pyjnius",
+    "desc": "[FORK] Access Java classes from Python",
+    "link": "https://github.com/obfusk/pyjnius"
   },
   {
     "name": "pypride",
@@ -873,6 +893,11 @@
     "name": "webrtc-xftv",
     "desc": "webrtc-xftv - record video+audio with webrtc/xftv/recorderjs",
     "link": "https://github.com/obfusk/webrtc-xftv"
+  },
+  {
+    "name": "werkzeug",
+    "desc": "[FORK] The comprehensive WSGI web application library.",
+    "link": "https://github.com/obfusk/werkzeug"
   },
   {
     "name": "xuggle-frames-to-video",

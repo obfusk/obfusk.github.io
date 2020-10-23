@@ -3,6 +3,11 @@
     "title": "Direct Contributions",
     "elems": [
       {
+        "name": "AJChapman/formatting",
+        "desc": "Format strings type-safely with combinators",
+        "link": "https://github.com/AJChapman/formatting"
+      },
+      {
         "name": "EFForg/https-everywhere",
         "desc": "A browser extension that encrypts your communications with many websites that offer HTTPS but still allow unencrypted connections.",
         "link": "https://github.com/EFForg/https-everywhere"
@@ -68,6 +73,16 @@
         "link": "https://github.com/jitsi/jitsi-videobridge"
       },
       {
+        "name": "kivy/buildozer",
+        "desc": "Generic Python packager for Android and iOS",
+        "link": "https://github.com/kivy/buildozer"
+      },
+      {
+        "name": "kivy/pyjnius",
+        "desc": "Access Java classes from Python",
+        "link": "https://github.com/kivy/pyjnius"
+      },
+      {
         "name": "kivy/python-for-android",
         "desc": "Turn your Python application into an Android APK",
         "link": "https://github.com/kivy/python-for-android"
@@ -91,6 +106,11 @@
         "name": "open-uri-redirections/open_uri_redirections",
         "desc": "OpenURI patch to allow redirections between HTTP and HTTPS",
         "link": "https://github.com/open-uri-redirections/open_uri_redirections"
+      },
+      {
+        "name": "pallets/werkzeug",
+        "desc": "The comprehensive WSGI web application library.",
+        "link": "https://github.com/pallets/werkzeug"
       },
       {
         "name": "rack/rack",
@@ -156,11 +176,6 @@
         "name": "canonical-web-and-design/canonical.com",
         "desc": "Repository for the new version of canonical.com",
         "link": "https://github.com/canonical-web-and-design/canonical.com"
-      },
-      {
-        "name": "chrisdone/formatting",
-        "desc": "Format strings type-safely with combinators",
-        "link": "https://github.com/chrisdone/formatting"
       },
       {
         "name": "gitlabhq/gitlabhq",
