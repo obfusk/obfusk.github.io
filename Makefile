@@ -19,7 +19,7 @@ build: css/pygments.css data/repos.json data/gists.json \
        data/contribs.json
 	mkdir -p __html__
 	$(PY) build.py
-	cp -av -t __html__ css img js .travis.yml
+	cp -av -t __html__ css img js .github
 
 css/pygments.css:
 	pygmentize -S friendly -f html -a .codehilite > $@
