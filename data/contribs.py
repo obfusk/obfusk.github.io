@@ -23,7 +23,10 @@ with open("data/contribs-blacklist.json") as f:
   blacklist = set(json.load(f))
 
 def info(contrib):
-  if contrib["name"] in cache:
+  if not contrib["gh"]:
+    return { k: v for k, v in contrib.items()
+                  if k in "name desc link".split() }
+  elif contrib["name"] in cache:
     x = cache[contrib["name"]]
   else:
     x = gh.renamed(gh.get_repo_info(contrib["name"], verbose = True),
@@ -32,20 +35,26 @@ def info(contrib):
   return x
 
 def contributions(contribs):
-  contribs_ = [ c for c in contribs if c["name"] not in blacklist ]
-  direct_s  = set( c["name"] for c in contribs_ if c["contrib"] )
-  direct    = [ info(c) for c in contribs_ if c["contrib"] ]
-  indirect  = [ info(c) for c in contribs_ if not c["contrib"]
+  direct_s  = set( c["name"] for c in contribs if c["contrib"] )
+  direct    = [ info(c) for c in contribs if c["contrib"] ]
+  indirect  = [ info(c) for c in contribs if not c["contrib"]
                         and not c["name"] in direct_s ]
   return [cat("Direct Contributions", direct),
           cat("Indirect Contributions | (e.g. Issues)", indirect)]
 
 if __name__ == "__main__":
   with open("data/gh-contribs.json") as f:
-    gh_contribs = json.load(f)
+    contribs = json.load(f)
+  contribs = [ c for c in contribs if c["name"] not in blacklist ]
   with open("data/gh-contribs-add.json") as f:
-    gh_contribs += json.load(f)
-  gh_contribs.sort(key = lambda x: x["name"])
-  contribs = list(contributions(gh_contribs))
+    contribs += json.load(f)
+  for c in contribs: c["gh"] = True
+  with open("data/non-gh-contribs.json") as f:
+    non_gh = json.load(f)
+    for c in non_gh: c["gh"] = False
+    contribs += non_gh
+  assert len(set( c["name"] for c in contribs )) == len(contribs)
+  contribs.sort(key = lambda x: x["name"])
+  data = contributions(contribs)
   with out.open("w") as f:
-    json.dump(contribs, f, indent = 2); f.write("\n")
+    json.dump(data, f, indent = 2); f.write("\n")

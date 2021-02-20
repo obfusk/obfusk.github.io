@@ -15,6 +15,16 @@
     "link": "https://github.com/obfusk/HsYAML"
   },
   {
+    "name": "NewPipe",
+    "desc": "[FORK] A libre lightweight streaming front-end for Android.",
+    "link": "https://github.com/obfusk/NewPipe"
+  },
+  {
+    "name": "NewPipeExtractor",
+    "desc": "[FORK] Core part of NewPipe",
+    "link": "https://github.com/obfusk/NewPipeExtractor"
+  },
+  {
     "name": "WaDokuJT-Data",
     "desc": "[FORK] Official WaDokuJT data source files.",
     "link": "https://github.com/obfusk/WaDokuJT-Data"
@@ -170,6 +180,11 @@
     "link": "https://github.com/obfusk/cpbak"
   },
   {
+    "name": "cpython",
+    "desc": "[FORK] The Python programming language",
+    "link": "https://github.com/obfusk/cpython"
+  },
+  {
     "name": "cryptanalysis",
     "desc": null,
     "link": "https://github.com/obfusk/cryptanalysis"
@@ -320,6 +335,11 @@
     "link": "https://github.com/obfusk/heartspy"
   },
   {
+    "name": "heroku-buildpack-python",
+    "desc": "[FORK] The official Heroku buildpack for Python apps.",
+    "link": "https://github.com/obfusk/heroku-buildpack-python"
+  },
+  {
     "name": "homebrew",
     "desc": "[FORK] The missing package manager for OS X.",
     "link": "https://github.com/obfusk/homebrew"
@@ -381,8 +401,13 @@
   },
   {
     "name": "jiten",
-    "desc": "jiten - japanese cli&web dictionary based on jmdict/kanjidic | \u65e5\u672c\u8a9e | \u8f9e\u5178 | \u548c\u82f1\u8f9e\u5178 | \u6f22\u82f1\u5b57\u5178 | \u548c\u72ec\u8f9e\u5178 | \u548c\u862d\u8f9e\u5178",
+    "desc": "jiten - japanese android/cli/web dictionary based on jmdict/kanjidic \u2014 \u65e5\u672c\u8a9e\u3000\u8f9e\u5178\u3000\u548c\u82f1\u8f9e\u5178\u3000\u6f22\u82f1\u5b57\u5178\u3000\u548c\u72ec\u8f9e\u5178\u3000\u548c\u862d\u8f9e\u5178",
     "link": "https://github.com/obfusk/jiten"
+  },
+  {
+    "name": "jiten-webview",
+    "desc": "jiten-webview - android webview wrapper for jiten.obfusk.dev",
+    "link": "https://github.com/obfusk/jiten-webview"
   },
   {
     "name": "jitsi-meet",
@@ -395,6 +420,11 @@
     "link": "https://github.com/obfusk/jitsi-videobridge"
   },
   {
+    "name": "kakugo",
+    "desc": "[FORK] Learn Japanese with Kakugo",
+    "link": "https://github.com/obfusk/kakugo"
+  },
+  {
     "name": "kanji-strokes",
     "desc": "REPLACED BY https://github.com/obfusk/jiten [kanji-strokes - \u6f22\u5b57\u3068\u4eee\u540d\u306e\u7b46\u9806 - stroke order for japanese text]",
     "link": "https://github.com/obfusk/kanji-strokes"
@@ -403,6 +433,16 @@
     "name": "keep-it-private",
     "desc": "[TODO] keep-it-private - privacy/crypto presentations",
     "link": "https://github.com/obfusk/keep-it-private"
+  },
+  {
+    "name": "kivy",
+    "desc": "[FORK] Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS",
+    "link": "https://github.com/obfusk/kivy"
+  },
+  {
+    "name": "kivy-android-hello-world",
+    "desc": null,
+    "link": "https://github.com/obfusk/kivy-android-hello-world"
   },
   {
     "name": "koneko",
@@ -448,6 +488,11 @@
     "name": "map.sh",
     "desc": "map.sh - map/filter for bash",
     "link": "https://github.com/obfusk/map.sh"
+  },
+  {
+    "name": "mauw.moe",
+    "desc": null,
+    "link": "https://github.com/obfusk/mauw.moe"
   },
   {
     "name": "mdview",
@@ -715,9 +760,24 @@
     "link": "https://github.com/obfusk/pypride"
   },
   {
+    "name": "pyrepl",
+    "desc": "[FORK] Friendly fork of (pretty much) unmaintained https://bitbucket.org/pypy/pyrepl - works on py3 (it is 2019!)",
+    "link": "https://github.com/obfusk/pyrepl"
+  },
+  {
+    "name": "pyrepl-wide",
+    "desc": null,
+    "link": "https://github.com/obfusk/pyrepl-wide"
+  },
+  {
     "name": "python-for-android",
     "desc": "[FORK] Turn your Python application into an Android APK",
     "link": "https://github.com/obfusk/python-for-android"
+  },
+  {
+    "name": "pywebview",
+    "desc": "[FORK] Build GUI for your Python program with JavaScript, HTML, and CSS",
+    "link": "https://github.com/obfusk/pywebview"
   },
   {
     "name": "rack",
@@ -903,5 +963,10 @@
     "name": "xuggle-frames-to-video",
     "desc": "xuggle-frames-to-video (xftv) - turn a stream of frame+timestamp into a video - useful for webrtc",
     "link": "https://github.com/obfusk/xuggle-frames-to-video"
+  },
+  {
+    "name": "youtube-dl",
+    "desc": "[FORK] Command-line program to download videos from YouTube.com and other video sites",
+    "link": "https://github.com/obfusk/youtube-dl"
   }
 ]

@@ -1,0 +1,8 @@
+[
+  {
+    "name": "pypy/pypy",
+    "desc": "PyPy is a very fast and compliant implementation of the Python language.",
+    "link": "https://foss.heptapod.net/pypy/pypy",
+    "contrib": true
+  }
+]

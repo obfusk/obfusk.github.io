@@ -113,6 +113,11 @@
         "link": "https://github.com/pallets/werkzeug"
       },
       {
+        "name": "pypy/pypy",
+        "desc": "PyPy is a very fast and compliant implementation of the Python language.",
+        "link": "https://foss.heptapod.net/pypy/pypy"
+      },
+      {
         "name": "rack/rack",
         "desc": "A modular Ruby web server interface.",
         "link": "https://github.com/rack/rack"
@@ -173,14 +178,19 @@
     "title": "Indirect Contributions | (e.g. Issues)",
     "elems": [
       {
-        "name": "canonical-web-and-design/canonical.com",
-        "desc": "Repository for the new version of canonical.com",
-        "link": "https://github.com/canonical-web-and-design/canonical.com"
+        "name": "NixOS/nixpkgs",
+        "desc": "Nix Packages collection",
+        "link": "https://github.com/NixOS/nixpkgs"
       },
       {
         "name": "gitlabhq/gitlabhq",
         "desc": "GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com",
         "link": "https://github.com/gitlabhq/gitlabhq"
+      },
+      {
+        "name": "hanslub42/rlwrap",
+        "desc": "A readline wrapper",
+        "link": "https://github.com/hanslub42/rlwrap"
       },
       {
         "name": "haskell-suite/haskell-src-exts",
@@ -193,9 +203,9 @@
         "link": "https://github.com/jashkenas/docco"
       },
       {
-        "name": "librariesio/libraries.io",
-        "desc": ":books: The Open Source Discovery Service",
-        "link": "https://github.com/librariesio/libraries.io"
+        "name": "kivy/kivy",
+        "desc": "Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS",
+        "link": "https://github.com/kivy/kivy"
       },
       {
         "name": "mdn/sprints",
@@ -211,6 +221,21 @@
         "name": "pallets/flask",
         "desc": "The Python micro framework for building web applications.",
         "link": "https://github.com/pallets/flask"
+      },
+      {
+        "name": "pypy/pyrepl",
+        "desc": "Friendly fork of (pretty much) unmaintained https://bitbucket.org/pypy/pyrepl - works on py3 (it is 2019!)",
+        "link": "https://github.com/pypy/pyrepl"
+      },
+      {
+        "name": "python/cpython",
+        "desc": "The Python programming language",
+        "link": "https://github.com/python/cpython"
+      },
+      {
+        "name": "r0x0r/pywebview",
+        "desc": "Build GUI for your Python program with JavaScript, HTML, and CSS",
+        "link": "https://github.com/r0x0r/pywebview"
       },
       {
         "name": "resume/resume.github.com",
@@ -231,6 +256,11 @@
         "name": "sharkdp/bat",
         "desc": "A cat(1) clone with wings.",
         "link": "https://github.com/sharkdp/bat"
+      },
+      {
+        "name": "termux/proot-distro",
+        "desc": "An utility for managing installations of the Linux distributions in Termux.",
+        "link": "https://github.com/termux/proot-distro"
       },
       {
         "name": "vim/vim",

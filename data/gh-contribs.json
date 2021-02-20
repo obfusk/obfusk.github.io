@@ -25,6 +25,11 @@
     "contrib": true
   },
   {
+    "name": "NixOS/nixpkgs",
+    "count": 1,
+    "contrib": false
+  },
+  {
     "name": "ajaxorg/ace",
     "count": 1,
     "contrib": false
@@ -52,6 +57,11 @@
   {
     "name": "bitwalker/distillery",
     "count": 1,
+    "contrib": false
+  },
+  {
+    "name": "blastrock/kakugo",
+    "count": 2,
     "contrib": false
   },
   {
@@ -85,6 +95,11 @@
     "contrib": true
   },
   {
+    "name": "hanslub42/rlwrap",
+    "count": 1,
+    "contrib": false
+  },
+  {
     "name": "hashicorp/vagrant",
     "count": 6,
     "contrib": true
@@ -96,6 +111,11 @@
   },
   {
     "name": "haskell-suite/haskell-src-exts",
+    "count": 1,
+    "contrib": false
+  },
+  {
+    "name": "heroku/heroku-buildpack-python",
     "count": 1,
     "contrib": false
   },
@@ -131,8 +151,13 @@
   },
   {
     "name": "kivy/buildozer",
-    "count": 1,
+    "count": 2,
     "contrib": true
+  },
+  {
+    "name": "kivy/kivy",
+    "count": 1,
+    "contrib": false
   },
   {
     "name": "kivy/pyjnius",
@@ -141,7 +166,7 @@
   },
   {
     "name": "kivy/python-for-android",
-    "count": 27,
+    "count": 48,
     "contrib": true
   },
   {
@@ -188,6 +213,26 @@
     "name": "pallets/werkzeug",
     "count": 1,
     "contrib": true
+  },
+  {
+    "name": "pop-os/pop",
+    "count": 1,
+    "contrib": false
+  },
+  {
+    "name": "pypy/pyrepl",
+    "count": 2,
+    "contrib": false
+  },
+  {
+    "name": "python/cpython",
+    "count": 1,
+    "contrib": false
+  },
+  {
+    "name": "r0x0r/pywebview",
+    "count": 1,
+    "contrib": false
   },
   {
     "name": "rack/rack",
@@ -251,6 +296,11 @@
   },
   {
     "name": "teampoltergeist/poltergeist",
+    "count": 1,
+    "contrib": false
+  },
+  {
+    "name": "termux/proot-distro",
     "count": 1,
     "contrib": false
   },

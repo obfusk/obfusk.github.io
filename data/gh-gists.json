@@ -12,6 +12,14 @@
     "desc": "haskell repl example"
   },
   {
+    "link": "https://gist.github.com/086f6e4c496340d57ebec0b764416ded",
+    "desc": "frequently used bash commands"
+  },
+  {
+    "link": "https://gist.github.com/0a6f23d0ef945fef8d54bfed7dc52da0",
+    "desc": "virsh"
+  },
+  {
     "link": "https://gist.github.com/0a8368d41b67a36d42966d8f39874aaa",
     "desc": ""
   },
@@ -48,6 +56,10 @@
     "desc": "push all remotes"
   },
   {
+    "link": "https://gist.github.com/14d2997a99bbd2819c3c61e6eaea1c10",
+    "desc": "python build diff"
+  },
+  {
     "link": "https://gist.github.com/16e68f10598f83d8032b",
     "desc": "nullmailer w/ starttls & auth"
   },
@@ -58,6 +70,10 @@
   {
     "link": "https://gist.github.com/1a7ca8860b26cdbc7c37e356c1a3aaa3",
     "desc": "youtube-dl \"GUI\""
+  },
+  {
+    "link": "https://gist.github.com/1e648292acbe3b8bf0617903c22624a9",
+    "desc": "differentiate annotated & lightweight git tags"
   },
   {
     "link": "https://gist.github.com/208597ccc64bf9b436ed",
@@ -140,6 +156,10 @@
     "desc": "get fingerprint of public ssh key"
   },
   {
+    "link": "https://gist.github.com/48f6a73c63a0e12cee1fa9a9df02a594",
+    "desc": "ssh authorized_keys from github"
+  },
+  {
     "link": "https://gist.github.com/4964940",
     "desc": "obfusk-data w/ mongoid"
   },
@@ -154,6 +174,10 @@
   {
     "link": "https://gist.github.com/4abe41103de8c3a46fb0d2352bcf9e72",
     "desc": "attempt to build vault w/ ui on nix | --> https://github.com/obfusk/nix-vault-with-ui"
+  },
+  {
+    "link": "https://gist.github.com/4ad83310af9b5c32215fd0094f4e4b49",
+    "desc": "quick and dirty logcat for specific package only"
   },
   {
     "link": "https://gist.github.com/4f13e884c24637a49c2468f5cea1041b",
@@ -564,6 +588,10 @@
     "desc": "xss"
   },
   {
+    "link": "https://gist.github.com/a942e5410edf33932d93238abab3ab9f",
+    "desc": "fake python3-vagrant package (to install fdroidserver w/o vagrant)"
+  },
+  {
     "link": "https://gist.github.com/afc282bf41694885ef0c3abc698a5780",
     "desc": "only allow specific packages from non-free using apt pinning (/etc/apt/sources.list, /etc/apt/preferences.d/non-free)"
   },
@@ -578,6 +606,14 @@
   {
     "link": "https://gist.github.com/b1f35789eb3b728f8779c5fa8a3d1285",
     "desc": "weird behaviour with pypy"
+  },
+  {
+    "link": "https://gist.github.com/b3664231f75576b4a7c52f49f844d780",
+    "desc": "external-screen-fu"
+  },
+  {
+    "link": "https://gist.github.com/b516e72dcaec53319b1628f6343b22db",
+    "desc": "jiten gbp"
   },
   {
     "link": "https://gist.github.com/b656f4aedc0ecbacdd2b467084685a4c",
@@ -600,8 +636,16 @@
     "desc": "rbx w/ rvm"
   },
   {
+    "link": "https://gist.github.com/c51d353e75d576bd5cb8e92456cdec47",
+    "desc": "jiten for nixos"
+  },
+  {
     "link": "https://gist.github.com/c8470c65bb5367df83e0af03a3147dc7",
     "desc": "jitsi security"
+  },
+  {
+    "link": "https://gist.github.com/ca532591f54492297c1d05520fecc741",
+    "desc": "open files in vim tabs"
   },
   {
     "link": "https://gist.github.com/cc16d2a331f105f3928cc6a959ecd854",
@@ -614,6 +658,10 @@
   {
     "link": "https://gist.github.com/cd99740e5562197908e7",
     "desc": "use xrandr to enable only HDMI1 if connected, LVDS1 otherwise | OBSOLETE; see https://github.com/obfusk/dotfiles"
+  },
+  {
+    "link": "https://gist.github.com/d4cdbc67b8b1ee8f09688ba7dd72d968",
+    "desc": "strip ansi escape (e.g. colour) codes"
   },
   {
     "link": "https://gist.github.com/d4fe43e87999d08384bb6c76b37e9619",
@@ -642,6 +690,10 @@
   {
     "link": "https://gist.github.com/f73cb9cbd78bec5c270a",
     "desc": "dns root servers"
+  },
+  {
+    "link": "https://gist.github.com/f7522fad46899c29004f123a4d41817a",
+    "desc": "diff + bat"
   },
   {
     "link": "https://gist.github.com/f813333808e57f6d598cc18bcffb01e9",
