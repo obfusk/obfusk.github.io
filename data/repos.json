@@ -100,6 +100,14 @@
         ]
       },
       {
+        "name": "jiten-webview",
+        "desc": "jiten-webview - android webview wrapper for jiten.obfusk.dev",
+        "link": "https://github.com/obfusk/jiten-webview",
+        "lang": [
+          "\u65e5\u672c\u8a9e"
+        ]
+      },
+      {
         "name": "koneko",
         "desc": "koneko - a concatenative not-quite-lisp for kittens",
         "link": "https://github.com/obfusk/koneko",
@@ -148,6 +156,15 @@
         "lang": [
           "rb",
           "gem"
+        ]
+      },
+      {
+        "name": "shtst",
+        "desc": "shtst - simple cli testing",
+        "link": "https://github.com/obfusk/shtst",
+        "lang": [
+          "py",
+          "pypi"
         ]
       },
       {
@@ -215,6 +232,14 @@
         ]
       },
       {
+        "name": "jiten-webview",
+        "desc": "jiten-webview - android webview wrapper for jiten.obfusk.dev",
+        "link": "https://github.com/obfusk/jiten-webview",
+        "lang": [
+          "\u65e5\u672c\u8a9e"
+        ]
+      },
+      {
         "name": "koneko",
         "desc": "koneko - a concatenative not-quite-lisp for kittens",
         "link": "https://github.com/obfusk/koneko",
@@ -259,6 +284,15 @@
         "lang": [
           "rs",
           "crate"
+        ]
+      },
+      {
+        "name": "shtst",
+        "desc": "shtst - simple cli testing",
+        "link": "https://github.com/obfusk/shtst",
+        "lang": [
+          "py",
+          "pypi"
         ]
       }
     ]
@@ -310,6 +344,15 @@
         "lang": [
           "rs",
           "crate"
+        ]
+      },
+      {
+        "name": "shtst",
+        "desc": "shtst - simple cli testing",
+        "link": "https://github.com/obfusk/shtst",
+        "lang": [
+          "py",
+          "pypi"
         ]
       }
     ]
@@ -408,6 +451,15 @@
         "lang": [
           "rs",
           "crate"
+        ]
+      },
+      {
+        "name": "shtst",
+        "desc": "shtst - simple cli testing",
+        "link": "https://github.com/obfusk/shtst",
+        "lang": [
+          "py",
+          "pypi"
         ]
       },
       {
@@ -637,6 +689,15 @@
         "link": "https://github.com/obfusk/pypride",
         "lang": [
           "py"
+        ]
+      },
+      {
+        "name": "shtst",
+        "desc": "shtst - simple cli testing",
+        "link": "https://github.com/obfusk/shtst",
+        "lang": [
+          "py",
+          "pypi"
         ]
       },
       {
@@ -1668,6 +1729,14 @@
         "name": "i3-config",
         "desc": "my i3 config",
         "link": "https://github.com/obfusk/i3-config"
+      },
+      {
+        "name": "jiten-webview",
+        "desc": "jiten-webview - android webview wrapper for jiten.obfusk.dev",
+        "link": "https://github.com/obfusk/jiten-webview",
+        "lang": [
+          "\u65e5\u672c\u8a9e"
+        ]
       },
       {
         "name": "kanji-strokes",
