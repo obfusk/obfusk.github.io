@@ -227,7 +227,7 @@
   {
     "name": "python/cpython",
     "count": 1,
-    "contrib": false
+    "contrib": true
   },
   {
     "name": "r0x0r/pywebview",

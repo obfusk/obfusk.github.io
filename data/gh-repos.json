@@ -855,6 +855,11 @@
     "link": "https://github.com/obfusk/shields"
   },
   {
+    "name": "shtst",
+    "desc": null,
+    "link": "https://github.com/obfusk/shtst"
+  },
+  {
     "name": "simple-stack-exploit",
     "desc": "simple-stack-exploit - a simple demo exploit",
     "link": "https://github.com/obfusk/simple-stack-exploit"

@@ -118,6 +118,11 @@
         "link": "https://foss.heptapod.net/pypy/pypy"
       },
       {
+        "name": "python/cpython",
+        "desc": "The Python programming language",
+        "link": "https://github.com/python/cpython"
+      },
+      {
         "name": "rack/rack",
         "desc": "A modular Ruby web server interface.",
         "link": "https://github.com/rack/rack"
@@ -226,11 +231,6 @@
         "name": "pypy/pyrepl",
         "desc": "Friendly fork of (pretty much) unmaintained https://bitbucket.org/pypy/pyrepl - works on py3 (it is 2019!)",
         "link": "https://github.com/pypy/pyrepl"
-      },
-      {
-        "name": "python/cpython",
-        "desc": "The Python programming language",
-        "link": "https://github.com/python/cpython"
       },
       {
         "name": "r0x0r/pywebview",
