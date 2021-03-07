@@ -113,7 +113,7 @@
         "link": "https://github.com/pallets/werkzeug"
       },
       {
-        "name": "pypy/pypy",
+        "name": "pypy",
         "desc": "PyPy is a very fast and compliant implementation of the Python language.",
         "link": "https://foss.heptapod.net/pypy/pypy"
       },
@@ -191,6 +191,11 @@
         "name": "gitlabhq/gitlabhq",
         "desc": "GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com",
         "link": "https://github.com/gitlabhq/gitlabhq"
+      },
+      {
+        "name": "gnupg",
+        "desc": "The GNU Privacy Guard",
+        "link": "https://dev.gnupg.org"
       },
       {
         "name": "hanslub42/rlwrap",

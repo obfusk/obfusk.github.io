@@ -1,8 +1,14 @@
 [
   {
-    "name": "pypy/pypy",
+    "name": "pypy",
     "desc": "PyPy is a very fast and compliant implementation of the Python language.",
     "link": "https://foss.heptapod.net/pypy/pypy",
     "contrib": true
+  },
+  {
+    "name": "gnupg",
+    "desc": "The GNU Privacy Guard",
+    "link": "https://dev.gnupg.org",
+    "contrib": false
   }
 ]
