@@ -10,5 +10,11 @@
     "desc": "The GNU Privacy Guard",
     "link": "https://dev.gnupg.org",
     "contrib": false
+  },
+  {
+    "name": "fdroiddata",
+    "desc": "Data for the main F-Droid repository at https://f-droid.org",
+    "link": "https://gitlab.com/fdroid/fdroiddata",
+    "contrib": true
   }
 ]

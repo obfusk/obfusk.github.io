@@ -33,6 +33,11 @@
         "link": "https://github.com/comfy/comfortable-mexican-sofa"
       },
       {
+        "name": "fdroiddata",
+        "desc": "Data for the main F-Droid repository at https://f-droid.org",
+        "link": "https://gitlab.com/fdroid/fdroiddata"
+      },
+      {
         "name": "gnab/remark",
         "desc": "A simple, in-browser, markdown-driven slideshow tool.",
         "link": "https://github.com/gnab/remark"
