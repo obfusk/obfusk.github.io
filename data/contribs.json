@@ -38,6 +38,11 @@
         "link": "https://gitlab.com/fdroid/fdroiddata"
       },
       {
+        "name": "fdroidserver",
+        "desc": "Tools for managing builds, indexes, updates, and deployments for F-Droid repositories.",
+        "link": "https://gitlab.com/fdroid/fdroidserver"
+      },
+      {
         "name": "gnab/remark",
         "desc": "A simple, in-browser, markdown-driven slideshow tool.",
         "link": "https://github.com/gnab/remark"
