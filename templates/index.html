@@ -16,8 +16,8 @@
     </div>
   </div>
   <hr/>
-  <div class="row justify-content-center mb-1">
-    <div class="col col-lg-10 card-deck">
+  <div class="row justify-content-center">
+    <div class="col col-lg-10">
       <div class="card">
         <h3 class="card-header">
           <span class="nowrap">{{ name }}</span>
@@ -51,7 +51,8 @@
               Mathematics.
             </li>
             <li>
-              Python, Haskell, Lisp;
+              <a href="https://www.python.org">Python</a>,
+              <a href="https://www.haskell.org">Haskell</a>, Lisp;
               <a href="https://reproducible-builds.org">Reproducible Builds</a>;
               <a href="https://www.debian.org">Debian</a> GNU/Linux.
             </li>
@@ -65,12 +66,16 @@
     </div>
   </div>
   <div class="row justify-content-center">
-    <div class="col-md-6 col-lg-5 card-deck">
-      <div class="card my-2 ml-md-0 mr-md-2">
+    <div class="col-md-6 col-lg-5 pr-md-0">
+      <div class="card mt-3 ml-md-0 mr-md-2">
+        <div class="card-header py-2">Code Sharing & Contact</div>
         <div class="card-body pb-1">
           <p>
             <span class="nowrap">
               &rarr; <a href="{{ navs.repos.link }}">Repositories</a>,
+            </span>
+            <span class="nowrap">
+              &rarr; <a href="{{ navs.contribs.link }}">Contributions</a>,
             </span>
             <span class="nowrap">
               &rarr; <a href="{{ navs.blog.link }}">Blog</a>
@@ -111,12 +116,34 @@
           </p>
         </div>
       </div>
+      <div class="card mt-3 ml-md-0 mr-md-2">
+        <div class="card-header py-2">Android Apps</div>
+        <div class="card-body pb-1">
+          <p>
+            &rarr;
+            <a href="https://github.com/obfusk/jiten#readme"
+              >Jiten Japanese Dictionary</a>
+            <br/>
+            &rarr;
+            <a href="https://github.com/obfusk/jiten-webview#readme"
+              >Jiten Japanese Dictionary [Online]</a>
+            <br/>
+            &rarr;
+            <a href="https://github.com/obfusk/sokobang#readme"
+              >Sokoban(g) Puzzle</a>
+          </p>
+        </div>
+      </div>
     </div>
-    <div class="col-md-6 col-lg-5 card-deck">
-      <div class="card my-2 ml-md-2 mr-md-0">
+    <div class="col-md-6 col-lg-5 pl-md-0">
+      <div class="card mt-3 ml-md-2 mr-md-0">
         <div class="card-header py-2">Projects</div>
         <div class="card-body pb-1">
           <p>
+            &rarr;
+            <a href="https://github.com/obfusk/apksigcopier"
+              >apksigcopier - copy/extract/patch apk signatures</a>
+            <br/>
             &rarr;
             <a href="https://github.com/obfusk/jiten"
               >jiten - japanese dictionary</a>
@@ -134,6 +161,10 @@
               >shtst - simple cli testing</a>
           </p>
           <p>
+            &rarr;
+            <a href="https://github.com/obfusk/bash-cheatsheet"
+              >bash cheat sheet</a>
+            <br/>
             &rarr;
             <a href="/repos.html#a_games">games</a>
           </p>

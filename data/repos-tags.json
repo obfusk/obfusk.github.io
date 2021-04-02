@@ -3,6 +3,7 @@
   "active-dump":                      ["rb", "lib", "gem", "inactive"],
   "algorithms.cpp":                   ["cpp", "misc", "inactive", "unfinished"],
   "algorithms.py":                    ["py", "uni", "inactive"],
+  "apksigcopier":                     ["py", "util", "cli", "dev", "lib", "pypi", "!", ">"],
   "autossh-init":                     ["sh", "admin", "!"],
   "baktogit":                         ["sh", "admin"],
   "bash-cheatsheet":                  ["sh", "!"],

@@ -568,6 +568,10 @@
     "desc": "download multiple torrents w/ aria2c"
   },
   {
+    "link": "https://gist.github.com/8ce62af591a0dd3c2020107b28ffa2da",
+    "desc": "apk signature copying"
+  },
+  {
     "link": "https://gist.github.com/9086bbb1c5511f86801dd1a7b1792f8a",
     "desc": "diff the + and - parts of a diff; useful when moving things around"
   },

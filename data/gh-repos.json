@@ -65,6 +65,11 @@
     "link": "https://github.com/obfusk/ansible"
   },
   {
+    "name": "apksigcopier",
+    "desc": "apksigcopier - copy/extract/patch apk signatures",
+    "link": "https://github.com/obfusk/apksigcopier"
+  },
+  {
     "name": "aruba-obfusk",
     "desc": "aruba-obfusk - aruba extensions",
     "link": "https://github.com/obfusk/aruba-obfusk"
@@ -253,6 +258,11 @@
     "name": "eftcmdr-nap",
     "desc": "eftcmdr-nap - eftcmdr + nap",
     "link": "https://github.com/obfusk/eftcmdr-nap"
+  },
+  {
+    "name": "evilarc",
+    "desc": "Create tar/zip archives that can exploit directory traversal vulnerabilities",
+    "link": "https://github.com/obfusk/evilarc"
   },
   {
     "name": "flask",

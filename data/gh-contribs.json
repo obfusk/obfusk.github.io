@@ -166,7 +166,7 @@
   },
   {
     "name": "kivy/python-for-android",
-    "count": 50,
+    "count": 51,
     "contrib": true
   },
   {
@@ -226,7 +226,7 @@
   },
   {
     "name": "python/cpython",
-    "count": 1,
+    "count": 2,
     "contrib": true
   },
   {

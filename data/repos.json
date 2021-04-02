@@ -3,6 +3,15 @@
     "title": "Featured",
     "elems": [
       {
+        "name": "apksigcopier",
+        "desc": "apksigcopier - copy/extract/patch apk signatures",
+        "link": "https://github.com/obfusk/apksigcopier",
+        "lang": [
+          "py",
+          "pypi"
+        ]
+      },
+      {
         "name": "autossh-init",
         "desc": "autossh-init - AutoSSH init script",
         "link": "https://github.com/obfusk/autossh-init",
@@ -189,6 +198,15 @@
     "title": "Latest",
     "elems": [
       {
+        "name": "apksigcopier",
+        "desc": "apksigcopier - copy/extract/patch apk signatures",
+        "link": "https://github.com/obfusk/apksigcopier",
+        "lang": [
+          "py",
+          "pypi"
+        ]
+      },
+      {
         "name": "cahpy",
         "desc": "cahpy - capybaras against humanity",
         "link": "https://github.com/obfusk/cahpy",
@@ -301,6 +319,15 @@
     "title": "Command Line",
     "elems": [
       {
+        "name": "apksigcopier",
+        "desc": "apksigcopier - copy/extract/patch apk signatures",
+        "link": "https://github.com/obfusk/apksigcopier",
+        "lang": [
+          "py",
+          "pypi"
+        ]
+      },
+      {
         "name": "ghbak",
         "desc": "ghbak - github backup",
         "link": "https://github.com/obfusk/ghbak",
@@ -360,6 +387,15 @@
   {
     "title": "Utilities",
     "elems": [
+      {
+        "name": "apksigcopier",
+        "desc": "apksigcopier - copy/extract/patch apk signatures",
+        "link": "https://github.com/obfusk/apksigcopier",
+        "lang": [
+          "py",
+          "pypi"
+        ]
+      },
       {
         "name": "ghbak",
         "desc": "ghbak - github backup",
@@ -484,6 +520,15 @@
     "title": "Development",
     "elems": [
       {
+        "name": "apksigcopier",
+        "desc": "apksigcopier - copy/extract/patch apk signatures",
+        "link": "https://github.com/obfusk/apksigcopier",
+        "lang": [
+          "py",
+          "pypi"
+        ]
+      },
+      {
         "name": "dev-vm-ruby",
         "desc": "dev-vm-ruby - ruby development VM (scripts)",
         "link": "https://github.com/obfusk/dev-vm-ruby",
@@ -555,6 +600,15 @@
         ],
         "info": [
           "inactive"
+        ]
+      },
+      {
+        "name": "apksigcopier",
+        "desc": "apksigcopier - copy/extract/patch apk signatures",
+        "link": "https://github.com/obfusk/apksigcopier",
+        "lang": [
+          "py",
+          "pypi"
         ]
       },
       {
@@ -1050,6 +1104,15 @@
         ],
         "info": [
           "inactive"
+        ]
+      },
+      {
+        "name": "apksigcopier",
+        "desc": "apksigcopier - copy/extract/patch apk signatures",
+        "link": "https://github.com/obfusk/apksigcopier",
+        "lang": [
+          "py",
+          "pypi"
         ]
       },
       {

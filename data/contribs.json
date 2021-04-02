@@ -244,7 +244,7 @@
       },
       {
         "name": "pypy/pyrepl",
-        "desc": "Friendly fork of (pretty much) unmaintained https://bitbucket.org/pypy/pyrepl - works on py3 (it is 2019!)",
+        "desc": "Pure python readline - works on python2,python3,ppy2,pypy3",
         "link": "https://github.com/pypy/pyrepl"
       },
       {
