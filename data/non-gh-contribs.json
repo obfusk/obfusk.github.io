@@ -9,7 +9,7 @@
     "name": "gnupg",
     "desc": "The GNU Privacy Guard",
     "link": "https://dev.gnupg.org",
-    "contrib": false
+    "contrib": true
   },
   {
     "name": "fdroiddata",
