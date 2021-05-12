@@ -644,6 +644,10 @@
     "desc": "jiten for nixos"
   },
   {
+    "link": "https://gist.github.com/c70a6f6816ba475f161caf82002c33d5",
+    "desc": "find/strip UTC timestamps from ZIP files' CD extra fields"
+  },
+  {
     "link": "https://gist.github.com/c8470c65bb5367df83e0af03a3147dc7",
     "desc": "jitsi security"
   },
@@ -678,6 +682,10 @@
   {
     "link": "https://gist.github.com/dba6447e4e28277c2791d86463283385",
     "desc": "<img> w/ data-src -> src"
+  },
+  {
+    "link": "https://gist.github.com/dcf844b701ed44d2fdfcd76285b3500c",
+    "desc": "[draft] apksigcopier abstract"
   },
   {
     "link": "https://gist.github.com/f0203e520f2a5f759973",
@@ -718,6 +726,10 @@
   {
     "link": "https://gist.github.com/f92c5c6ed91c86c0036eadb22fca25f2",
     "desc": ""
+  },
+  {
+    "link": "https://gist.github.com/f9b68f58ef7afcd41ad5b0b51d82274b",
+    "desc": "fast way to get the minSdkVersion from an APK"
   },
   {
     "link": "https://gist.github.com/fa975e206fe428235da784ac2f487fe5",

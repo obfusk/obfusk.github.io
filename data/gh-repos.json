@@ -440,6 +440,11 @@
     "link": "https://github.com/obfusk/kanji-strokes"
   },
   {
+    "name": "kanjidraw",
+    "desc": "kanjidraw - handwritten kanji recognition library + gui",
+    "link": "https://github.com/obfusk/kanjidraw"
+  },
+  {
     "name": "keep-it-private",
     "desc": "[TODO] keep-it-private - privacy/crypto presentations",
     "link": "https://github.com/obfusk/keep-it-private"

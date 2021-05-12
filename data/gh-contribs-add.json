@@ -1,5 +1,15 @@
 [
   {
+    "name": "NixOS/nix",
+    "count": 3,
+    "contrib": true
+  },
+  {
+    "name": "NixOS/nixpkgs",
+    "count": 1,
+    "contrib": true
+  },
+  {
     "name": "gitlabhq/gitlabhq",
     "count": 1,
     "contrib": false

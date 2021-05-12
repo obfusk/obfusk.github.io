@@ -40,6 +40,7 @@
   "jiten":                            ["py", "util", "cli", "web", "pypi", "日本語", "!", ">"],
   "jiten-webview":                    ["misc", "日本語", "!", ">"],
   "kanji-strokes":                    ["misc", "日本語"],
+  "kanjidraw":                        ["py", "util", "lib", "pypi", "日本語", "!", ">"],
   "keep-it-private":                  ["fs", "pres", "unfinished", "on-hold"],
   "koneko":                           ["hs", "dev", "fp", "wip", "!", ">"],
   "localconfig-rails-example":        ["rb", "lib", "web", "inactive"],

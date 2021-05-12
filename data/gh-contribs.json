@@ -22,7 +22,7 @@
   {
     "name": "NixOS/nix",
     "count": 3,
-    "contrib": true
+    "contrib": false
   },
   {
     "name": "NixOS/nixpkgs",
@@ -30,7 +30,17 @@
     "contrib": false
   },
   {
+    "name": "TeamNewPipe/NewPipe",
+    "count": 1,
+    "contrib": false
+  },
+  {
     "name": "ajaxorg/ace",
+    "count": 1,
+    "contrib": false
+  },
+  {
+    "name": "androguard/androguard",
     "count": 1,
     "contrib": false
   },
@@ -151,7 +161,7 @@
   },
   {
     "name": "kivy/buildozer",
-    "count": 2,
+    "count": 3,
     "contrib": true
   },
   {
@@ -166,12 +176,12 @@
   },
   {
     "name": "kivy/python-for-android",
-    "count": 51,
+    "count": 54,
     "contrib": true
   },
   {
     "name": "librariesio/libraries.io",
-    "count": 1,
+    "count": 2,
     "contrib": false
   },
   {

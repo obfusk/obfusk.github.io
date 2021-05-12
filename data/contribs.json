@@ -23,6 +23,11 @@
         "link": "https://github.com/NixOS/nix"
       },
       {
+        "name": "NixOS/nixpkgs",
+        "desc": "Nix Packages collection",
+        "link": "https://github.com/NixOS/nixpkgs"
+      },
+      {
         "name": "badges/shields",
         "desc": "Concise, consistent, and legible badges in SVG and raster format",
         "link": "https://github.com/badges/shields"
@@ -198,9 +203,14 @@
     "title": "Indirect Contributions | (e.g. Issues)",
     "elems": [
       {
-        "name": "NixOS/nixpkgs",
-        "desc": "Nix Packages collection",
-        "link": "https://github.com/NixOS/nixpkgs"
+        "name": "TeamNewPipe/NewPipe",
+        "desc": "A libre lightweight streaming front-end for Android.",
+        "link": "https://github.com/TeamNewPipe/NewPipe"
+      },
+      {
+        "name": "androguard/androguard",
+        "desc": "Reverse engineering, Malware and goodware analysis of Android applications ... and more (ninja !)",
+        "link": "https://github.com/androguard/androguard"
       },
       {
         "name": "gitlabhq/gitlabhq",
@@ -244,7 +254,7 @@
       },
       {
         "name": "pypy/pyrepl",
-        "desc": "Pure python readline - works on python2,python3,ppy2,pypy3",
+        "desc": "Pure python readline - works on Python 2, Python 3, PyPy 2, PyPy 3",
         "link": "https://github.com/pypy/pyrepl"
       },
       {

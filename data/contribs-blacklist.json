@@ -1,5 +1,7 @@
 [
   "DisciplinaOU/disciplina-nixops",
+  "NixOS/nix",
+  "NixOS/nixpkgs",
   "ajaxorg/ace",
   "ansible/ansible",
   "ariya/phantomjs",
