@@ -33,6 +33,8 @@ data          = dict(                               # TODO: .json?
   title       = "/var/log/obfusk",
   tagline     = "hacking ⇒ ¬sleeping",
   name        = "Felix C. Stegerman",
+  sachineko   = "Felix C. Stegerman 「幸猫」",
+  aboutme     = "Fixer of Bugs (always happy to help -- feel free to ask!).",
   year        = date.today().year,
   navs        = OrderedDict([
     ("index"    , dict(link = "/"             , text = "Home")),
