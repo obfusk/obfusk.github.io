@@ -4,12 +4,17 @@
     <meta charset="utf-8" />
     <meta name="viewport"
           content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-    <meta name="description" content="{{ sachineko }} | {{ aboutme }}" />
-    <meta property="og:image" content="https://obfusk.ch/img/obfusk.png" />
+    <meta name="description"
+          content="{{ sachineko }} | {{ aboutme }}" />
+    <meta property="og:title"
+          content="{{ title }} - {{ tagline }}{% if page != 'index' %} - {{ ptitles.get(page, page) }}{% endif %}" />
+    <meta property="og:description"
+          content="{{ sachineko }} | {{ aboutme }}" />
+    <meta property="og:image"
+          content="https://obfusk.ch/img/obfusk.png" />
     <link rel="icon" href="/img/obfusk.ico" />
     <title>
-      {{ title }} - {{ tagline }}
-      {%- if page != "index" %} - {{ ptitles.get(page, page) }}{% endif %}
+      {{ title }} - {{ tagline }}{% if page != "index" %} - {{ ptitles.get(page, page) }}{% endif %}
     </title>
     <link href="/css/bootstrap.min.css" rel="stylesheet" />
     <link href="/css/pygments.css" rel="stylesheet" />
