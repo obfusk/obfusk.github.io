@@ -16,7 +16,7 @@
   },
   {
     "name": "Homebrew/legacy-homebrew",
-    "count": 1,
+    "count": 3,
     "contrib": true
   },
   {
@@ -31,6 +31,11 @@
   },
   {
     "name": "TeamNewPipe/NewPipe",
+    "count": 2,
+    "contrib": false
+  },
+  {
+    "name": "admin-ch/CovidCertificate-App-Android",
     "count": 1,
     "contrib": false
   },
@@ -73,6 +78,11 @@
     "name": "blastrock/kakugo",
     "count": 2,
     "contrib": false
+  },
+  {
+    "name": "brian-team/brian2",
+    "count": 2,
+    "contrib": true
   },
   {
     "name": "canonical-web-and-design/canonical.com",
@@ -215,6 +225,11 @@
     "contrib": false
   },
   {
+    "name": "pallets/click",
+    "count": 1,
+    "contrib": false
+  },
+  {
     "name": "pallets/flask",
     "count": 1,
     "contrib": false
@@ -300,6 +315,11 @@
     "contrib": true
   },
   {
+    "name": "spesmilo/electrum",
+    "count": 1,
+    "contrib": false
+  },
+  {
     "name": "sstephenson/sprockets",
     "count": 2,
     "contrib": true
@@ -333,6 +353,11 @@
     "name": "tommoor/react-emoji-render",
     "count": 5,
     "contrib": true
+  },
+  {
+    "name": "untra/polyglot",
+    "count": 1,
+    "contrib": false
   },
   {
     "name": "vim/vim",

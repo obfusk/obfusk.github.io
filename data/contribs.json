@@ -33,6 +33,11 @@
         "link": "https://github.com/badges/shields"
       },
       {
+        "name": "brian-team/brian2",
+        "desc": "Brian is a free, open source simulator for spiking neural networks. ",
+        "link": "https://github.com/brian-team/brian2"
+      },
+      {
         "name": "comfy/comfortable-mexican-sofa",
         "desc": "ComfortableMexicanSofa is a powerful Ruby on Rails 5.2+ CMS (Content Management System) Engine",
         "link": "https://github.com/comfy/comfortable-mexican-sofa"
@@ -208,6 +213,11 @@
         "link": "https://github.com/TeamNewPipe/NewPipe"
       },
       {
+        "name": "admin-ch/CovidCertificate-App-Android",
+        "desc": "CovidCertificate Apps for Android",
+        "link": "https://github.com/admin-ch/CovidCertificate-App-Android"
+      },
+      {
         "name": "androguard/androguard",
         "desc": "Reverse engineering, Malware and goodware analysis of Android applications ... and more (ninja !)",
         "link": "https://github.com/androguard/androguard"
@@ -248,6 +258,11 @@
         "link": "https://github.com/npm/read"
       },
       {
+        "name": "pallets/click",
+        "desc": "Python composable command line interface toolkit",
+        "link": "https://github.com/pallets/click"
+      },
+      {
         "name": "pallets/flask",
         "desc": "The Python micro framework for building web applications.",
         "link": "https://github.com/pallets/flask"
@@ -283,9 +298,19 @@
         "link": "https://github.com/sharkdp/bat"
       },
       {
+        "name": "spesmilo/electrum",
+        "desc": "Electrum Bitcoin Wallet",
+        "link": "https://github.com/spesmilo/electrum"
+      },
+      {
         "name": "termux/proot-distro",
         "desc": "An utility for managing installations of the Linux distributions in Termux.",
         "link": "https://github.com/termux/proot-distro"
+      },
+      {
+        "name": "untra/polyglot",
+        "desc": ":abc: Multilingual and i18n support tool for Jekyll Blogs",
+        "link": "https://github.com/untra/polyglot"
       },
       {
         "name": "vim/vim",

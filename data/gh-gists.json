@@ -76,8 +76,12 @@
     "desc": "differentiate annotated & lightweight git tags"
   },
   {
+    "link": "https://gist.github.com/200c9007a28a41b51bbd344508aca39f",
+    "desc": "debian swirl"
+  },
+  {
     "link": "https://gist.github.com/208597ccc64bf9b436ed",
-    "desc": "python equivalent of ruby's binding.pry"
+    "desc": "python \"breakpoint\" (more or less equivalent to ruby's binding.pry); for a proper debugger, use https://docs.python.org/3/library/pdb.html"
   },
   {
     "link": "https://gist.github.com/2350a5511dd8bf7b597fb1abdbc61b2c",
@@ -636,6 +640,10 @@
     "desc": "ghc profile memory (stack + heap)"
   },
   {
+    "link": "https://gist.github.com/c1e8e0cd3867a237ea932f6792739c11",
+    "desc": "fix fdroid apkcache timestamps"
+  },
+  {
     "link": "https://gist.github.com/c4f0dff753589c251430",
     "desc": "rbx w/ rvm"
   },
@@ -686,6 +694,14 @@
   {
     "link": "https://gist.github.com/dcf844b701ed44d2fdfcd76285b3500c",
     "desc": "[draft] apksigcopier abstract"
+  },
+  {
+    "link": "https://gist.github.com/e22bdf6616a57f24a05e746ae61d060a",
+    "desc": "~/.config/fontconfig/fonts.conf"
+  },
+  {
+    "link": "https://gist.github.com/e92e14b0368006994afe82838c9f2738",
+    "desc": "find fonts that have a glyph for a specific character on Linux"
   },
   {
     "link": "https://gist.github.com/f0203e520f2a5f759973",

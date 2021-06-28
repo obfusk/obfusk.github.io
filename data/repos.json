@@ -4,7 +4,7 @@
     "elems": [
       {
         "name": "apksigcopier",
-        "desc": "apksigcopier - copy/extract/patch apk signatures",
+        "desc": "apksigcopier - copy/extract/patch apk signatures & compare apks",
         "link": "https://github.com/obfusk/apksigcopier",
         "lang": [
           "py",
@@ -209,7 +209,7 @@
     "elems": [
       {
         "name": "apksigcopier",
-        "desc": "apksigcopier - copy/extract/patch apk signatures",
+        "desc": "apksigcopier - copy/extract/patch apk signatures & compare apks",
         "link": "https://github.com/obfusk/apksigcopier",
         "lang": [
           "py",
@@ -340,7 +340,7 @@
     "elems": [
       {
         "name": "apksigcopier",
-        "desc": "apksigcopier - copy/extract/patch apk signatures",
+        "desc": "apksigcopier - copy/extract/patch apk signatures & compare apks",
         "link": "https://github.com/obfusk/apksigcopier",
         "lang": [
           "py",
@@ -409,7 +409,7 @@
     "elems": [
       {
         "name": "apksigcopier",
-        "desc": "apksigcopier - copy/extract/patch apk signatures",
+        "desc": "apksigcopier - copy/extract/patch apk signatures & compare apks",
         "link": "https://github.com/obfusk/apksigcopier",
         "lang": [
           "py",
@@ -551,7 +551,7 @@
     "elems": [
       {
         "name": "apksigcopier",
-        "desc": "apksigcopier - copy/extract/patch apk signatures",
+        "desc": "apksigcopier - copy/extract/patch apk signatures & compare apks",
         "link": "https://github.com/obfusk/apksigcopier",
         "lang": [
           "py",
@@ -634,7 +634,7 @@
       },
       {
         "name": "apksigcopier",
-        "desc": "apksigcopier - copy/extract/patch apk signatures",
+        "desc": "apksigcopier - copy/extract/patch apk signatures & compare apks",
         "link": "https://github.com/obfusk/apksigcopier",
         "lang": [
           "py",
@@ -1148,7 +1148,7 @@
       },
       {
         "name": "apksigcopier",
-        "desc": "apksigcopier - copy/extract/patch apk signatures",
+        "desc": "apksigcopier - copy/extract/patch apk signatures & compare apks",
         "link": "https://github.com/obfusk/apksigcopier",
         "lang": [
           "py",
