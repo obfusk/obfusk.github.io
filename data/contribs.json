@@ -43,6 +43,11 @@
         "link": "https://github.com/comfy/comfortable-mexican-sofa"
       },
       {
+        "name": "fdroid-website",
+        "desc": "Jekyll page to power https://f-droid.org, staging at https://staging.f-droid.org/",
+        "link": "https://gitlab.com/fdroid/fdroid-website"
+      },
+      {
         "name": "fdroiddata",
         "desc": "Data for the main F-Droid repository at https://f-droid.org",
         "link": "https://gitlab.com/fdroid/fdroiddata"
@@ -151,6 +156,11 @@
         "name": "rack/rack",
         "desc": "A modular Ruby web server interface.",
         "link": "https://github.com/rack/rack"
+      },
+      {
+        "name": "reproducible-website",
+        "desc": "https://reproducible-builds.org/",
+        "link": "https://salsa.debian.org/reproducible-builds/reproducible-website"
       },
       {
         "name": "rubygems/bundler",
