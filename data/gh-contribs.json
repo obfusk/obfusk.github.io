@@ -26,6 +26,11 @@
   },
   {
     "name": "NixOS/nixpkgs",
+    "count": 3,
+    "contrib": false
+  },
+  {
+    "name": "NixOS/ofborg",
     "count": 1,
     "contrib": false
   },
@@ -36,7 +41,7 @@
   },
   {
     "name": "admin-ch/CovidCertificate-App-Android",
-    "count": 1,
+    "count": 3,
     "contrib": false
   },
   {
@@ -356,8 +361,8 @@
   },
   {
     "name": "untra/polyglot",
-    "count": 1,
-    "contrib": false
+    "count": 4,
+    "contrib": true
   },
   {
     "name": "vim/vim",

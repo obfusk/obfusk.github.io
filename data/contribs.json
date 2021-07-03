@@ -211,12 +211,22 @@
         "name": "tommoor/react-emoji-render",
         "desc": "Normalize and render emoji's the way your users expect.",
         "link": "https://github.com/tommoor/react-emoji-render"
+      },
+      {
+        "name": "untra/polyglot",
+        "desc": ":abc: Multilingual and i18n support tool for Jekyll Blogs",
+        "link": "https://github.com/untra/polyglot"
       }
     ]
   },
   {
     "title": "Indirect Contributions | (e.g. Issues)",
     "elems": [
+      {
+        "name": "NixOS/ofborg",
+        "desc": "@ofborg tooling automation https://monitoring.nix.ci/dashboard/db/ofborg",
+        "link": "https://github.com/NixOS/ofborg"
+      },
       {
         "name": "TeamNewPipe/NewPipe",
         "desc": "A libre lightweight streaming front-end for Android.",
@@ -316,11 +326,6 @@
         "name": "termux/proot-distro",
         "desc": "An utility for managing installations of the Linux distributions in Termux.",
         "link": "https://github.com/termux/proot-distro"
-      },
-      {
-        "name": "untra/polyglot",
-        "desc": ":abc: Multilingual and i18n support tool for Jekyll Blogs",
-        "link": "https://github.com/untra/polyglot"
       },
       {
         "name": "vim/vim",

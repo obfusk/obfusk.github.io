@@ -5,6 +5,11 @@
     "link": "https://github.com/obfusk/2des-attack"
   },
   {
+    "name": "CovidCertificate-App-Android",
+    "desc": "CovidCertificate Apps for Android",
+    "link": "https://github.com/obfusk/CovidCertificate-App-Android"
+  },
+  {
     "name": "Easy_xkcd",
     "desc": "[FORK] An easy and simple open source xkcd reader",
     "link": "https://github.com/obfusk/Easy_xkcd"
