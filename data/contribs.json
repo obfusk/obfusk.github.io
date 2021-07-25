@@ -28,6 +28,11 @@
         "link": "https://github.com/NixOS/nixpkgs"
       },
       {
+        "name": "admin-ch/CovidCertificate-App-Android",
+        "desc": "CovidCertificate Apps for Android",
+        "link": "https://github.com/admin-ch/CovidCertificate-App-Android"
+      },
+      {
         "name": "badges/shields",
         "desc": "Concise, consistent, and legible badges in SVG and raster format",
         "link": "https://github.com/badges/shields"
@@ -199,7 +204,7 @@
       },
       {
         "name": "termux/termux-app",
-        "desc": "Android terminal and Linux environment - app repository.",
+        "desc": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
         "link": "https://github.com/termux/termux-app"
       },
       {
@@ -231,11 +236,6 @@
         "name": "TeamNewPipe/NewPipe",
         "desc": "A libre lightweight streaming front-end for Android.",
         "link": "https://github.com/TeamNewPipe/NewPipe"
-      },
-      {
-        "name": "admin-ch/CovidCertificate-App-Android",
-        "desc": "CovidCertificate Apps for Android",
-        "link": "https://github.com/admin-ch/CovidCertificate-App-Android"
       },
       {
         "name": "androguard/androguard",

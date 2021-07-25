@@ -6,7 +6,7 @@
   },
   {
     "name": "CovidCertificate-App-Android",
-    "desc": "CovidCertificate Apps for Android",
+    "desc": "[FORK] CovidCertificate Apps for Android",
     "link": "https://github.com/obfusk/CovidCertificate-App-Android"
   },
   {
@@ -71,7 +71,7 @@
   },
   {
     "name": "apksigcopier",
-    "desc": "apksigcopier - copy/extract/patch apk signatures & compare apks",
+    "desc": "apksigcopier - copy/extract/patch android apk signatures & compare apks",
     "link": "https://github.com/obfusk/apksigcopier"
   },
   {

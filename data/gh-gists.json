@@ -649,7 +649,7 @@
   },
   {
     "link": "https://gist.github.com/c51d353e75d576bd5cb8e92456cdec47",
-    "desc": "jiten for nixos"
+    "desc": "jiten for nixos | OUTDATED | jiten is now in nixpkgs (un)stable"
   },
   {
     "link": "https://gist.github.com/c70a6f6816ba475f161caf82002c33d5",
@@ -682,6 +682,10 @@
   {
     "link": "https://gist.github.com/d4fe43e87999d08384bb6c76b37e9619",
     "desc": "an attempt at a dynamic programming abstraction in python"
+  },
+  {
+    "link": "https://gist.github.com/d7748053f413ddbccdb1e19eee84eedf",
+    "desc": ""
   },
   {
     "link": "https://gist.github.com/db1ebd1f7e54a29fdbd9",
