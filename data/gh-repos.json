@@ -275,6 +275,11 @@
     "link": "https://github.com/obfusk/evilarc"
   },
   {
+    "name": "fdroid-is-reproducible",
+    "desc": "fdroid-is-reproducible - check whether an app in f-droid is reproducible",
+    "link": "https://github.com/obfusk/fdroid-is-reproducible"
+  },
+  {
     "name": "flask",
     "desc": "[FORK] The Python micro framework for building web applications.",
     "link": "https://github.com/obfusk/flask"
@@ -653,6 +658,11 @@
     "name": "obfusk",
     "desc": "GitHub profile README",
     "link": "https://github.com/obfusk/obfusk"
+  },
+  {
+    "name": "obfusk-fdroid-repo-binary-transparency-log",
+    "desc": null,
+    "link": "https://github.com/obfusk/obfusk-fdroid-repo-binary-transparency-log"
   },
   {
     "name": "obfusk.coffee",
