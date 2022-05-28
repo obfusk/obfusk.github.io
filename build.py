@@ -4,9 +4,9 @@ import json
 
 from collections  import OrderedDict
 from datetime     import date
-from jinja2       import Environment, FileSystemLoader, Markup, \
-                         select_autoescape
+from jinja2       import Environment, FileSystemLoader, select_autoescape
 from markdown     import Markdown
+from markupsafe   import Markup
 from pathlib      import Path
 
 def anchor_id(t):
