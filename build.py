@@ -42,7 +42,7 @@ data          = dict(                               # TODO: .json?
     ("repos"    , dict(link = "/repos.html"   , text = "Repositories")),
 #   ("gists"    , dict(link = "/gists.html"   , text = "Gists")),
     ("contribs" , dict(link = "/contribs.html", text = "Contributions")),
-    ("old-blog" , dict(link = "/old"          , text = "Old Blog")),
+#   ("old-blog" , dict(link = "/old"          , text = "Old Blog")),
   ]),
   ptitles     = dict(repos    = "repositories",
                      contribs = "contributions"),

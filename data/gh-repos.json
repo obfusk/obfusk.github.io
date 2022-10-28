@@ -75,6 +75,11 @@
     "link": "https://github.com/obfusk/apksigcopier"
   },
   {
+    "name": "apksigtool",
+    "desc": "apksigtool - parse/verify/clean android apk signing blocks & apks",
+    "link": "https://github.com/obfusk/apksigtool"
+  },
+  {
     "name": "aruba-obfusk",
     "desc": "aruba-obfusk - aruba extensions",
     "link": "https://github.com/obfusk/aruba-obfusk"
@@ -208,6 +213,11 @@
     "name": "cryptanalysis.py",
     "desc": "cryptanalysis.py - simple python (2+3) cryptanalysis tools",
     "link": "https://github.com/obfusk/cryptanalysis.py"
+  },
+  {
+    "name": "cryptobox-jni",
+    "desc": "[FORK] JNI bindings for cryptobox with support for cross-compilation to Android.",
+    "link": "https://github.com/obfusk/cryptobox-jni"
   },
   {
     "name": "cryptoparty-privacycafe-menu",
@@ -550,6 +560,11 @@
     "link": "https://github.com/obfusk/nametag"
   },
   {
+    "name": "nametag.py",
+    "desc": "nametag - set audio file tags based on file name",
+    "link": "https://github.com/obfusk/nametag.py"
+  },
+  {
     "name": "nap",
     "desc": "nap - nightmare(less) application platform",
     "link": "https://github.com/obfusk/nap"
@@ -653,6 +668,11 @@
     "name": "nixpkgs",
     "desc": "[FORK] Nix Packages collection",
     "link": "https://github.com/obfusk/nixpkgs"
+  },
+  {
+    "name": "nl-covid19-coronacheck-app-android",
+    "desc": "FOSS version of COVID-19 CoronaCheck for Android",
+    "link": "https://github.com/obfusk/nl-covid19-coronacheck-app-android"
   },
   {
     "name": "obfusk",
@@ -783,6 +803,11 @@
     "name": "privacycafe-misc",
     "desc": "miscellaneous stuff for privacy cafe",
     "link": "https://github.com/obfusk/privacycafe-misc"
+  },
+  {
+    "name": "proot-distro",
+    "desc": "[FORK] An utility for managing installations of the Linux distributions in Termux.",
+    "link": "https://github.com/obfusk/proot-distro"
   },
   {
     "name": "proudcat",
@@ -965,6 +990,11 @@
     "link": "https://github.com/obfusk/termux-app"
   },
   {
+    "name": "test-apks",
+    "desc": "test APKs for apksigcopier & apksigtool",
+    "link": "https://github.com/obfusk/test-apks"
+  },
+  {
     "name": "trcrt.py",
     "desc": "trcrt.py - python (2+3) traceroute implementation",
     "link": "https://github.com/obfusk/trcrt.py"
@@ -1013,6 +1043,11 @@
     "name": "werkzeug",
     "desc": "[FORK] The comprehensive WSGI web application library.",
     "link": "https://github.com/obfusk/werkzeug"
+  },
+  {
+    "name": "wire-android",
+    "desc": "[FORK] :phone: Wire for Android",
+    "link": "https://github.com/obfusk/wire-android"
   },
   {
     "name": "xuggle-frames-to-video",

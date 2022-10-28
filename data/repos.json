@@ -12,6 +12,15 @@
         ]
       },
       {
+        "name": "apksigtool",
+        "desc": "apksigtool - parse/verify/clean android apk signing blocks & apks",
+        "link": "https://github.com/obfusk/apksigtool",
+        "lang": [
+          "py",
+          "pypi"
+        ]
+      },
+      {
         "name": "autossh-init",
         "desc": "autossh-init - AutoSSH init script",
         "link": "https://github.com/obfusk/autossh-init",
@@ -178,6 +187,15 @@
         ]
       },
       {
+        "name": "nametag.py",
+        "desc": "nametag - set audio file tags based on file name",
+        "link": "https://github.com/obfusk/nametag.py",
+        "lang": [
+          "py",
+          "pypi"
+        ]
+      },
+      {
         "name": "shtst",
         "desc": "shtst - simple cli testing",
         "link": "https://github.com/obfusk/shtst",
@@ -211,6 +229,15 @@
         "name": "apksigcopier",
         "desc": "apksigcopier - copy/extract/patch android apk signatures & compare apks",
         "link": "https://github.com/obfusk/apksigcopier",
+        "lang": [
+          "py",
+          "pypi"
+        ]
+      },
+      {
+        "name": "apksigtool",
+        "desc": "apksigtool - parse/verify/clean android apk signing blocks & apks",
+        "link": "https://github.com/obfusk/apksigtool",
         "lang": [
           "py",
           "pypi"
@@ -307,6 +334,15 @@
         ]
       },
       {
+        "name": "nametag.py",
+        "desc": "nametag - set audio file tags based on file name",
+        "link": "https://github.com/obfusk/nametag.py",
+        "lang": [
+          "py",
+          "pypi"
+        ]
+      },
+      {
         "name": "proudcat",
         "desc": "proudcat - cat + :rainbow:",
         "link": "https://github.com/obfusk/proudcat",
@@ -348,6 +384,15 @@
         ]
       },
       {
+        "name": "apksigtool",
+        "desc": "apksigtool - parse/verify/clean android apk signing blocks & apks",
+        "link": "https://github.com/obfusk/apksigtool",
+        "lang": [
+          "py",
+          "pypi"
+        ]
+      },
+      {
         "name": "ghbak",
         "desc": "ghbak - github backup",
         "link": "https://github.com/obfusk/ghbak",
@@ -370,6 +415,15 @@
         "name": "m",
         "desc": "m - minimalistic media manager",
         "link": "https://github.com/obfusk/m",
+        "lang": [
+          "py",
+          "pypi"
+        ]
+      },
+      {
+        "name": "nametag.py",
+        "desc": "nametag - set audio file tags based on file name",
+        "link": "https://github.com/obfusk/nametag.py",
         "lang": [
           "py",
           "pypi"
@@ -411,6 +465,15 @@
         "name": "apksigcopier",
         "desc": "apksigcopier - copy/extract/patch android apk signatures & compare apks",
         "link": "https://github.com/obfusk/apksigcopier",
+        "lang": [
+          "py",
+          "pypi"
+        ]
+      },
+      {
+        "name": "apksigtool",
+        "desc": "apksigtool - parse/verify/clean android apk signing blocks & apks",
+        "link": "https://github.com/obfusk/apksigtool",
         "lang": [
           "py",
           "pypi"
@@ -502,6 +565,15 @@
         ]
       },
       {
+        "name": "nametag.py",
+        "desc": "nametag - set audio file tags based on file name",
+        "link": "https://github.com/obfusk/nametag.py",
+        "lang": [
+          "py",
+          "pypi"
+        ]
+      },
+      {
         "name": "proudcat",
         "desc": "proudcat - cat + :rainbow:",
         "link": "https://github.com/obfusk/proudcat",
@@ -553,6 +625,15 @@
         "name": "apksigcopier",
         "desc": "apksigcopier - copy/extract/patch android apk signatures & compare apks",
         "link": "https://github.com/obfusk/apksigcopier",
+        "lang": [
+          "py",
+          "pypi"
+        ]
+      },
+      {
+        "name": "apksigtool",
+        "desc": "apksigtool - parse/verify/clean android apk signing blocks & apks",
+        "link": "https://github.com/obfusk/apksigtool",
         "lang": [
           "py",
           "pypi"
@@ -636,6 +717,15 @@
         "name": "apksigcopier",
         "desc": "apksigcopier - copy/extract/patch android apk signatures & compare apks",
         "link": "https://github.com/obfusk/apksigcopier",
+        "lang": [
+          "py",
+          "pypi"
+        ]
+      },
+      {
+        "name": "apksigtool",
+        "desc": "apksigtool - parse/verify/clean android apk signing blocks & apks",
+        "link": "https://github.com/obfusk/apksigtool",
         "lang": [
           "py",
           "pypi"
@@ -734,6 +824,15 @@
         "name": "m-gui",
         "desc": "m - minimalistic media manager - GUI",
         "link": "https://github.com/obfusk/m-gui",
+        "lang": [
+          "py",
+          "pypi"
+        ]
+      },
+      {
+        "name": "nametag.py",
+        "desc": "nametag - set audio file tags based on file name",
+        "link": "https://github.com/obfusk/nametag.py",
         "lang": [
           "py",
           "pypi"
@@ -1150,6 +1249,15 @@
         "name": "apksigcopier",
         "desc": "apksigcopier - copy/extract/patch android apk signatures & compare apks",
         "link": "https://github.com/obfusk/apksigcopier",
+        "lang": [
+          "py",
+          "pypi"
+        ]
+      },
+      {
+        "name": "apksigtool",
+        "desc": "apksigtool - parse/verify/clean android apk signing blocks & apks",
+        "link": "https://github.com/obfusk/apksigtool",
         "lang": [
           "py",
           "pypi"

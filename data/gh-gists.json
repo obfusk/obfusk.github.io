@@ -44,6 +44,10 @@
     "desc": ".guile"
   },
   {
+    "link": "https://gist.github.com/10707773e12aa35ff24c47e2ba6004db",
+    "desc": "touch files in git repo based on last commit timestamp"
+  },
+  {
     "link": "https://gist.github.com/10a5072c1a783a1a35240bed6c2ec175",
     "desc": "prime factors: Haskell vs my Python code"
   },
@@ -102,6 +106,10 @@
   {
     "link": "https://gist.github.com/2e1a37d975cf405c444f",
     "desc": "python repl w/ history"
+  },
+  {
+    "link": "https://gist.github.com/33aecbc5577018f4188a927112b8f12a",
+    "desc": "wire-android maven stuff"
   },
   {
     "link": "https://gist.github.com/35005ff65938c2dbdbc7",
@@ -206,6 +214,10 @@
   {
     "link": "https://gist.github.com/5103552",
     "desc": "grub2 password protection "
+  },
+  {
+    "link": "https://gist.github.com/516e779a513239959302b9da33354ad7",
+    "desc": "download latest signal APK"
   },
   {
     "link": "https://gist.github.com/5197581",
@@ -544,6 +556,10 @@
     "desc": "create an encrypted flash drive on the command line w/ cryptsetup"
   },
   {
+    "link": "https://gist.github.com/81956cef6c5c5e62a8e243ad8d10cc3d",
+    "desc": "get fingerprint of cert from jar"
+  },
+  {
     "link": "https://gist.github.com/8256668",
     "desc": "sodium'"
   },
@@ -570,6 +586,10 @@
   {
     "link": "https://gist.github.com/89824399b8caefedff4f969aeb817bfa",
     "desc": "python idna en-/decode on command line"
+  },
+  {
+    "link": "https://gist.github.com/8b1080dde3789fc438ce9cae2405c27b",
+    "desc": "LineageOS update_verifier using cryptography instead of oscrypto"
   },
   {
     "link": "https://gist.github.com/8c1f0b0e60ad30337d1539fedc7e5b3c",

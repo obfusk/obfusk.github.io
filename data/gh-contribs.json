@@ -90,7 +90,7 @@
     "contrib": true
   },
   {
-    "name": "canonical-web-and-design/canonical.com",
+    "name": "canonical/canonical.com",
     "count": 1,
     "contrib": false
   },
@@ -210,6 +210,11 @@
     "contrib": false
   },
   {
+    "name": "minvws/nl-covid19-coronacheck-app-android",
+    "count": 1,
+    "contrib": false
+  },
+  {
     "name": "ndmitchell/hoogle",
     "count": 6,
     "contrib": true
@@ -256,7 +261,7 @@
   },
   {
     "name": "python/cpython",
-    "count": 2,
+    "count": 5,
     "contrib": true
   },
   {
@@ -336,8 +341,8 @@
   },
   {
     "name": "termux/proot-distro",
-    "count": 1,
-    "contrib": false
+    "count": 3,
+    "contrib": true
   },
   {
     "name": "termux/termux-app",
@@ -365,8 +370,23 @@
     "contrib": true
   },
   {
+    "name": "venthur/python-popcon",
+    "count": 1,
+    "contrib": false
+  },
+  {
     "name": "vim/vim",
     "count": 1,
     "contrib": false
+  },
+  {
+    "name": "wireapp/cryptobox-jni",
+    "count": 2,
+    "contrib": false
+  },
+  {
+    "name": "wireapp/wire-android",
+    "count": 1,
+    "contrib": true
   }
 ]

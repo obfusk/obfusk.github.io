@@ -32,7 +32,7 @@ data/gists.json: data/gh-gists.json
 	# TODO
 
 data/contribs.json: data/gh-contribs.json data/gh-contribs-add.json \
-                    data/contribs-blacklist.json
+                    data/non-gh-contribs.json data/contribs-blacklist.json
 	$(PY) -m data.contribs
 
 data/gh-repos.json:

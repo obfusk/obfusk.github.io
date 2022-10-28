@@ -93,6 +93,11 @@
         "link": "https://github.com/i3/i3"
       },
       {
+        "name": "jekyll-fdroid",
+        "desc": "Jekyll plugin to work with F-Droid package index metadata when building websites.",
+        "link": "https://gitlab.com/fdroid/jekyll-fdroid"
+      },
+      {
         "name": "jitsi/jicofo",
         "desc": "JItsi COnference FOcus is a server side focus component used in Jitsi Meet conferences.",
         "link": "https://github.com/jitsi/jicofo"
@@ -203,6 +208,11 @@
         "link": "https://github.com/sstephenson/sprockets"
       },
       {
+        "name": "termux/proot-distro",
+        "desc": "An utility for managing installations of the Linux distributions in Termux.",
+        "link": "https://github.com/termux/proot-distro"
+      },
+      {
         "name": "termux/termux-app",
         "desc": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
         "link": "https://github.com/termux/termux-app"
@@ -221,6 +231,11 @@
         "name": "untra/polyglot",
         "desc": ":abc: Multilingual and i18n support tool for Jekyll Blogs",
         "link": "https://github.com/untra/polyglot"
+      },
+      {
+        "name": "wireapp/wire-android",
+        "desc": ":phone: Wire for Android",
+        "link": "https://github.com/wireapp/wire-android"
       }
     ]
   },
@@ -239,8 +254,13 @@
       },
       {
         "name": "androguard/androguard",
-        "desc": "Reverse engineering, Malware and goodware analysis of Android applications ... and more (ninja !)",
+        "desc": "Reverse engineering and pentesting for Android applications ",
         "link": "https://github.com/androguard/androguard"
+      },
+      {
+        "name": "diffoscope",
+        "desc": "https://diffoscope.org/",
+        "link": "https://salsa.debian.org/reproducible-builds/diffoscope"
       },
       {
         "name": "gitlabhq/gitlabhq",
@@ -271,6 +291,11 @@
         "name": "mdn/sprints",
         "desc": "MDN Web Docs content issue management",
         "link": "https://github.com/mdn/sprints"
+      },
+      {
+        "name": "minvws/nl-covid19-coronacheck-app-android",
+        "desc": null,
+        "link": "https://github.com/minvws/nl-covid19-coronacheck-app-android"
       },
       {
         "name": "npm/read",
@@ -323,14 +348,19 @@
         "link": "https://github.com/spesmilo/electrum"
       },
       {
-        "name": "termux/proot-distro",
-        "desc": "An utility for managing installations of the Linux distributions in Termux.",
-        "link": "https://github.com/termux/proot-distro"
+        "name": "venthur/python-popcon",
+        "desc": "Query Debian's Popcon Database with Python",
+        "link": "https://github.com/venthur/python-popcon"
       },
       {
         "name": "vim/vim",
         "desc": "The official Vim repository",
         "link": "https://github.com/vim/vim"
+      },
+      {
+        "name": "wireapp/cryptobox-jni",
+        "desc": "JNI bindings for cryptobox with support for cross-compilation to Android.",
+        "link": "https://github.com/wireapp/cryptobox-jni"
       }
     ]
   }

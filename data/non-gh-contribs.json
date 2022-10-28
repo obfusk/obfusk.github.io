@@ -34,5 +34,17 @@
     "desc": "Jekyll page to power https://f-droid.org, staging at https://staging.f-droid.org/",
     "link": "https://gitlab.com/fdroid/fdroid-website",
     "contrib": true
+  },
+  {
+    "name": "jekyll-fdroid",
+    "desc": "Jekyll plugin to work with F-Droid package index metadata when building websites.",
+    "link": "https://gitlab.com/fdroid/jekyll-fdroid",
+    "contrib": true
+  },
+  {
+    "name": "diffoscope",
+    "desc": "https://diffoscope.org/",
+    "link": "https://salsa.debian.org/reproducible-builds/diffoscope",
+    "contrib": false
   }
 ]
