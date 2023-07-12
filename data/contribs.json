@@ -58,6 +58,11 @@
         "link": "https://github.com/comfy/comfortable-mexican-sofa"
       },
       {
+        "name": "diffoscope",
+        "desc": "https://diffoscope.org/",
+        "link": "https://salsa.debian.org/reproducible-builds/diffoscope"
+      },
+      {
         "name": "fdroid-website",
         "desc": "Jekyll page to power https://f-droid.org, staging at https://staging.f-droid.org/",
         "link": "https://gitlab.com/fdroid/fdroid-website"
@@ -296,11 +301,6 @@
         "name": "androguard/androguard",
         "desc": "Reverse engineering and pentesting for Android applications ",
         "link": "https://github.com/androguard/androguard"
-      },
-      {
-        "name": "diffoscope",
-        "desc": "https://diffoscope.org/",
-        "link": "https://salsa.debian.org/reproducible-builds/diffoscope"
       },
       {
         "name": "gitlabhq/gitlabhq",

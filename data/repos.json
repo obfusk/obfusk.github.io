@@ -21,14 +21,6 @@
         ]
       },
       {
-        "name": "autossh-init",
-        "desc": "autossh-init - AutoSSH init script",
-        "link": "https://github.com/obfusk/autossh-init",
-        "lang": [
-          "sh"
-        ]
-      },
-      {
         "name": "bash-cheatsheet",
         "desc": "bash cheat sheet",
         "link": "https://github.com/obfusk/bash-cheatsheet",
@@ -37,74 +29,20 @@
         ]
       },
       {
-        "name": "bigbang.coffee",
-        "desc": "bigbang.coffee - graphical/evented functional programming for js/coffee",
-        "link": "https://github.com/obfusk/bigbang.coffee",
+        "name": "fdroid-misc-scripts",
+        "desc": "fdroid-misc-scripts - miscellaneous scripts to analyse f-droid app data",
+        "link": "https://github.com/obfusk/fdroid-misc-scripts",
         "lang": [
-          "js"
-        ],
-        "info": [
-          "inactive"
-        ]
-      },
-      {
-        "name": "cahpy",
-        "desc": "cahpy - capybaras against humanity",
-        "link": "https://github.com/obfusk/cahpy",
-        "lang": [
-          "py"
-        ]
-      },
-      {
-        "name": "codespy",
-        "desc": "codespy - cooperative spy code",
-        "link": "https://github.com/obfusk/codespy",
-        "lang": [
-          "py"
-        ]
-      },
-      {
-        "name": "cryptoparty-privacycafe-menu",
-        "desc": "cryptoparty/privacycafe menu",
-        "link": "https://github.com/obfusk/cryptoparty-privacycafe-menu"
-      },
-      {
-        "name": "eft",
-        "desc": "eft - ruby + whiptail",
-        "link": "https://github.com/obfusk/eft",
-        "lang": [
-          "rb",
-          "gem"
-        ]
-      },
-      {
-        "name": "eft.sh",
-        "desc": "eft.sh - bash + whiptail",
-        "link": "https://github.com/obfusk/eft.sh",
-        "lang": [
+          "py",
           "sh"
         ]
       },
       {
-        "name": "ghbak",
-        "desc": "ghbak - github backup",
-        "link": "https://github.com/obfusk/ghbak",
+        "name": "gradle-wrapper-verify",
+        "desc": "gradle-wrapper-verify - verify gradle-wrapper.jar sha256sum against published releases",
+        "link": "https://github.com/obfusk/gradle-wrapper-verify",
         "lang": [
-          "py",
-          "pypi"
-        ]
-      },
-      {
-        "name": "gpg",
-        "desc": "gpg key + fingerprint + HOWTO",
-        "link": "https://github.com/obfusk/gpg"
-      },
-      {
-        "name": "heartspy",
-        "desc": "heartspy - beware of the black queen",
-        "link": "https://github.com/obfusk/heartspy",
-        "lang": [
-          "py"
+          "sh"
         ]
       },
       {
@@ -114,14 +52,6 @@
         "lang": [
           "py",
           "pypi",
-          "\u65e5\u672c\u8a9e"
-        ]
-      },
-      {
-        "name": "jiten-webview",
-        "desc": "jiten-webview - android webview wrapper for jiten.obfusk.dev",
-        "link": "https://github.com/obfusk/jiten-webview",
-        "lang": [
           "\u65e5\u672c\u8a9e"
         ]
       },
@@ -156,40 +86,27 @@
         ]
       },
       {
-        "name": "m-gui",
-        "desc": "m - minimalistic media manager - GUI",
-        "link": "https://github.com/obfusk/m-gui",
+        "name": "proudcat",
+        "desc": "proudcat - cat + :rainbow:",
+        "link": "https://github.com/obfusk/proudcat",
         "lang": [
           "py",
           "pypi"
         ]
       },
       {
-        "name": "mail-config",
-        "desc": "my mutt + isync config",
-        "link": "https://github.com/obfusk/mail-config"
-      },
-      {
-        "name": "map.sh",
-        "desc": "map.sh - map/filter for bash",
-        "link": "https://github.com/obfusk/map.sh",
+        "name": "proudcat-rust",
+        "desc": "proudcat-rust - cat + :rainbow:",
+        "link": "https://github.com/obfusk/proudcat-rust",
         "lang": [
-          "sh"
+          "rs",
+          "crate"
         ]
       },
       {
-        "name": "nametag",
-        "desc": "nametag - set audio file tags based on file name",
-        "link": "https://github.com/obfusk/nametag",
-        "lang": [
-          "rb",
-          "gem"
-        ]
-      },
-      {
-        "name": "nametag.py",
-        "desc": "nametag - set audio file tags based on file name",
-        "link": "https://github.com/obfusk/nametag.py",
+        "name": "reproducible-apk-tools",
+        "desc": "reproducible-apk-tools - scripts to make android apks reproducible",
+        "link": "https://github.com/obfusk/reproducible-apk-tools",
         "lang": [
           "py",
           "pypi"
@@ -205,19 +122,19 @@
         ]
       },
       {
+        "name": "sigblock-code-poc",
+        "desc": "android apk signing block payload poc",
+        "link": "https://github.com/obfusk/sigblock-code-poc",
+        "lang": [
+          "kt"
+        ]
+      },
+      {
         "name": "sokobang",
         "desc": "sokobang - sokoban puzzle w/ bigbang.coffee",
         "link": "https://github.com/obfusk/sokobang",
         "lang": [
           "js"
-        ]
-      },
-      {
-        "name": "taskmaster",
-        "desc": "taskmaster - manage tasks using a Taskfile",
-        "link": "https://github.com/obfusk/taskmaster",
-        "lang": [
-          "sh"
         ]
       }
     ]
@@ -244,129 +161,55 @@
         ]
       },
       {
-        "name": "cahpy",
-        "desc": "cahpy - capybaras against humanity",
-        "link": "https://github.com/obfusk/cahpy",
-        "lang": [
-          "py"
-        ]
-      },
-      {
-        "name": "codespy",
-        "desc": "codespy - cooperative spy code",
-        "link": "https://github.com/obfusk/codespy",
-        "lang": [
-          "py"
-        ]
-      },
-      {
-        "name": "ghbak",
-        "desc": "ghbak - github backup",
-        "link": "https://github.com/obfusk/ghbak",
+        "name": "catimerge",
+        "desc": "catimerge - merge two catima.zip exports",
+        "link": "https://github.com/obfusk/catimerge",
         "lang": [
           "py",
           "pypi"
         ]
       },
       {
-        "name": "heartspy",
-        "desc": "heartspy - beware of the black queen",
-        "link": "https://github.com/obfusk/heartspy",
-        "lang": [
-          "py"
-        ]
-      },
-      {
-        "name": "jiten",
-        "desc": "jiten - japanese android/cli/web dictionary based on jmdict/kanjidic \u2014 \u65e5\u672c\u8a9e\u3000\u8f9e\u5178\u3000\u548c\u82f1\u8f9e\u5178\u3000\u6f22\u82f1\u5b57\u5178\u3000\u548c\u72ec\u8f9e\u5178\u3000\u548c\u862d\u8f9e\u5178",
-        "link": "https://github.com/obfusk/jiten",
-        "lang": [
-          "py",
-          "pypi",
-          "\u65e5\u672c\u8a9e"
-        ]
-      },
-      {
-        "name": "jiten-webview",
-        "desc": "jiten-webview - android webview wrapper for jiten.obfusk.dev",
-        "link": "https://github.com/obfusk/jiten-webview",
-        "lang": [
-          "\u65e5\u672c\u8a9e"
-        ]
-      },
-      {
-        "name": "kanjidraw",
-        "desc": "kanjidraw - handwritten kanji recognition library + gui",
-        "link": "https://github.com/obfusk/kanjidraw",
-        "lang": [
-          "py",
-          "pypi",
-          "\u65e5\u672c\u8a9e"
-        ]
-      },
-      {
-        "name": "koneko",
-        "desc": "koneko - a concatenative not-quite-lisp for kittens",
-        "link": "https://github.com/obfusk/koneko",
-        "lang": [
-          "hs"
-        ],
-        "warn": [
-          "wip"
-        ]
-      },
-      {
-        "name": "m",
-        "desc": "m - minimalistic media manager",
-        "link": "https://github.com/obfusk/m",
+        "name": "convert-to-requests",
+        "desc": "convert-to-requests - convert curl/fetch command to python requests",
+        "link": "https://github.com/obfusk/convert-to-requests",
         "lang": [
           "py",
           "pypi"
         ]
       },
       {
-        "name": "m-gui",
-        "desc": "m - minimalistic media manager - GUI",
-        "link": "https://github.com/obfusk/m-gui",
+        "name": "fdroid-misc-scripts",
+        "desc": "fdroid-misc-scripts - miscellaneous scripts to analyse f-droid app data",
+        "link": "https://github.com/obfusk/fdroid-misc-scripts",
+        "lang": [
+          "py",
+          "sh"
+        ]
+      },
+      {
+        "name": "gradle-wrapper-verify",
+        "desc": "gradle-wrapper-verify - verify gradle-wrapper.jar sha256sum against published releases",
+        "link": "https://github.com/obfusk/gradle-wrapper-verify",
+        "lang": [
+          "sh"
+        ]
+      },
+      {
+        "name": "reproducible-apk-tools",
+        "desc": "reproducible-apk-tools - scripts to make android apks reproducible",
+        "link": "https://github.com/obfusk/reproducible-apk-tools",
         "lang": [
           "py",
           "pypi"
         ]
       },
       {
-        "name": "nametag.py",
-        "desc": "nametag - set audio file tags based on file name",
-        "link": "https://github.com/obfusk/nametag.py",
+        "name": "sigblock-code-poc",
+        "desc": "android apk signing block payload poc",
+        "link": "https://github.com/obfusk/sigblock-code-poc",
         "lang": [
-          "py",
-          "pypi"
-        ]
-      },
-      {
-        "name": "proudcat",
-        "desc": "proudcat - cat + :rainbow:",
-        "link": "https://github.com/obfusk/proudcat",
-        "lang": [
-          "py",
-          "pypi"
-        ]
-      },
-      {
-        "name": "proudcat-rust",
-        "desc": "proudcat-rust - cat + :rainbow:",
-        "link": "https://github.com/obfusk/proudcat-rust",
-        "lang": [
-          "rs",
-          "crate"
-        ]
-      },
-      {
-        "name": "shtst",
-        "desc": "shtst - simple cli testing",
-        "link": "https://github.com/obfusk/shtst",
-        "lang": [
-          "py",
-          "pypi"
+          "kt"
         ]
       }
     ]
@@ -393,12 +236,47 @@
         ]
       },
       {
+        "name": "catimerge",
+        "desc": "catimerge - merge two catima.zip exports",
+        "link": "https://github.com/obfusk/catimerge",
+        "lang": [
+          "py",
+          "pypi"
+        ]
+      },
+      {
+        "name": "convert-to-requests",
+        "desc": "convert-to-requests - convert curl/fetch command to python requests",
+        "link": "https://github.com/obfusk/convert-to-requests",
+        "lang": [
+          "py",
+          "pypi"
+        ]
+      },
+      {
+        "name": "fdroid-misc-scripts",
+        "desc": "fdroid-misc-scripts - miscellaneous scripts to analyse f-droid app data",
+        "link": "https://github.com/obfusk/fdroid-misc-scripts",
+        "lang": [
+          "py",
+          "sh"
+        ]
+      },
+      {
         "name": "ghbak",
         "desc": "ghbak - github backup",
         "link": "https://github.com/obfusk/ghbak",
         "lang": [
           "py",
           "pypi"
+        ]
+      },
+      {
+        "name": "gradle-wrapper-verify",
+        "desc": "gradle-wrapper-verify - verify gradle-wrapper.jar sha256sum against published releases",
+        "link": "https://github.com/obfusk/gradle-wrapper-verify",
+        "lang": [
+          "sh"
         ]
       },
       {
@@ -445,6 +323,15 @@
         "lang": [
           "rs",
           "crate"
+        ]
+      },
+      {
+        "name": "reproducible-apk-tools",
+        "desc": "reproducible-apk-tools - scripts to make android apks reproducible",
+        "link": "https://github.com/obfusk/reproducible-apk-tools",
+        "lang": [
+          "py",
+          "pypi"
         ]
       },
       {
@@ -480,6 +367,33 @@
         ]
       },
       {
+        "name": "catimerge",
+        "desc": "catimerge - merge two catima.zip exports",
+        "link": "https://github.com/obfusk/catimerge",
+        "lang": [
+          "py",
+          "pypi"
+        ]
+      },
+      {
+        "name": "convert-to-requests",
+        "desc": "convert-to-requests - convert curl/fetch command to python requests",
+        "link": "https://github.com/obfusk/convert-to-requests",
+        "lang": [
+          "py",
+          "pypi"
+        ]
+      },
+      {
+        "name": "fdroid-misc-scripts",
+        "desc": "fdroid-misc-scripts - miscellaneous scripts to analyse f-droid app data",
+        "link": "https://github.com/obfusk/fdroid-misc-scripts",
+        "lang": [
+          "py",
+          "sh"
+        ]
+      },
+      {
         "name": "ghbak",
         "desc": "ghbak - github backup",
         "link": "https://github.com/obfusk/ghbak",
@@ -495,6 +409,14 @@
         "lang": [
           "rb",
           "gem"
+        ]
+      },
+      {
+        "name": "gradle-wrapper-verify",
+        "desc": "gradle-wrapper-verify - verify gradle-wrapper.jar sha256sum against published releases",
+        "link": "https://github.com/obfusk/gradle-wrapper-verify",
+        "lang": [
+          "sh"
         ]
       },
       {
@@ -592,6 +514,15 @@
         ]
       },
       {
+        "name": "reproducible-apk-tools",
+        "desc": "reproducible-apk-tools - scripts to make android apks reproducible",
+        "link": "https://github.com/obfusk/reproducible-apk-tools",
+        "lang": [
+          "py",
+          "pypi"
+        ]
+      },
+      {
         "name": "shtst",
         "desc": "shtst - simple cli testing",
         "link": "https://github.com/obfusk/shtst",
@@ -648,6 +579,15 @@
         ]
       },
       {
+        "name": "fdroid-misc-scripts",
+        "desc": "fdroid-misc-scripts - miscellaneous scripts to analyse f-droid app data",
+        "link": "https://github.com/obfusk/fdroid-misc-scripts",
+        "lang": [
+          "py",
+          "sh"
+        ]
+      },
+      {
         "name": "fnjs",
         "desc": "[TODO, ONHOLD] fnjs - functional javascript",
         "link": "https://github.com/obfusk/fnjs",
@@ -663,6 +603,14 @@
         ]
       },
       {
+        "name": "gradle-wrapper-verify",
+        "desc": "gradle-wrapper-verify - verify gradle-wrapper.jar sha256sum against published releases",
+        "link": "https://github.com/obfusk/gradle-wrapper-verify",
+        "lang": [
+          "sh"
+        ]
+      },
+      {
         "name": "koneko",
         "desc": "koneko - a concatenative not-quite-lisp for kittens",
         "link": "https://github.com/obfusk/koneko",
@@ -674,11 +622,69 @@
         ]
       },
       {
+        "name": "reproducible-apk-tools",
+        "desc": "reproducible-apk-tools - scripts to make android apks reproducible",
+        "link": "https://github.com/obfusk/reproducible-apk-tools",
+        "lang": [
+          "py",
+          "pypi"
+        ]
+      },
+      {
         "name": "venv",
         "desc": "venv - virtualenv's bundle exec",
         "link": "https://github.com/obfusk/venv",
         "lang": [
           "py"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Reproducible Builds",
+    "elems": [
+      {
+        "name": "apksigcopier",
+        "desc": "apksigcopier - copy/extract/patch android apk signatures & compare apks",
+        "link": "https://github.com/obfusk/apksigcopier",
+        "lang": [
+          "py",
+          "pypi"
+        ]
+      },
+      {
+        "name": "apksigtool",
+        "desc": "apksigtool - parse/verify/clean/sign android apk (signing block)",
+        "link": "https://github.com/obfusk/apksigtool",
+        "lang": [
+          "py",
+          "pypi"
+        ]
+      },
+      {
+        "name": "fdroid-misc-scripts",
+        "desc": "fdroid-misc-scripts - miscellaneous scripts to analyse f-droid app data",
+        "link": "https://github.com/obfusk/fdroid-misc-scripts",
+        "lang": [
+          "py",
+          "sh"
+        ]
+      },
+      {
+        "name": "reproducible-apk-tools",
+        "desc": "reproducible-apk-tools - scripts to make android apks reproducible",
+        "link": "https://github.com/obfusk/reproducible-apk-tools",
+        "lang": [
+          "py",
+          "pypi"
+        ]
+      },
+      {
+        "name": "sigblock-code-poc",
+        "desc": "android apk signing block payload poc",
+        "link": "https://github.com/obfusk/sigblock-code-poc",
+        "lang": [
+          "kt"
         ]
       }
     ]
@@ -740,11 +746,29 @@
         ]
       },
       {
+        "name": "catimerge",
+        "desc": "catimerge - merge two catima.zip exports",
+        "link": "https://github.com/obfusk/catimerge",
+        "lang": [
+          "py",
+          "pypi"
+        ]
+      },
+      {
         "name": "codespy",
         "desc": "codespy - cooperative spy code",
         "link": "https://github.com/obfusk/codespy",
         "lang": [
           "py"
+        ]
+      },
+      {
+        "name": "convert-to-requests",
+        "desc": "convert-to-requests - convert curl/fetch command to python requests",
+        "link": "https://github.com/obfusk/convert-to-requests",
+        "lang": [
+          "py",
+          "pypi"
         ]
       },
       {
@@ -764,6 +788,15 @@
         "link": "https://github.com/obfusk/dns.py",
         "lang": [
           "py"
+        ]
+      },
+      {
+        "name": "fdroid-misc-scripts",
+        "desc": "fdroid-misc-scripts - miscellaneous scripts to analyse f-droid app data",
+        "link": "https://github.com/obfusk/fdroid-misc-scripts",
+        "lang": [
+          "py",
+          "sh"
         ]
       },
       {
@@ -882,6 +915,15 @@
         "link": "https://github.com/obfusk/pypride",
         "lang": [
           "py"
+        ]
+      },
+      {
+        "name": "reproducible-apk-tools",
+        "desc": "reproducible-apk-tools - scripts to make android apks reproducible",
+        "link": "https://github.com/obfusk/reproducible-apk-tools",
+        "lang": [
+          "py",
+          "pypi"
         ]
       },
       {
@@ -1184,6 +1226,23 @@
         "name": "eft.sh",
         "desc": "eft.sh - bash + whiptail",
         "link": "https://github.com/obfusk/eft.sh",
+        "lang": [
+          "sh"
+        ]
+      },
+      {
+        "name": "fdroid-misc-scripts",
+        "desc": "fdroid-misc-scripts - miscellaneous scripts to analyse f-droid app data",
+        "link": "https://github.com/obfusk/fdroid-misc-scripts",
+        "lang": [
+          "py",
+          "sh"
+        ]
+      },
+      {
+        "name": "gradle-wrapper-verify",
+        "desc": "gradle-wrapper-verify - verify gradle-wrapper.jar sha256sum against published releases",
+        "link": "https://github.com/obfusk/gradle-wrapper-verify",
         "lang": [
           "sh"
         ]
@@ -1529,6 +1588,27 @@
         "link": "https://github.com/obfusk/sokobang",
         "lang": [
           "js"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Security",
+    "elems": [
+      {
+        "name": "gradle-wrapper-verify",
+        "desc": "gradle-wrapper-verify - verify gradle-wrapper.jar sha256sum against published releases",
+        "link": "https://github.com/obfusk/gradle-wrapper-verify",
+        "lang": [
+          "sh"
+        ]
+      },
+      {
+        "name": "sigblock-code-poc",
+        "desc": "android apk signing block payload poc",
+        "link": "https://github.com/obfusk/sigblock-code-poc",
+        "lang": [
+          "kt"
         ]
       }
     ]
@@ -2006,173 +2086,6 @@
         "link": "https://github.com/obfusk/xuggle-frames-to-video",
         "lang": [
           "clj"
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Nap",
-    "elems": [
-      {
-        "name": "eftcmdr-nap",
-        "desc": "eftcmdr-nap - eftcmdr + nap",
-        "link": "https://github.com/obfusk/eftcmdr-nap",
-        "lang": [
-          "rb"
-        ]
-      },
-      {
-        "name": "nap",
-        "desc": "nap - nightmare(less) application platform",
-        "link": "https://github.com/obfusk/nap",
-        "lang": [
-          "sh"
-        ],
-        "info": [
-          "inactive"
-        ]
-      },
-      {
-        "name": "nap-app",
-        "desc": "nap-app - web-based \"naps\" command",
-        "link": "https://github.com/obfusk/nap-app",
-        "lang": [
-          "rb"
-        ],
-        "info": [
-          "inactive"
-        ]
-      },
-      {
-        "name": "nap-hello",
-        "desc": "nap-hello - nap test app: hello world w/ sinatra",
-        "link": "https://github.com/obfusk/nap-hello",
-        "info": [
-          "inactive"
-        ]
-      },
-      {
-        "name": "napp",
-        "desc": "[TODO] napp - nightmare(less) application platform",
-        "link": "https://github.com/obfusk/napp",
-        "lang": [
-          "rb"
-        ],
-        "info": [
-          "unfinished"
-        ],
-        "warn": [
-          "on-hold"
-        ]
-      },
-      {
-        "name": "napp-hello-compojure",
-        "desc": "napp-hello-compojure - hello world w/ compojure",
-        "link": "https://github.com/obfusk/napp-hello-compojure",
-        "info": [
-          "unfinished"
-        ],
-        "warn": [
-          "on-hold"
-        ]
-      },
-      {
-        "name": "napp-hello-express",
-        "desc": "napp-hello-express - hello world w/ express",
-        "link": "https://github.com/obfusk/napp-hello-express",
-        "info": [
-          "unfinished"
-        ],
-        "warn": [
-          "on-hold"
-        ]
-      },
-      {
-        "name": "napp-hello-flask",
-        "desc": "napp-hello-flask - hello world w/ flask",
-        "link": "https://github.com/obfusk/napp-hello-flask",
-        "info": [
-          "unfinished"
-        ],
-        "warn": [
-          "on-hold"
-        ]
-      },
-      {
-        "name": "napp-hello-jetty",
-        "desc": "napp-hello-jetty - hello world w/ jetty",
-        "link": "https://github.com/obfusk/napp-hello-jetty",
-        "info": [
-          "unfinished"
-        ],
-        "warn": [
-          "on-hold"
-        ]
-      },
-      {
-        "name": "napp-hello-nc",
-        "desc": "napp-hello-nc - hello world w/ nc",
-        "link": "https://github.com/obfusk/napp-hello-nc",
-        "info": [
-          "unfinished"
-        ],
-        "warn": [
-          "on-hold"
-        ]
-      },
-      {
-        "name": "napp-hello-ncat",
-        "desc": "napp-hello-ncat - hello world w/ ncat",
-        "link": "https://github.com/obfusk/napp-hello-ncat",
-        "info": [
-          "unfinished"
-        ],
-        "warn": [
-          "on-hold"
-        ]
-      },
-      {
-        "name": "napp-hello-rails",
-        "desc": "napp-hello-rails - hello world w/ rails",
-        "link": "https://github.com/obfusk/napp-hello-rails",
-        "info": [
-          "unfinished"
-        ],
-        "warn": [
-          "on-hold"
-        ]
-      },
-      {
-        "name": "napp-hello-sinatra",
-        "desc": "napp-hello-sinatra - hello world w/ sinatra",
-        "link": "https://github.com/obfusk/napp-hello-sinatra",
-        "info": [
-          "unfinished"
-        ],
-        "warn": [
-          "on-hold"
-        ]
-      },
-      {
-        "name": "napp-puppet",
-        "desc": "[TODO, ONHOLD] napp-puppet - puppet config for napp server",
-        "link": "https://github.com/obfusk/napp-puppet",
-        "info": [
-          "unfinished"
-        ],
-        "warn": [
-          "on-hold"
-        ]
-      },
-      {
-        "name": "napp-server",
-        "desc": "[TODO, ONHOLD] napp-server - napp server template",
-        "link": "https://github.com/obfusk/napp-server",
-        "info": [
-          "unfinished"
-        ],
-        "warn": [
-          "on-hold"
         ]
       }
     ]

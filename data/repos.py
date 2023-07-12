@@ -10,13 +10,13 @@ with open("data/repos-tags.json") as f:
 with open("data/repos-blacklist.json") as f:
   blacklist = set(json.load(f))
 
-non_cat_tags  = set("clj cpp crate gem inactive js on-hold pypi " \
+non_cat_tags  = set("clj cpp crate gem inactive js kt on-hold pypi " \
                     "unfinished uni wip 日本語".split())
 unused_tags   = set("uni".split())
 keys          = "name desc link lang info warn".split()
 
 badges = dict(
-  lang = "clj cpp hs js py rb rs sh crate gem pypi 日本語".split(),
+  lang = "clj cpp hs js kt py rb rs sh crate gem pypi 日本語".split(),
   info = "inactive unfinished".split(),
   warn = "on-hold wip".split()
 )
@@ -38,8 +38,7 @@ def repositories(repos):
       l = [ b for b in bs if b in tags.get(k, ()) ]
       if l: v[c] = l
   for c, title in cats.items():
-    elems = [ v for k,v in data.items() if c in tags.get(k, ())
-              and (c == "nap" or "nap" not in tags[k]) ]
+    elems = [ v for k,v in data.items() if c in tags.get(k, ()) ]
     yield OrderedDict([("title", title), ("elems", elems)])
 
 GH_PRE = "https://github.com/obfusk/"

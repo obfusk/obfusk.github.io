@@ -4,6 +4,7 @@
   ["cli",         "Command Line"],
   ["util",        "Utilities"],
   ["dev",         "Development"],
+  ["repro",       "Reproducible Builds"],
   ["hs",          "Haskell"],
   ["py",          "Python"],
   ["rb",          "Ruby"],
@@ -11,11 +12,11 @@
   ["sh",          "Bash"],
   ["lib",         "Libraries"],
   ["fp",          "Functional Programming"],
+  ["sec",         "Security"],
   ["game",        "Games"],
   ["web",         "Web"],
   ["admin",       "Server Administration"],
   ["fs",          "Free Software & Privacy"],
   ["pres",        "Presentations"],
-  ["misc",        "Miscellaneous"],
-  ["nap",         "Nap"]
+  ["misc",        "Miscellaneous"]
 ]

@@ -45,6 +45,6 @@
     "name": "diffoscope",
     "desc": "https://diffoscope.org/",
     "link": "https://salsa.debian.org/reproducible-builds/diffoscope",
-    "contrib": false
+    "contrib": true
   }
 ]
