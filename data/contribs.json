@@ -8,6 +8,11 @@
         "link": "https://github.com/AJChapman/formatting"
       },
       {
+        "name": "CatimaLoyalty/Android",
+        "desc": "Catima, a Loyalty Card & Ticket Manager for Android",
+        "link": "https://github.com/CatimaLoyalty/Android"
+      },
+      {
         "name": "EFForg/https-everywhere",
         "desc": "A browser extension that encrypts your communications with many websites that offer HTTPS but still allow unencrypted connections.",
         "link": "https://github.com/EFForg/https-everywhere"
@@ -24,13 +29,18 @@
       },
       {
         "name": "NixOS/nixpkgs",
-        "desc": "Nix Packages collection",
+        "desc": "Nix Packages collection & NixOS",
         "link": "https://github.com/NixOS/nixpkgs"
       },
       {
         "name": "admin-ch/CovidCertificate-App-Android",
         "desc": "CovidCertificate Apps for Android",
         "link": "https://github.com/admin-ch/CovidCertificate-App-Android"
+      },
+      {
+        "name": "alisaifee/flask-limiter",
+        "desc": "Rate Limiting extension for Flask ",
+        "link": "https://github.com/alisaifee/flask-limiter"
       },
       {
         "name": "badges/shields",
@@ -63,6 +73,11 @@
         "link": "https://gitlab.com/fdroid/fdroidserver"
       },
       {
+        "name": "gitpython-developers/GitPython",
+        "desc": "GitPython is a python library used to interact with Git repositories.",
+        "link": "https://github.com/gitpython-developers/GitPython"
+      },
+      {
         "name": "gnab/remark",
         "desc": "A simple, in-browser, markdown-driven slideshow tool.",
         "link": "https://github.com/gnab/remark"
@@ -71,6 +86,11 @@
         "name": "gnupg",
         "desc": "The GNU Privacy Guard",
         "link": "https://dev.gnupg.org"
+      },
+      {
+        "name": "gradle/wrapper-validation-action",
+        "desc": "Gradle Wrapper Validation Action",
+        "link": "https://github.com/gradle/wrapper-validation-action"
       },
       {
         "name": "hankache/rakuguide",
@@ -89,7 +109,7 @@
       },
       {
         "name": "i3/i3",
-        "desc": "A tiling window manager",
+        "desc": "A tiling window manager for X11",
         "link": "https://github.com/i3/i3"
       },
       {
@@ -111,6 +131,11 @@
         "name": "jitsi/jitsi-videobridge",
         "desc": "Jitsi Videobridge is a WebRTC compatible video router or SFU that lets build highly scalable video conferencing infrastructure (i.e., up to hundreds of conferences per server).",
         "link": "https://github.com/jitsi/jitsi-videobridge"
+      },
+      {
+        "name": "jroddev/android-oss-release-tracker",
+        "desc": "Android Application to keep track of updates to Open Source Applications directly from the Repository",
+        "link": "https://github.com/jroddev/android-oss-release-tracker"
       },
       {
         "name": "kivy/buildozer",
@@ -161,6 +186,11 @@
         "name": "python/cpython",
         "desc": "The Python programming language",
         "link": "https://github.com/python/cpython"
+      },
+      {
+        "name": "r0x0r/pywebview",
+        "desc": "Build GUI for your Python program with JavaScript, HTML, and CSS",
+        "link": "https://github.com/r0x0r/pywebview"
       },
       {
         "name": "rack/rack",
@@ -243,6 +273,11 @@
     "title": "Indirect Contributions | (e.g. Issues)",
     "elems": [
       {
+        "name": "CatimaLoyalty/Website",
+        "desc": null,
+        "link": "https://github.com/CatimaLoyalty/Website"
+      },
+      {
         "name": "NixOS/ofborg",
         "desc": "@ofborg tooling automation https://monitoring.nix.ci/dashboard/db/ofborg",
         "link": "https://github.com/NixOS/ofborg"
@@ -251,6 +286,11 @@
         "name": "TeamNewPipe/NewPipe",
         "desc": "A libre lightweight streaming front-end for Android.",
         "link": "https://github.com/TeamNewPipe/NewPipe"
+      },
+      {
+        "name": "akanshSirohi/ShareX",
+        "desc": "\ud83d\ude80 Send and receive files in hassle-free way with fast speed!",
+        "link": "https://github.com/akanshSirohi/ShareX"
       },
       {
         "name": "androguard/androguard",
@@ -318,11 +358,6 @@
         "link": "https://github.com/pypy/pyrepl"
       },
       {
-        "name": "r0x0r/pywebview",
-        "desc": "Build GUI for your Python program with JavaScript, HTML, and CSS",
-        "link": "https://github.com/r0x0r/pywebview"
-      },
-      {
         "name": "resume/resume.github.com",
         "desc": "Resumes generated using the GitHub informations",
         "link": "https://github.com/resume/resume.github.com"
@@ -346,6 +381,11 @@
         "name": "spesmilo/electrum",
         "desc": "Electrum Bitcoin Wallet",
         "link": "https://github.com/spesmilo/electrum"
+      },
+      {
+        "name": "termux/termux-packages",
+        "desc": "A package build system for Termux.",
+        "link": "https://github.com/termux/termux-packages"
       },
       {
         "name": "venthur/python-popcon",

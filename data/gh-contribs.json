@@ -5,6 +5,16 @@
     "contrib": true
   },
   {
+    "name": "CatimaLoyalty/Android",
+    "count": 27,
+    "contrib": true
+  },
+  {
+    "name": "CatimaLoyalty/Website",
+    "count": 1,
+    "contrib": false
+  },
+  {
     "name": "DisciplinaOU/disciplina-nixops",
     "count": 1,
     "contrib": true
@@ -26,7 +36,7 @@
   },
   {
     "name": "NixOS/nixpkgs",
-    "count": 9,
+    "count": 10,
     "contrib": false
   },
   {
@@ -50,6 +60,16 @@
     "contrib": false
   },
   {
+    "name": "akanshSirohi/ShareX",
+    "count": 1,
+    "contrib": false
+  },
+  {
+    "name": "alisaifee/flask-limiter",
+    "count": 1,
+    "contrib": true
+  },
+  {
     "name": "androguard/androguard",
     "count": 1,
     "contrib": false
@@ -68,11 +88,6 @@
     "name": "badges/shields",
     "count": 1,
     "contrib": true
-  },
-  {
-    "name": "berkes/berkes.github.com",
-    "count": 1,
-    "contrib": false
   },
   {
     "name": "bitwalker/distillery",
@@ -110,7 +125,17 @@
     "contrib": false
   },
   {
+    "name": "gitpython-developers/GitPython",
+    "count": 2,
+    "contrib": true
+  },
+  {
     "name": "gnab/remark",
+    "count": 1,
+    "contrib": true
+  },
+  {
+    "name": "gradle/wrapper-validation-action",
     "count": 1,
     "contrib": true
   },
@@ -146,7 +171,7 @@
   },
   {
     "name": "i3/i3",
-    "count": 3,
+    "count": 2,
     "contrib": true
   },
   {
@@ -172,6 +197,11 @@
   {
     "name": "jitsi/jitsi-videobridge",
     "count": 5,
+    "contrib": true
+  },
+  {
+    "name": "jroddev/android-oss-release-tracker",
+    "count": 1,
     "contrib": true
   },
   {
@@ -261,13 +291,13 @@
   },
   {
     "name": "python/cpython",
-    "count": 5,
+    "count": 7,
     "contrib": true
   },
   {
     "name": "r0x0r/pywebview",
     "count": 1,
-    "contrib": false
+    "contrib": true
   },
   {
     "name": "rack/rack",
@@ -348,6 +378,11 @@
     "name": "termux/termux-app",
     "count": 1,
     "contrib": true
+  },
+  {
+    "name": "termux/termux-packages",
+    "count": 1,
+    "contrib": false
   },
   {
     "name": "thoughtbot/capybara-webkit",

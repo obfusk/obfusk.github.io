@@ -13,7 +13,7 @@
       },
       {
         "name": "apksigtool",
-        "desc": "apksigtool - parse/verify/clean android apk signing blocks & apks",
+        "desc": "apksigtool - parse/verify/clean/sign android apk (signing block)",
         "link": "https://github.com/obfusk/apksigtool",
         "lang": [
           "py",
@@ -236,7 +236,7 @@
       },
       {
         "name": "apksigtool",
-        "desc": "apksigtool - parse/verify/clean android apk signing blocks & apks",
+        "desc": "apksigtool - parse/verify/clean/sign android apk (signing block)",
         "link": "https://github.com/obfusk/apksigtool",
         "lang": [
           "py",
@@ -385,7 +385,7 @@
       },
       {
         "name": "apksigtool",
-        "desc": "apksigtool - parse/verify/clean android apk signing blocks & apks",
+        "desc": "apksigtool - parse/verify/clean/sign android apk (signing block)",
         "link": "https://github.com/obfusk/apksigtool",
         "lang": [
           "py",
@@ -472,7 +472,7 @@
       },
       {
         "name": "apksigtool",
-        "desc": "apksigtool - parse/verify/clean android apk signing blocks & apks",
+        "desc": "apksigtool - parse/verify/clean/sign android apk (signing block)",
         "link": "https://github.com/obfusk/apksigtool",
         "lang": [
           "py",
@@ -632,7 +632,7 @@
       },
       {
         "name": "apksigtool",
-        "desc": "apksigtool - parse/verify/clean android apk signing blocks & apks",
+        "desc": "apksigtool - parse/verify/clean/sign android apk (signing block)",
         "link": "https://github.com/obfusk/apksigtool",
         "lang": [
           "py",
@@ -724,7 +724,7 @@
       },
       {
         "name": "apksigtool",
-        "desc": "apksigtool - parse/verify/clean android apk signing blocks & apks",
+        "desc": "apksigtool - parse/verify/clean/sign android apk (signing block)",
         "link": "https://github.com/obfusk/apksigtool",
         "lang": [
           "py",
@@ -1256,7 +1256,7 @@
       },
       {
         "name": "apksigtool",
-        "desc": "apksigtool - parse/verify/clean android apk signing blocks & apks",
+        "desc": "apksigtool - parse/verify/clean/sign android apk (signing block)",
         "link": "https://github.com/obfusk/apksigtool",
         "lang": [
           "py",

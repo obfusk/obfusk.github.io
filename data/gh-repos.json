@@ -5,6 +5,11 @@
     "link": "https://github.com/obfusk/2des-attack"
   },
   {
+    "name": "CVE-2023-0045",
+    "desc": "[FORK]",
+    "link": "https://github.com/obfusk/CVE-2023-0045"
+  },
+  {
     "name": "CovidCertificate-App-Android",
     "desc": "[FORK] CovidCertificate Apps for Android",
     "link": "https://github.com/obfusk/CovidCertificate-App-Android"
@@ -13,6 +18,11 @@
     "name": "Easy_xkcd",
     "desc": "[FORK] An easy and simple open source xkcd reader",
     "link": "https://github.com/obfusk/Easy_xkcd"
+  },
+  {
+    "name": "GitPython",
+    "desc": "[FORK] GitPython is a python library used to interact with Git repositories.",
+    "link": "https://github.com/obfusk/GitPython"
   },
   {
     "name": "HsYAML",
@@ -65,6 +75,11 @@
     "link": "https://github.com/obfusk/algorithms.py"
   },
   {
+    "name": "android-oss-release-tracker",
+    "desc": "[FORK] Android Application to keep track of updates to Open Source Applications directly from the Repository",
+    "link": "https://github.com/obfusk/android-oss-release-tracker"
+  },
+  {
     "name": "ansible",
     "desc": "[FORK] ansible",
     "link": "https://github.com/obfusk/ansible"
@@ -76,7 +91,7 @@
   },
   {
     "name": "apksigtool",
-    "desc": "apksigtool - parse/verify/clean android apk signing blocks & apks",
+    "desc": "apksigtool - parse/verify/clean/sign android apk (signing block)",
     "link": "https://github.com/obfusk/apksigtool"
   },
   {
@@ -165,6 +180,21 @@
     "link": "https://github.com/obfusk/cahpy"
   },
   {
+    "name": "catima",
+    "desc": "[FORK] Catima, a Loyalty Card & Ticket Manager for Android",
+    "link": "https://github.com/obfusk/catima"
+  },
+  {
+    "name": "catima-website",
+    "desc": "[FORK]",
+    "link": "https://github.com/obfusk/catima-website"
+  },
+  {
+    "name": "catimerge",
+    "desc": "catimerge - merge two catima.zip exports",
+    "link": "https://github.com/obfusk/catimerge"
+  },
+  {
     "name": "checkupdates",
     "desc": null,
     "link": "https://github.com/obfusk/checkupdates"
@@ -193,6 +223,11 @@
     "name": "comfortable-mexican-sofa",
     "desc": "[FORK] ComfortableMexicanSofa is a powerful CMS Engine for Ruby on Rails applications",
     "link": "https://github.com/obfusk/comfortable-mexican-sofa"
+  },
+  {
+    "name": "convert-to-requests",
+    "desc": "convert-to-requests - convert curl/fetch command to python requests",
+    "link": "https://github.com/obfusk/convert-to-requests"
   },
   {
     "name": "cpbak",
@@ -290,9 +325,24 @@
     "link": "https://github.com/obfusk/fdroid-is-reproducible"
   },
   {
+    "name": "fdroid-misc-scripts",
+    "desc": "fdroid-misc-scripts - miscellaneous scripts to analyse f-droid app data",
+    "link": "https://github.com/obfusk/fdroid-misc-scripts"
+  },
+  {
+    "name": "fdroid-release-redirector",
+    "desc": "fdroid-release-redirector - redirector for code forges that don't have stable URLs for release assets",
+    "link": "https://github.com/obfusk/fdroid-release-redirector"
+  },
+  {
     "name": "flask",
     "desc": "[FORK] The Python micro framework for building web applications.",
     "link": "https://github.com/obfusk/flask"
+  },
+  {
+    "name": "flask-limiter",
+    "desc": "[FORK] Rate Limiting extension for Flask ",
+    "link": "https://github.com/obfusk/flask-limiter"
   },
   {
     "name": "flx-docs",
@@ -358,6 +408,11 @@
     "name": "gpg",
     "desc": "gpg key + fingerprint + HOWTO",
     "link": "https://github.com/obfusk/gpg"
+  },
+  {
+    "name": "gradle-wrapper-verify",
+    "desc": "gradle-wrapper-verify - verify gradle-wrapper.jar sha256sum against published releases",
+    "link": "https://github.com/obfusk/gradle-wrapper-verify"
   },
   {
     "name": "haskell-src-exts",
@@ -885,6 +940,11 @@
     "link": "https://github.com/obfusk/remark"
   },
   {
+    "name": "reproducible-apk-tools",
+    "desc": "reproducible-apk-tools - scripts to make android apks reproducible",
+    "link": "https://github.com/obfusk/reproducible-apk-tools"
+  },
+  {
     "name": "rubies-bugs",
     "desc": null,
     "link": "https://github.com/obfusk/rubies-bugs"
@@ -928,6 +988,11 @@
     "name": "shtst",
     "desc": "shtst - simple cli testing",
     "link": "https://github.com/obfusk/shtst"
+  },
+  {
+    "name": "sigblock-code-poc",
+    "desc": "android apk signing block payload poc",
+    "link": "https://github.com/obfusk/sigblock-code-poc"
   },
   {
     "name": "simple-stack-exploit",
@@ -1048,6 +1113,11 @@
     "name": "wire-android",
     "desc": "[FORK] :phone: Wire for Android",
     "link": "https://github.com/obfusk/wire-android"
+  },
+  {
+    "name": "wrapper-validation-action",
+    "desc": "[FORK] Gradle Wrapper Validation Action",
+    "link": "https://github.com/obfusk/wrapper-validation-action"
   },
   {
     "name": "xuggle-frames-to-video",

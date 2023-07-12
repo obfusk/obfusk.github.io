@@ -1,786 +1,938 @@
 [
   {
-    "link": "https://gist.github.com/009eae662748f8778bed",
+    "link": "https://gist.github.com/obfusk/009eae662748f8778bed",
     "desc": "localconfig git_repo test"
   },
   {
-    "link": "https://gist.github.com/01efde75d433885fd1d4",
+    "link": "https://gist.github.com/obfusk/01efde75d433885fd1d4",
     "desc": "rsync w/ destination-default permissions"
   },
   {
-    "link": "https://gist.github.com/029a95009ca5fec2ed5d083da4b2c56f",
+    "link": "https://gist.github.com/obfusk/029a95009ca5fec2ed5d083da4b2c56f",
     "desc": "haskell repl example"
   },
   {
-    "link": "https://gist.github.com/086f6e4c496340d57ebec0b764416ded",
+    "link": "https://gist.github.com/obfusk/0556054222ff01a5d1185ac37a54174a",
+    "desc": "jpype apksigner PoC"
+  },
+  {
+    "link": "https://gist.github.com/obfusk/05bc1756bc4234160a1dadca3450a738",
+    "desc": ""
+  },
+  {
+    "link": "https://gist.github.com/obfusk/086f6e4c496340d57ebec0b764416ded",
     "desc": "frequently used bash commands"
   },
   {
-    "link": "https://gist.github.com/0a6f23d0ef945fef8d54bfed7dc52da0",
+    "link": "https://gist.github.com/obfusk/0a6f23d0ef945fef8d54bfed7dc52da0",
     "desc": "virsh"
   },
   {
-    "link": "https://gist.github.com/0a8368d41b67a36d42966d8f39874aaa",
+    "link": "https://gist.github.com/obfusk/0a8368d41b67a36d42966d8f39874aaa",
     "desc": ""
   },
   {
-    "link": "https://gist.github.com/0d0a988827c33bcb6d4ac5f557ef5224",
+    "link": "https://gist.github.com/obfusk/0af449cab2eab8fea73d71bd4dc5caca",
+    "desc": "check RB by comparing sha256sum of unsigned APK against upstream"
+  },
+  {
+    "link": "https://gist.github.com/obfusk/0d0a988827c33bcb6d4ac5f557ef5224",
     "desc": "gtree (tree w/ quick-and-dirty .gitignore support)"
   },
   {
-    "link": "https://gist.github.com/0dc8a8babe80058cdfe3",
+    "link": "https://gist.github.com/obfusk/0dc8a8babe80058cdfe3",
     "desc": "chromium-trunk"
   },
   {
-    "link": "https://gist.github.com/0dd10a6d62fcd1d29437",
+    "link": "https://gist.github.com/obfusk/0dd10a6d62fcd1d29437",
     "desc": "run w/ utf8 locale | OBSOLETE; see https://github.com/obfusk/dotfiles"
   },
   {
-    "link": "https://gist.github.com/0e9203a2fc9e883a273413ff9173d7ab",
+    "link": "https://gist.github.com/obfusk/0e092ee039f3ce42b6f3d8e14fc03f8b",
+    "desc": "verify F-Droid index-v1.jar using apksigtool"
+  },
+  {
+    "link": "https://gist.github.com/obfusk/0e9203a2fc9e883a273413ff9173d7ab",
     "desc": "reload all broken images"
   },
   {
-    "link": "https://gist.github.com/0ea6b7e392e443bf2f2a",
+    "link": "https://gist.github.com/obfusk/0ea6b7e392e443bf2f2a",
     "desc": ".guile"
   },
   {
-    "link": "https://gist.github.com/10707773e12aa35ff24c47e2ba6004db",
+    "link": "https://gist.github.com/obfusk/0eb15aac7ce68225bbd7c0cf75061d39",
+    "desc": "-> https://github.com/obfusk/fdroid-misc-scripts | find differences between the F-Droid index and fdroiddata"
+  },
+  {
+    "link": "https://gist.github.com/obfusk/10707773e12aa35ff24c47e2ba6004db",
     "desc": "touch files in git repo based on last commit timestamp"
   },
   {
-    "link": "https://gist.github.com/10a5072c1a783a1a35240bed6c2ec175",
+    "link": "https://gist.github.com/obfusk/10a5072c1a783a1a35240bed6c2ec175",
     "desc": "prime factors: Haskell vs my Python code"
   },
   {
-    "link": "https://gist.github.com/11a0ac59070f5e5c59f8",
+    "link": "https://gist.github.com/obfusk/11a0ac59070f5e5c59f8",
     "desc": ".racketrc"
   },
   {
-    "link": "https://gist.github.com/14ac03b92c5b77a913c4",
+    "link": "https://gist.github.com/obfusk/14ac03b92c5b77a913c4",
     "desc": "push all remotes"
   },
   {
-    "link": "https://gist.github.com/14d2997a99bbd2819c3c61e6eaea1c10",
+    "link": "https://gist.github.com/obfusk/14d2997a99bbd2819c3c61e6eaea1c10",
     "desc": "python build diff"
   },
   {
-    "link": "https://gist.github.com/16e68f10598f83d8032b",
+    "link": "https://gist.github.com/obfusk/16e68f10598f83d8032b",
     "desc": "nullmailer w/ starttls & auth"
   },
   {
-    "link": "https://gist.github.com/18ca0fde78d97104c8f94a129679351d",
+    "link": "https://gist.github.com/obfusk/18ca0fde78d97104c8f94a129679351d",
     "desc": ""
   },
   {
-    "link": "https://gist.github.com/1a7ca8860b26cdbc7c37e356c1a3aaa3",
+    "link": "https://gist.github.com/obfusk/1a7ca8860b26cdbc7c37e356c1a3aaa3",
     "desc": "youtube-dl \"GUI\""
   },
   {
-    "link": "https://gist.github.com/1e648292acbe3b8bf0617903c22624a9",
+    "link": "https://gist.github.com/obfusk/1e648292acbe3b8bf0617903c22624a9",
     "desc": "differentiate annotated & lightweight git tags"
   },
   {
-    "link": "https://gist.github.com/200c9007a28a41b51bbd344508aca39f",
+    "link": "https://gist.github.com/obfusk/200c9007a28a41b51bbd344508aca39f",
     "desc": "debian swirl"
   },
   {
-    "link": "https://gist.github.com/208597ccc64bf9b436ed",
+    "link": "https://gist.github.com/obfusk/208597ccc64bf9b436ed",
     "desc": "python \"breakpoint\" (more or less equivalent to ruby's binding.pry); for a proper debugger, use https://docs.python.org/3/library/pdb.html"
   },
   {
-    "link": "https://gist.github.com/2350a5511dd8bf7b597fb1abdbc61b2c",
+    "link": "https://gist.github.com/obfusk/2350a5511dd8bf7b597fb1abdbc61b2c",
     "desc": "command-line tools you'll miss once you know they exist"
   },
   {
-    "link": "https://gist.github.com/237e3b289b7d03f4b16b4628a1530c6f",
+    "link": "https://gist.github.com/obfusk/237e3b289b7d03f4b16b4628a1530c6f",
     "desc": "list japanese fonts"
   },
   {
-    "link": "https://gist.github.com/2558cd313673f932da3c",
+    "link": "https://gist.github.com/obfusk/2558cd313673f932da3c",
     "desc": "http://www.lightweightcrypto.org/downloads/implementations/pypresent.py"
   },
   {
-    "link": "https://gist.github.com/267d11c897b34ae82556",
+    "link": "https://gist.github.com/obfusk/267d11c897b34ae82556",
     "desc": "use omxplayer as default dvd player for raspbmc"
   },
   {
-    "link": "https://gist.github.com/2e1a37d975cf405c444f",
+    "link": "https://gist.github.com/obfusk/28e8836eb7d54c187ac37b05e39e324d",
+    "desc": "generate certificate & private key for APK siging using openssl"
+  },
+  {
+    "link": "https://gist.github.com/obfusk/2e1a37d975cf405c444f",
     "desc": "python repl w/ history"
   },
   {
-    "link": "https://gist.github.com/33aecbc5577018f4188a927112b8f12a",
+    "link": "https://gist.github.com/obfusk/31c332b884464cd8aa06ce1ba1583c05",
+    "desc": "APK Signing Block considerations"
+  },
+  {
+    "link": "https://gist.github.com/obfusk/33aecbc5577018f4188a927112b8f12a",
     "desc": "wire-android maven stuff"
   },
   {
-    "link": "https://gist.github.com/35005ff65938c2dbdbc7",
+    "link": "https://gist.github.com/obfusk/35005ff65938c2dbdbc7",
     "desc": "mutt doc in latin1"
   },
   {
-    "link": "https://gist.github.com/36ef9f9f360a2ac3dc51311e5ea80640",
+    "link": "https://gist.github.com/obfusk/3623413f6cca3b38a1f9108df56556ee",
+    "desc": "-> https://github.com/obfusk/gradle-wrapper-verify | check gradle wrapper checksums"
+  },
+  {
+    "link": "https://gist.github.com/obfusk/36ef9f9f360a2ac3dc51311e5ea80640",
     "desc": ""
   },
   {
-    "link": "https://gist.github.com/3850045",
+    "link": "https://gist.github.com/obfusk/3850045",
     "desc": "js term test"
   },
   {
-    "link": "https://gist.github.com/389a86237a0b02e83ec1",
+    "link": "https://gist.github.com/obfusk/389a86237a0b02e83ec1",
     "desc": "chromium socks"
   },
   {
-    "link": "https://gist.github.com/3b38f74d2a49457e9e96ed243b61c622",
+    "link": "https://gist.github.com/obfusk/3b38f74d2a49457e9e96ed243b61c622",
     "desc": "gh api + httpie + jq"
   },
   {
-    "link": "https://gist.github.com/3caa8c38829895dfdbe3a8b6625e7004",
+    "link": "https://gist.github.com/obfusk/3caa8c38829895dfdbe3a8b6625e7004",
     "desc": "quick command line string equality test"
   },
   {
-    "link": "https://gist.github.com/44225839d51f82e1800fa6b4613268a2",
+    "link": "https://gist.github.com/obfusk/44225839d51f82e1800fa6b4613268a2",
     "desc": "(pipe to this command to) view html on command line"
   },
   {
-    "link": "https://gist.github.com/44bdca9caf5ef89e7ef0f4c985363d85",
+    "link": "https://gist.github.com/obfusk/44bdca9caf5ef89e7ef0f4c985363d85",
     "desc": "nix quoting weirdness"
   },
   {
-    "link": "https://gist.github.com/4514225",
+    "link": "https://gist.github.com/obfusk/44f6184833f1fc8ed81e375e342d46f9",
+    "desc": ""
+  },
+  {
+    "link": "https://gist.github.com/obfusk/4514225",
     "desc": "su + ssh-agent + screen"
   },
   {
-    "link": "https://gist.github.com/4519518",
+    "link": "https://gist.github.com/obfusk/4519518",
     "desc": "snippets"
   },
   {
-    "link": "https://gist.github.com/4639443",
+    "link": "https://gist.github.com/obfusk/4639443",
     "desc": "sodium"
   },
   {
-    "link": "https://gist.github.com/47c5a1368157bf717092",
+    "link": "https://gist.github.com/obfusk/47c5a1368157bf717092",
     "desc": "python smtp w/ starttls"
   },
   {
-    "link": "https://gist.github.com/47ce27af27f26a5a56b81bfd2fb067ab",
+    "link": "https://gist.github.com/obfusk/47ce27af27f26a5a56b81bfd2fb067ab",
     "desc": "nix repl"
   },
   {
-    "link": "https://gist.github.com/4831fe2585831b1d3fc4c49b91ff9e95",
+    "link": "https://gist.github.com/obfusk/4831fe2585831b1d3fc4c49b91ff9e95",
     "desc": "get fingerprint of public ssh key"
   },
   {
-    "link": "https://gist.github.com/48f6a73c63a0e12cee1fa9a9df02a594",
+    "link": "https://gist.github.com/obfusk/48f6a73c63a0e12cee1fa9a9df02a594",
     "desc": "ssh authorized_keys from github"
   },
   {
-    "link": "https://gist.github.com/4964940",
+    "link": "https://gist.github.com/obfusk/4964940",
     "desc": "obfusk-data w/ mongoid"
   },
   {
-    "link": "https://gist.github.com/4980445",
+    "link": "https://gist.github.com/obfusk/4980445",
     "desc": "debian chroot on android (asus tf300t w/ cyanogenmod 10)"
   },
   {
-    "link": "https://gist.github.com/4a4d82ec2f1dfd90b9c1",
+    "link": "https://gist.github.com/obfusk/4a4d82ec2f1dfd90b9c1",
     "desc": "reverse lines w/ perl"
   },
   {
-    "link": "https://gist.github.com/4abe41103de8c3a46fb0d2352bcf9e72",
+    "link": "https://gist.github.com/obfusk/4abe41103de8c3a46fb0d2352bcf9e72",
     "desc": "attempt to build vault w/ ui on nix | --> https://github.com/obfusk/nix-vault-with-ui"
   },
   {
-    "link": "https://gist.github.com/4ad83310af9b5c32215fd0094f4e4b49",
+    "link": "https://gist.github.com/obfusk/4ad83310af9b5c32215fd0094f4e4b49",
     "desc": "quick and dirty logcat for specific package only"
   },
   {
-    "link": "https://gist.github.com/4f13e884c24637a49c2468f5cea1041b",
+    "link": "https://gist.github.com/obfusk/4df80ad4eba22e814ba027e9870af039",
+    "desc": "verify JAR signature file using signature block file [WARNING: does not verify the actual file hashes!!!]"
+  },
+  {
+    "link": "https://gist.github.com/obfusk/4f13e884c24637a49c2468f5cea1041b",
     "desc": "kodi key binding (ctrl-l) for AudioNextLanguage; copy file to ~/.kodi/userdata/keymaps/"
   },
   {
-    "link": "https://gist.github.com/5024440",
+    "link": "https://gist.github.com/obfusk/5024440",
     "desc": "android notes"
   },
   {
-    "link": "https://gist.github.com/5074355",
+    "link": "https://gist.github.com/obfusk/5074355",
     "desc": "cream"
   },
   {
-    "link": "https://gist.github.com/5075670",
+    "link": "https://gist.github.com/obfusk/5075670",
     "desc": "*rc (mostly [ge]vim)"
   },
   {
-    "link": "https://gist.github.com/5087496",
+    "link": "https://gist.github.com/obfusk/5087496",
     "desc": "clojure cuke"
   },
   {
-    "link": "https://gist.github.com/5103552",
+    "link": "https://gist.github.com/obfusk/5103552",
     "desc": "grub2 password protection "
   },
   {
-    "link": "https://gist.github.com/516e779a513239959302b9da33354ad7",
+    "link": "https://gist.github.com/obfusk/516e779a513239959302b9da33354ad7",
     "desc": "download latest signal APK"
   },
   {
-    "link": "https://gist.github.com/5197581",
+    "link": "https://gist.github.com/obfusk/5197581",
     "desc": "list github repos and gists (w/ desc, home, branches)"
   },
   {
-    "link": "https://gist.github.com/5203768",
+    "link": "https://gist.github.com/obfusk/5203768",
     "desc": "fix github ssh connection problems"
   },
   {
-    "link": "https://gist.github.com/5314321",
+    "link": "https://gist.github.com/obfusk/5314321",
     "desc": "umask"
   },
   {
-    "link": "https://gist.github.com/5314326",
+    "link": "https://gist.github.com/obfusk/5314326",
     "desc": "secure ssh"
   },
   {
-    "link": "https://gist.github.com/5314717",
+    "link": "https://gist.github.com/obfusk/5314717",
     "desc": "phonegap/android development (on ubuntu 12.04 amd64)"
   },
   {
-    "link": "https://gist.github.com/5322624",
+    "link": "https://gist.github.com/obfusk/5322624",
     "desc": "User Agents"
   },
   {
-    "link": "https://gist.github.com/5332731",
+    "link": "https://gist.github.com/obfusk/5332731",
     "desc": "phonegap barcode lib"
   },
   {
-    "link": "https://gist.github.com/5398679",
+    "link": "https://gist.github.com/obfusk/5398679",
     "desc": "pretty git log with graph"
   },
   {
-    "link": "https://gist.github.com/5415497",
+    "link": "https://gist.github.com/obfusk/5415497",
     "desc": "gemspec example"
   },
   {
-    "link": "https://gist.github.com/5416615",
+    "link": "https://gist.github.com/obfusk/5416615",
     "desc": "run chromium twice"
   },
   {
-    "link": "https://gist.github.com/5455045",
+    "link": "https://gist.github.com/obfusk/5455045",
     "desc": "building chromium (on ubuntu 12.04) w/ extra ffmpeg codecs"
   },
   {
-    "link": "https://gist.github.com/5631529",
+    "link": "https://gist.github.com/obfusk/5631529",
     "desc": "Manual Installation of OpenELEC for Raspberry Pi on SD card"
   },
   {
-    "link": "https://gist.github.com/5646916",
+    "link": "https://gist.github.com/obfusk/5646916",
     "desc": "test VM: vagrant, etckeeper, postgresql, mongodb, ..."
   },
   {
-    "link": "https://gist.github.com/5647380",
+    "link": "https://gist.github.com/obfusk/5647380",
     "desc": "bash functions (hereby public domain)"
   },
   {
-    "link": "https://gist.github.com/5654115",
+    "link": "https://gist.github.com/obfusk/5654115",
     "desc": "ssh restricted commands"
   },
   {
-    "link": "https://gist.github.com/5665367",
+    "link": "https://gist.github.com/obfusk/5665367",
     "desc": "vagrant + nginx + ssl"
   },
   {
-    "link": "https://gist.github.com/5680980",
+    "link": "https://gist.github.com/obfusk/5680980",
     "desc": "dnsmasq for internal network"
   },
   {
-    "link": "https://gist.github.com/570af120179d48d18c61372776aa5410",
+    "link": "https://gist.github.com/obfusk/56df586450ee282529bdeca67578d3fa",
+    "desc": "apksigcopier: signatures made by older AGP versions cannot be copied"
+  },
+  {
+    "link": "https://gist.github.com/obfusk/570af120179d48d18c61372776aa5410",
     "desc": "temporarily disable -Werror for a file"
   },
   {
-    "link": "https://gist.github.com/5768197",
+    "link": "https://gist.github.com/obfusk/5768197",
     "desc": "vagrant base box: precise64-flx"
   },
   {
-    "link": "https://gist.github.com/58e5e41f88e51eaec9070dfaf92598a4",
+    "link": "https://gist.github.com/obfusk/58a6e9735eb7a86ce5a5fd6ec69c725d",
+    "desc": "show ARSC string pool using androguard"
+  },
+  {
+    "link": "https://gist.github.com/obfusk/58e5e41f88e51eaec9070dfaf92598a4",
     "desc": "sftp chroot"
   },
   {
-    "link": "https://gist.github.com/5935539",
+    "link": "https://gist.github.com/obfusk/5935539",
     "desc": "head+tail with perl"
   },
   {
-    "link": "https://gist.github.com/5987740",
+    "link": "https://gist.github.com/obfusk/5987740",
     "desc": "open more than 10 tabs in vim"
   },
   {
-    "link": "https://gist.github.com/5994539",
+    "link": "https://gist.github.com/obfusk/5994539",
     "desc": "git remote with multiple push urls"
   },
   {
-    "link": "https://gist.github.com/5994633",
+    "link": "https://gist.github.com/obfusk/5994633",
     "desc": "chromium sandbox"
   },
   {
-    "link": "https://gist.github.com/59dcc7136f92a30eedda",
+    "link": "https://gist.github.com/obfusk/59dcc7136f92a30eedda",
     "desc": "dvd2pi"
   },
   {
-    "link": "https://gist.github.com/5a2c336ffc56cbe38ca7",
+    "link": "https://gist.github.com/obfusk/5a2c336ffc56cbe38ca7",
     "desc": "dijkstra"
   },
   {
-    "link": "https://gist.github.com/5a7d90ed7dd37f157cb5351ec934a7b0",
+    "link": "https://gist.github.com/obfusk/5a7d90ed7dd37f157cb5351ec934a7b0",
     "desc": "get all download links for `wget -i`"
   },
   {
-    "link": "https://gist.github.com/5efc8f3613461807dc85",
+    "link": "https://gist.github.com/obfusk/5e07166d40ec23cd430b1cda33fdef0f",
+    "desc": "Java currency codes & symbols"
+  },
+  {
+    "link": "https://gist.github.com/obfusk/5efc8f3613461807dc85",
     "desc": ""
   },
   {
-    "link": "https://gist.github.com/620df6760f67b9d7d372cd2d8f0e7657",
+    "link": "https://gist.github.com/obfusk/6002658bd494caa8f49fff7c92b1328a",
+    "desc": "flatten output of tree(1)"
+  },
+  {
+    "link": "https://gist.github.com/obfusk/61046e09cee352ae6dd109911534b12e",
+    "desc": "baseline.profm not deterministic"
+  },
+  {
+    "link": "https://gist.github.com/obfusk/620df6760f67b9d7d372cd2d8f0e7657",
     "desc": "play video using youtube-dl and mpv"
   },
   {
-    "link": "https://gist.github.com/6330044",
+    "link": "https://gist.github.com/obfusk/6330044",
     "desc": "b43 firmware for 14e4:4331 on ubuntu 12.04"
   },
   {
-    "link": "https://gist.github.com/6330311",
+    "link": "https://gist.github.com/obfusk/6330311",
     "desc": "[OLD] dotfiles"
   },
   {
-    "link": "https://gist.github.com/6330867",
+    "link": "https://gist.github.com/obfusk/6330867",
     "desc": "apt, gem, cfg, npm, opt, pip; see also: sodium, ..."
   },
   {
-    "link": "https://gist.github.com/6357018",
+    "link": "https://gist.github.com/obfusk/6357018",
     "desc": "jitsi in /opt from .deb w/o apt"
   },
   {
-    "link": "https://gist.github.com/6405016",
+    "link": "https://gist.github.com/obfusk/6405016",
     "desc": "~/dev tree sodium"
   },
   {
-    "link": "https://gist.github.com/6475440",
+    "link": "https://gist.github.com/obfusk/6475440",
     "desc": ".abcde.conf"
   },
   {
-    "link": "https://gist.github.com/6522912",
+    "link": "https://gist.github.com/obfusk/6522912",
     "desc": "start gnome-terminal (80x40) in top left or bottom right"
   },
   {
-    "link": "https://gist.github.com/6543184",
+    "link": "https://gist.github.com/obfusk/6543184",
     "desc": "link mp3 folders together"
   },
   {
-    "link": "https://gist.github.com/6630344",
+    "link": "https://gist.github.com/obfusk/6630344",
     "desc": "fsfe Freiheit! flyer translated to Dutch and English"
   },
   {
-    "link": "https://gist.github.com/682f070ab4056bbe0076f8964409b9d3",
+    "link": "https://gist.github.com/obfusk/682f070ab4056bbe0076f8964409b9d3",
     "desc": "gdb"
   },
   {
-    "link": "https://gist.github.com/6846272",
+    "link": "https://gist.github.com/obfusk/6846272",
     "desc": "backups presentation"
   },
   {
-    "link": "https://gist.github.com/6956713",
+    "link": "https://gist.github.com/obfusk/6956713",
     "desc": "ackrc"
   },
   {
-    "link": "https://gist.github.com/6967160",
+    "link": "https://gist.github.com/obfusk/6967160",
     "desc": "cug"
   },
   {
-    "link": "https://gist.github.com/6969436",
+    "link": "https://gist.github.com/obfusk/6969436",
     "desc": "fizzbuzz"
   },
   {
-    "link": "https://gist.github.com/6d78c2c4507cce795daa3fc966e5122c",
+    "link": "https://gist.github.com/obfusk/6d78c2c4507cce795daa3fc966e5122c",
     "desc": "show terminal colours"
   },
   {
-    "link": "https://gist.github.com/7073835",
+    "link": "https://gist.github.com/obfusk/7073835",
     "desc": "obfusk.coffee - reduce + mbind"
   },
   {
-    "link": "https://gist.github.com/7073863",
+    "link": "https://gist.github.com/obfusk/7073863",
     "desc": "sigusr1 + wait"
   },
   {
-    "link": "https://gist.github.com/7073883",
+    "link": "https://gist.github.com/obfusk/7073883",
     "desc": "DO NOT USE \"foo $@ bar\" !!! only use \"$@\" !!!"
   },
   {
-    "link": "https://gist.github.com/7073906",
+    "link": "https://gist.github.com/obfusk/7073906",
     "desc": "relative path"
   },
   {
-    "link": "https://gist.github.com/7073928",
+    "link": "https://gist.github.com/obfusk/7073928",
     "desc": "build ffmpeg"
   },
   {
-    "link": "https://gist.github.com/7073968",
+    "link": "https://gist.github.com/obfusk/7073968",
     "desc": "7z w/ encryption"
   },
   {
-    "link": "https://gist.github.com/7074059",
+    "link": "https://gist.github.com/obfusk/7074059",
     "desc": "ssl"
   },
   {
-    "link": "https://gist.github.com/7074096",
+    "link": "https://gist.github.com/obfusk/7074096",
     "desc": "openvpn"
   },
   {
-    "link": "https://gist.github.com/7074114",
+    "link": "https://gist.github.com/obfusk/7074114",
     "desc": "actionmailer + smtp + CFG"
   },
   {
-    "link": "https://gist.github.com/7074181",
+    "link": "https://gist.github.com/obfusk/7074181",
     "desc": "run multiple apps w/ screen"
   },
   {
-    "link": "https://gist.github.com/7074216",
+    "link": "https://gist.github.com/obfusk/7074216",
     "desc": "sqlite -> postgres"
   },
   {
-    "link": "https://gist.github.com/7074233",
+    "link": "https://gist.github.com/obfusk/7074233",
     "desc": "libav/ffmpeg packages"
   },
   {
-    "link": "https://gist.github.com/7074255",
+    "link": "https://gist.github.com/obfusk/7074255",
     "desc": "mongo dump/restore"
   },
   {
-    "link": "https://gist.github.com/7074274",
+    "link": "https://gist.github.com/obfusk/7074274",
     "desc": "iridium"
   },
   {
-    "link": "https://gist.github.com/7074305",
+    "link": "https://gist.github.com/obfusk/7074305",
     "desc": "socat -- still testing"
   },
   {
-    "link": "https://gist.github.com/7074307",
+    "link": "https://gist.github.com/obfusk/7074307",
     "desc": "apg"
   },
   {
-    "link": "https://gist.github.com/7076026",
+    "link": "https://gist.github.com/obfusk/7076026",
     "desc": "git basics"
   },
   {
-    "link": "https://gist.github.com/7076057",
+    "link": "https://gist.github.com/obfusk/7076057",
     "desc": "sync"
   },
   {
-    "link": "https://gist.github.com/71413bbbe9b759c6dedb",
+    "link": "https://gist.github.com/obfusk/71413bbbe9b759c6dedb",
     "desc": "redcarpet command line"
   },
   {
-    "link": "https://gist.github.com/7364475",
+    "link": "https://gist.github.com/obfusk/7364475",
     "desc": "random quote w/ perl"
   },
   {
-    "link": "https://gist.github.com/7380007",
+    "link": "https://gist.github.com/obfusk/7380007",
     "desc": "nap switch branch"
   },
   {
-    "link": "https://gist.github.com/7474483",
+    "link": "https://gist.github.com/obfusk/7474483",
     "desc": "different Gemfile.lock files for different branches "
   },
   {
-    "link": "https://gist.github.com/7474818",
+    "link": "https://gist.github.com/obfusk/7474818",
     "desc": "rails locale"
   },
   {
-    "link": "https://gist.github.com/7474831",
+    "link": "https://gist.github.com/obfusk/7474831",
     "desc": "[OBSOLETE: NOW THAT PULL REQUEST IS MERGED, YOU CAN USE DUTCH LOCALE w/ COMFORTABLE-MEXICAN-SOFA] comfortable-mexican-sofa dutch locale"
   },
   {
-    "link": "https://gist.github.com/7491914",
+    "link": "https://gist.github.com/obfusk/7491914",
     "desc": "~nap dotfiles"
   },
   {
-    "link": "https://gist.github.com/7535687",
+    "link": "https://gist.github.com/obfusk/7535687",
     "desc": "[OBSOLETE: NOW THAT PULL REQUEST IS MERGED, YOU CAN USE BCRYPT w/ COMFORTABLE-MEXICAN-SOFA] comfortable-mexican-sofa http auth w/ bcrypt"
   },
   {
-    "link": "https://gist.github.com/7535719",
+    "link": "https://gist.github.com/obfusk/7535719",
     "desc": "random line w/ ruby"
   },
   {
-    "link": "https://gist.github.com/7553915",
+    "link": "https://gist.github.com/obfusk/7553915",
     "desc": "prettyfy json w/ ruby oneliner"
   },
   {
-    "link": "https://gist.github.com/768b52dbb6e3693b20dbb10ced06bfeb",
+    "link": "https://gist.github.com/obfusk/768b52dbb6e3693b20dbb10ced06bfeb",
     "desc": "watch a video together with friends using rtmp live streaming w/ nginx, stunnel, ffmpeg & mpv (replace $STREAMNAME, $FQDN, $IP)"
   },
   {
-    "link": "https://gist.github.com/77a957d6dbb8202f59741ef8489f5093",
+    "link": "https://gist.github.com/obfusk/77a957d6dbb8202f59741ef8489f5093",
     "desc": "github merged pull requests etc. via api w/ curl and jq"
   },
   {
-    "link": "https://gist.github.com/7803381",
+    "link": "https://gist.github.com/obfusk/7803381",
     "desc": "EventSource and phantomjs/poltergeist/capybara-webkit"
   },
   {
-    "link": "https://gist.github.com/7851059",
+    "link": "https://gist.github.com/obfusk/7851059",
     "desc": "vim: load modeline of current file (when disabled by default)"
   },
   {
-    "link": "https://gist.github.com/7bbcdaf5bcfc20cb0e8ee7fd440d9e15",
+    "link": "https://gist.github.com/obfusk/7bbcdaf5bcfc20cb0e8ee7fd440d9e15",
     "desc": "extracting watched & watching data from kodi's (sqlite) database"
   },
   {
-    "link": "https://gist.github.com/7d1cedf698d217d3cc4b90028951a594",
+    "link": "https://gist.github.com/obfusk/7cfc6111cc006fb0738ed198da8fe066",
+    "desc": "-> https://github.com/obfusk/convert-to-requests | parse a curl command (e.g. from \"copy as cURL\") from stdin and use python requests to execute it"
+  },
+  {
+    "link": "https://gist.github.com/obfusk/7d1cedf698d217d3cc4b90028951a594",
     "desc": "python repl example"
   },
   {
-    "link": "https://gist.github.com/7de8959e136e3739151cf7537f3f54d6",
+    "link": "https://gist.github.com/obfusk/7de8959e136e3739151cf7537f3f54d6",
     "desc": ""
   },
   {
-    "link": "https://gist.github.com/7f081ca7a0eae946fc7fc6821b4680b4",
+    "link": "https://gist.github.com/obfusk/7f081ca7a0eae946fc7fc6821b4680b4",
     "desc": "m-over-reverse-ssh"
   },
   {
-    "link": "https://gist.github.com/8032e414610c8faca4a537fbe13d3798",
+    "link": "https://gist.github.com/obfusk/8032e414610c8faca4a537fbe13d3798",
     "desc": "trs tools examples"
   },
   {
-    "link": "https://gist.github.com/80edcd5455d348f9ccb7",
+    "link": "https://gist.github.com/obfusk/80edcd5455d348f9ccb7",
     "desc": "localconfig git_repo test #2"
   },
   {
-    "link": "https://gist.github.com/8134210",
+    "link": "https://gist.github.com/obfusk/8117be542a56268d80e1ee986ff46756",
+    "desc": "testing proposed javascript magic"
+  },
+  {
+    "link": "https://gist.github.com/obfusk/8134210",
     "desc": "fix for blank screen during boot with intel graphics"
   },
   {
-    "link": "https://gist.github.com/8190338",
+    "link": "https://gist.github.com/obfusk/8190338",
     "desc": "create an encrypted flash drive on the command line w/ cryptsetup"
   },
   {
-    "link": "https://gist.github.com/81956cef6c5c5e62a8e243ad8d10cc3d",
+    "link": "https://gist.github.com/obfusk/81956cef6c5c5e62a8e243ad8d10cc3d",
     "desc": "get fingerprint of cert from jar"
   },
   {
-    "link": "https://gist.github.com/8256668",
+    "link": "https://gist.github.com/obfusk/8256668",
     "desc": "sodium'"
   },
   {
-    "link": "https://gist.github.com/8259416",
+    "link": "https://gist.github.com/obfusk/8259416",
     "desc": "apt sources.list for debian unstable"
   },
   {
-    "link": "https://gist.github.com/8262204",
+    "link": "https://gist.github.com/obfusk/8262204",
     "desc": "some gnome3 command-line tweaks"
   },
   {
-    "link": "https://gist.github.com/8275915",
+    "link": "https://gist.github.com/obfusk/8275915",
     "desc": "dotfiles | OBSOLETE; see https://github.com/obfusk/dotfiles"
   },
   {
-    "link": "https://gist.github.com/861f2908d58435a56fc6959d77684b0f",
+    "link": "https://gist.github.com/obfusk/861f2908d58435a56fc6959d77684b0f",
     "desc": ".cargo/config to use local/offline debian packages instead of crates.io"
   },
   {
-    "link": "https://gist.github.com/8848c124eaeeec43fea97839ea6eebb2",
+    "link": "https://gist.github.com/obfusk/8848c124eaeeec43fea97839ea6eebb2",
     "desc": "git word diff"
   },
   {
-    "link": "https://gist.github.com/89824399b8caefedff4f969aeb817bfa",
+    "link": "https://gist.github.com/obfusk/89824399b8caefedff4f969aeb817bfa",
     "desc": "python idna en-/decode on command line"
   },
   {
-    "link": "https://gist.github.com/8b1080dde3789fc438ce9cae2405c27b",
+    "link": "https://gist.github.com/obfusk/8b1080dde3789fc438ce9cae2405c27b",
     "desc": "LineageOS update_verifier using cryptography instead of oscrypto"
   },
   {
-    "link": "https://gist.github.com/8c1f0b0e60ad30337d1539fedc7e5b3c",
+    "link": "https://gist.github.com/obfusk/8b1d6f017c8f37852f3448b3979f3205",
+    "desc": "magic(5) files for .smali & .apk files"
+  },
+  {
+    "link": "https://gist.github.com/obfusk/8c1f0b0e60ad30337d1539fedc7e5b3c",
     "desc": "download multiple torrents w/ aria2c"
   },
   {
-    "link": "https://gist.github.com/8ce62af591a0dd3c2020107b28ffa2da",
+    "link": "https://gist.github.com/obfusk/8ce62af591a0dd3c2020107b28ffa2da",
     "desc": "apk signature copying"
   },
   {
-    "link": "https://gist.github.com/9086bbb1c5511f86801dd1a7b1792f8a",
+    "link": "https://gist.github.com/obfusk/9086bbb1c5511f86801dd1a7b1792f8a",
     "desc": "diff the + and - parts of a diff; useful when moving things around"
   },
   {
-    "link": "https://gist.github.com/9188866",
+    "link": "https://gist.github.com/obfusk/9188866",
     "desc": "eftcmdr + nap"
   },
   {
-    "link": "https://gist.github.com/9964143",
+    "link": "https://gist.github.com/obfusk/9367ebbb887737cad35280df344c19cd",
+    "desc": "-> https://github.com/obfusk/reproducible-apk-tools | fix META-INF/services/ newlines"
+  },
+  {
+    "link": "https://gist.github.com/obfusk/9372ca7604032a719f2f19aaca3580d1",
+    "desc": "use apksigner instead of signingConfig in build.gradle"
+  },
+  {
+    "link": "https://gist.github.com/obfusk/94b649779b60440932b3929be72ef1da",
+    "desc": ""
+  },
+  {
+    "link": "https://gist.github.com/obfusk/98249517a329dc33911b71ed344e7db3",
+    "desc": "-> https://github.com/obfusk/reproducible-apk-tools | dump baseline.prof{,m}"
+  },
+  {
+    "link": "https://gist.github.com/obfusk/9964143",
     "desc": "gems"
   },
   {
-    "link": "https://gist.github.com/9994655",
+    "link": "https://gist.github.com/obfusk/9994655",
     "desc": "manually set default gateway in case nm uses the wrong interface"
   },
   {
-    "link": "https://gist.github.com/a41dca4121b7466294f1",
+    "link": "https://gist.github.com/obfusk/9a92037010455a079ee488456b90421b",
+    "desc": "python one-liner to sort version codes"
+  },
+  {
+    "link": "https://gist.github.com/obfusk/a41dca4121b7466294f1",
     "desc": "xss"
   },
   {
-    "link": "https://gist.github.com/a942e5410edf33932d93238abab3ab9f",
+    "link": "https://gist.github.com/obfusk/a5463fe404e22d6691f180279266b94a",
+    "desc": "-> https://github.com/obfusk/reproducible-apk-tools#gradle-integration | reproducible-apk-tools gradle integration"
+  },
+  {
+    "link": "https://gist.github.com/obfusk/a942e5410edf33932d93238abab3ab9f",
     "desc": "fake python3-vagrant package (to install fdroidserver w/o vagrant)"
   },
   {
-    "link": "https://gist.github.com/afc282bf41694885ef0c3abc698a5780",
+    "link": "https://gist.github.com/obfusk/a993b1bb54f52e1f6d2f56b1f97b2100",
+    "desc": "check APK Signing Block for Google/unknown blocks"
+  },
+  {
+    "link": "https://gist.github.com/obfusk/ab5a3c65315a43166e3436ad1f367501",
+    "desc": "-> https://github.com/obfusk/fdroid-misc-scripts | download & check f-droid APKs using Binaries:"
+  },
+  {
+    "link": "https://gist.github.com/obfusk/afc282bf41694885ef0c3abc698a5780",
     "desc": "only allow specific packages from non-free using apt pinning (/etc/apt/sources.list, /etc/apt/preferences.d/non-free)"
   },
   {
-    "link": "https://gist.github.com/b19e087bab1f4e1f7e837dab32c4dad2",
+    "link": "https://gist.github.com/obfusk/b19e087bab1f4e1f7e837dab32c4dad2",
     "desc": "radicals"
   },
   {
-    "link": "https://gist.github.com/b1bd473469f78ece2ff3",
+    "link": "https://gist.github.com/obfusk/b1bd473469f78ece2ff3",
     "desc": "nginx ssl"
   },
   {
-    "link": "https://gist.github.com/b1f35789eb3b728f8779c5fa8a3d1285",
+    "link": "https://gist.github.com/obfusk/b1f35789eb3b728f8779c5fa8a3d1285",
     "desc": "weird behaviour with pypy"
   },
   {
-    "link": "https://gist.github.com/b3664231f75576b4a7c52f49f844d780",
+    "link": "https://gist.github.com/obfusk/b3664231f75576b4a7c52f49f844d780",
     "desc": "external-screen-fu"
   },
   {
-    "link": "https://gist.github.com/b516e72dcaec53319b1628f6343b22db",
+    "link": "https://gist.github.com/obfusk/b3c47a35271e166a0dd0fc133e020003",
+    "desc": "avx detection"
+  },
+  {
+    "link": "https://gist.github.com/obfusk/b516e72dcaec53319b1628f6343b22db",
     "desc": "jiten gbp"
   },
   {
-    "link": "https://gist.github.com/b656f4aedc0ecbacdd2b467084685a4c",
+    "link": "https://gist.github.com/obfusk/b656f4aedc0ecbacdd2b467084685a4c",
     "desc": "hub issue format"
   },
   {
-    "link": "https://gist.github.com/bb6b9504ce92b9f77ab10e69cdd45eda",
+    "link": "https://gist.github.com/obfusk/bb6b9504ce92b9f77ab10e69cdd45eda",
     "desc": "utf8 for mutt (still latin1 for rest) | OBSOLETE; see https://github.com/obfusk/dotfiles"
   },
   {
-    "link": "https://gist.github.com/bc146e6c76996792af859096cd37b4d6",
+    "link": "https://gist.github.com/obfusk/bc146e6c76996792af859096cd37b4d6",
     "desc": "tiny elixir HTTP GET client w/ ssl verification using python3-certifi's certificate bundle"
   },
   {
-    "link": "https://gist.github.com/bf70b992f2e7da6691caf2274ee8368f",
+    "link": "https://gist.github.com/obfusk/bf70b992f2e7da6691caf2274ee8368f",
     "desc": "ghc profile memory (stack + heap)"
   },
   {
-    "link": "https://gist.github.com/c1e8e0cd3867a237ea932f6792739c11",
+    "link": "https://gist.github.com/obfusk/c1e8e0cd3867a237ea932f6792739c11",
     "desc": "fix fdroid apkcache timestamps"
   },
   {
-    "link": "https://gist.github.com/c4f0dff753589c251430",
+    "link": "https://gist.github.com/obfusk/c361c25d18c62dda2636615852af65c8",
+    "desc": ""
+  },
+  {
+    "link": "https://gist.github.com/obfusk/c3765eb9dda527676c948f35e5bf09cd",
+    "desc": "-> https://github.com/obfusk/reproducible-apk-tools | fix compresslevel in APK"
+  },
+  {
+    "link": "https://gist.github.com/obfusk/c4f0dff753589c251430",
     "desc": "rbx w/ rvm"
   },
   {
-    "link": "https://gist.github.com/c51d353e75d576bd5cb8e92456cdec47",
+    "link": "https://gist.github.com/obfusk/c51d353e75d576bd5cb8e92456cdec47",
     "desc": "jiten for nixos | OUTDATED | jiten is now in nixpkgs (un)stable"
   },
   {
-    "link": "https://gist.github.com/c70a6f6816ba475f161caf82002c33d5",
+    "link": "https://gist.github.com/obfusk/c51ebbf571e04ddf29e21146096675f8",
+    "desc": "on android \"secure messengers\" and reproducible builds (or lack thereof)"
+  },
+  {
+    "link": "https://gist.github.com/obfusk/c70a6f6816ba475f161caf82002c33d5",
     "desc": "find/strip UTC timestamps from ZIP files' CD extra fields"
   },
   {
-    "link": "https://gist.github.com/c8470c65bb5367df83e0af03a3147dc7",
+    "link": "https://gist.github.com/obfusk/c7a56eb29e8dd2d64db110b50ed41c69",
+    "desc": "-> https://github.com/obfusk/reproducible-apk-tools | dump resources.arsc"
+  },
+  {
+    "link": "https://gist.github.com/obfusk/c7dcee1ac28bc494323b6ce78ea8ac3c",
+    "desc": "use zipflinger to add files to an APK w/ a groovy script"
+  },
+  {
+    "link": "https://gist.github.com/obfusk/c8470c65bb5367df83e0af03a3147dc7",
     "desc": "jitsi security"
   },
   {
-    "link": "https://gist.github.com/ca532591f54492297c1d05520fecc741",
+    "link": "https://gist.github.com/obfusk/ca532591f54492297c1d05520fecc741",
     "desc": "open files in vim tabs"
   },
   {
-    "link": "https://gist.github.com/cc16d2a331f105f3928cc6a959ecd854",
+    "link": "https://gist.github.com/obfusk/cc16d2a331f105f3928cc6a959ecd854",
     "desc": "add times from stdin"
   },
   {
-    "link": "https://gist.github.com/cc539f0b961ac5c9e40a83f7ed545400",
+    "link": "https://gist.github.com/obfusk/cc539f0b961ac5c9e40a83f7ed545400",
     "desc": "Notes on FLOSS -- Free and Open-Source Software Licensing: A Crash Course for Computer Science Students"
   },
   {
-    "link": "https://gist.github.com/cd99740e5562197908e7",
+    "link": "https://gist.github.com/obfusk/cd99740e5562197908e7",
     "desc": "use xrandr to enable only HDMI1 if connected, LVDS1 otherwise | OBSOLETE; see https://github.com/obfusk/dotfiles"
   },
   {
-    "link": "https://gist.github.com/d4cdbc67b8b1ee8f09688ba7dd72d968",
+    "link": "https://gist.github.com/obfusk/d4cdbc67b8b1ee8f09688ba7dd72d968",
     "desc": "strip ansi escape (e.g. colour) codes"
   },
   {
-    "link": "https://gist.github.com/d4fe43e87999d08384bb6c76b37e9619",
+    "link": "https://gist.github.com/obfusk/d4fe43e87999d08384bb6c76b37e9619",
     "desc": "an attempt at a dynamic programming abstraction in python"
   },
   {
-    "link": "https://gist.github.com/d7748053f413ddbccdb1e19eee84eedf",
+    "link": "https://gist.github.com/obfusk/d7748053f413ddbccdb1e19eee84eedf",
     "desc": ""
   },
   {
-    "link": "https://gist.github.com/db1ebd1f7e54a29fdbd9",
+    "link": "https://gist.github.com/obfusk/dad7bec26d3b4fa39250fc3eccd60cc5",
+    "desc": "global venv"
+  },
+  {
+    "link": "https://gist.github.com/obfusk/db1ebd1f7e54a29fdbd9",
     "desc": "convert icedove address book .csv to mutt aliases file (to be modified afterwards)"
   },
   {
-    "link": "https://gist.github.com/dba6447e4e28277c2791d86463283385",
+    "link": "https://gist.github.com/obfusk/dba6447e4e28277c2791d86463283385",
     "desc": "<img> w/ data-src -> src"
   },
   {
-    "link": "https://gist.github.com/dcf844b701ed44d2fdfcd76285b3500c",
+    "link": "https://gist.github.com/obfusk/dcf844b701ed44d2fdfcd76285b3500c",
     "desc": "[draft] apksigcopier abstract"
   },
   {
-    "link": "https://gist.github.com/e22bdf6616a57f24a05e746ae61d060a",
+    "link": "https://gist.github.com/obfusk/dfe6ddd31e0b8056c3c78151599f4346",
+    "desc": "convert AndroidManifest.xml to binary XML w/ aapt2 link"
+  },
+  {
+    "link": "https://gist.github.com/obfusk/e22bdf6616a57f24a05e746ae61d060a",
     "desc": "~/.config/fontconfig/fonts.conf"
   },
   {
-    "link": "https://gist.github.com/e92e14b0368006994afe82838c9f2738",
+    "link": "https://gist.github.com/obfusk/e92e14b0368006994afe82838c9f2738",
     "desc": "find fonts that have a glyph for a specific character on Linux"
   },
   {
-    "link": "https://gist.github.com/f0203e520f2a5f759973",
+    "link": "https://gist.github.com/obfusk/eb82a810ed6aad266dab19977b18cee6",
+    "desc": "sort baseline.profm in build.gradle using com.android.tools.profgen"
+  },
+  {
+    "link": "https://gist.github.com/obfusk/ee5c27569e636df5c59c2121abb35b13",
+    "desc": "add zipflinger virtual entry to unsigned APK"
+  },
+  {
+    "link": "https://gist.github.com/obfusk/f0203e520f2a5f759973",
     "desc": "how to use bash read w/ last line w/o newline"
   },
   {
-    "link": "https://gist.github.com/f02f8cff391f304fd83dfa1e1a0eb02e",
+    "link": "https://gist.github.com/obfusk/f02f8cff391f304fd83dfa1e1a0eb02e",
     "desc": "git diff xml.gz"
   },
   {
-    "link": "https://gist.github.com/f0a782194a0390a9bbed",
+    "link": "https://gist.github.com/obfusk/f0460dcdb21396ba3d2cc9db56bb40ae",
+    "desc": "HOWTO: diff & fix APKs for Reproducible Builds"
+  },
+  {
+    "link": "https://gist.github.com/obfusk/f0a782194a0390a9bbed",
     "desc": "bitbucket -> gitlab"
   },
   {
-    "link": "https://gist.github.com/f73cb9cbd78bec5c270a",
+    "link": "https://gist.github.com/obfusk/f73cb9cbd78bec5c270a",
     "desc": "dns root servers"
   },
   {
-    "link": "https://gist.github.com/f7522fad46899c29004f123a4d41817a",
+    "link": "https://gist.github.com/obfusk/f7522fad46899c29004f123a4d41817a",
     "desc": "diff + bat"
   },
   {
-    "link": "https://gist.github.com/f813333808e57f6d598cc18bcffb01e9",
+    "link": "https://gist.github.com/obfusk/f813333808e57f6d598cc18bcffb01e9",
     "desc": "run perl script with autoflush to prevent problems with buffered output (e.g. when piping to tee)"
   },
   {
-    "link": "https://gist.github.com/f83d79e85680a2ee1f4d",
+    "link": "https://gist.github.com/obfusk/f83d79e85680a2ee1f4d",
     "desc": "fake update for fsfe website translations"
   },
   {
-    "link": "https://gist.github.com/f8b48e66d45db5827f3c8010080f19bd",
+    "link": "https://gist.github.com/obfusk/f8b48e66d45db5827f3c8010080f19bd",
     "desc": "utf8 terminal | OBSOLETE; see https://github.com/obfusk/dotfiles"
   },
   {
-    "link": "https://gist.github.com/f8d06a17a1c308d22057",
+    "link": "https://gist.github.com/obfusk/f8d06a17a1c308d22057",
     "desc": ""
   },
   {
-    "link": "https://gist.github.com/f92c5c6ed91c86c0036eadb22fca25f2",
+    "link": "https://gist.github.com/obfusk/f92c5c6ed91c86c0036eadb22fca25f2",
     "desc": ""
   },
   {
-    "link": "https://gist.github.com/f9b68f58ef7afcd41ad5b0b51d82274b",
+    "link": "https://gist.github.com/obfusk/f9b68f58ef7afcd41ad5b0b51d82274b",
     "desc": "fast way to get the minSdkVersion from an APK"
   },
   {
-    "link": "https://gist.github.com/fa975e206fe428235da784ac2f487fe5",
+    "link": "https://gist.github.com/obfusk/fa975e206fe428235da784ac2f487fe5",
     "desc": "build vault ui w/ nix-npm-buildpackage"
   },
   {
-    "link": "https://gist.github.com/fd9c03fed75bd0c27128",
+    "link": "https://gist.github.com/obfusk/fca414a6d0a0d6b919c137aa3a01f370",
+    "desc": ""
+  },
+  {
+    "link": "https://gist.github.com/obfusk/fd9c03fed75bd0c27128",
     "desc": "backup"
   }
 ]
