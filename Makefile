@@ -12,17 +12,19 @@ HTMLOK    := The document is valid HTML5
 
 H5VCMD    := html5validator --show-warnings --log INFO --no-langdetect
 
-.PHONY: build clean serve master validate validate-css validate-html \
-        ci-test
+.PHONY: all build update clean serve master validate validate-css validate-html ci-test
 
-build: css/pygments.css data/repos.json data/gists.json \
-       data/contribs.json
+all: update build
+
+build: css/pygments.css
 	mkdir -p __html__
 	$(PY) build.py
 	cp -av -t __html__ css img js .github
 
 css/pygments.css:
 	pygmentize -S friendly -f html -a .codehilite > $@
+
+update: data/repos.json data/gists.json data/contribs.json
 
 data/repos.json: data/gh-repos.json data/repos-blacklist.json \
                  data/repos-cats.json data/repos-tags.json
