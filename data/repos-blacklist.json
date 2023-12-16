@@ -2,6 +2,7 @@
   "2des-attack",
   "CVE-2023-0045",
   "CovidCertificate-App-Android",
+  "Droidtoberfest",
   "Easy_xkcd",
   "GitPython",
   "HsYAML",
@@ -12,6 +13,7 @@
   "__test-cljs-2",
   "android-oss-release-tracker",
   "ansible",
+  "ansible-uptime-kuma",
   "aruba-obfusk",
   "awesome-config",
   "bat",
@@ -25,6 +27,7 @@
   "ci-pr-conflict-test",
   "clj.rkt",
   "comfortable-mexican-sofa",
+  "contributors-to-file-action",
   "cpython",
   "cryptanalysis",
   "cryptobox-jni",
@@ -120,6 +123,8 @@
   "stsffap",
   "termux-app",
   "test-apks",
+  "uptime-kuma",
+  "uptime-kuma-api",
   "vagrant",
   "vim",
   "vim-niji",
@@ -128,5 +133,6 @@
   "werkzeug",
   "wire-android",
   "wrapper-validation-action",
-  "youtube-dl"
+  "youtube-dl",
+  "yt-dlp"
 ]

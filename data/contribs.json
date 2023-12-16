@@ -13,6 +13,11 @@
         "link": "https://github.com/CatimaLoyalty/Android"
       },
       {
+        "name": "CatimaLoyalty/Website",
+        "desc": null,
+        "link": "https://github.com/CatimaLoyalty/Website"
+      },
+      {
         "name": "EFForg/https-everywhere",
         "desc": "A browser extension that encrypts your communications with many websites that offer HTTPS but still allow unencrypted connections.",
         "link": "https://github.com/EFForg/https-everywhere"
@@ -31,6 +36,16 @@
         "name": "NixOS/nixpkgs",
         "desc": "Nix Packages collection & NixOS",
         "link": "https://github.com/NixOS/nixpkgs"
+      },
+      {
+        "name": "TheLastProject/Droidtoberfest",
+        "desc": "Check for Hacktoberfest-joining projects on F-Droid",
+        "link": "https://github.com/TheLastProject/Droidtoberfest"
+      },
+      {
+        "name": "TheLastProject/contributors-to-file-action",
+        "desc": "GitHub Action to save your contributor list to a file",
+        "link": "https://github.com/TheLastProject/contributors-to-file-action"
       },
       {
         "name": "admin-ch/CovidCertificate-App-Android",
@@ -163,6 +178,16 @@
         "link": "https://github.com/losingkeys/vim-niji"
       },
       {
+        "name": "louislam/uptime-kuma",
+        "desc": "A fancy self-hosted monitoring tool",
+        "link": "https://github.com/louislam/uptime-kuma"
+      },
+      {
+        "name": "lucasheld/ansible-uptime-kuma",
+        "desc": "Ansible collection of modules to configure Uptime Kuma",
+        "link": "https://github.com/lucasheld/ansible-uptime-kuma"
+      },
+      {
         "name": "lunasorcery/pridecat",
         "desc": "\ud83c\udff3\ufe0f\u200d\ud83c\udf08 Like cat but more colorful! \u2728",
         "link": "https://github.com/lunasorcery/pridecat"
@@ -268,20 +293,15 @@
         "link": "https://github.com/untra/polyglot"
       },
       {
-        "name": "wireapp/wire-android",
-        "desc": ":phone: Wire for Android",
-        "link": "https://github.com/wireapp/wire-android"
+        "name": "wireapp/wire-android_legacy",
+        "desc": "Deprecated! - :phone: Wire for Android",
+        "link": "https://github.com/wireapp/wire-android_legacy"
       }
     ]
   },
   {
     "title": "Indirect Contributions | (e.g. Issues)",
     "elems": [
-      {
-        "name": "CatimaLoyalty/Website",
-        "desc": null,
-        "link": "https://github.com/CatimaLoyalty/Website"
-      },
       {
         "name": "NixOS/ofborg",
         "desc": "@ofborg tooling automation https://monitoring.nix.ci/dashboard/db/ofborg",
@@ -301,6 +321,11 @@
         "name": "androguard/androguard",
         "desc": "Reverse engineering and pentesting for Android applications ",
         "link": "https://github.com/androguard/androguard"
+      },
+      {
+        "name": "clearedd/fdroid-repo",
+        "desc": "Unofficial package to setup a fdroid repository quite quickly",
+        "link": "https://github.com/clearedd/fdroid-repo"
       },
       {
         "name": "gitlabhq/gitlabhq",
@@ -326,6 +351,11 @@
         "name": "kivy/kivy",
         "desc": "Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS",
         "link": "https://github.com/kivy/kivy"
+      },
+      {
+        "name": "lucasheld/uptime-kuma-api",
+        "desc": "A Python wrapper for the Uptime Kuma Socket.IO API",
+        "link": "https://github.com/lucasheld/uptime-kuma-api"
       },
       {
         "name": "mdn/sprints",
@@ -361,6 +391,11 @@
         "name": "resume/resume.github.com",
         "desc": "Resumes generated using the GitHub informations",
         "link": "https://github.com/resume/resume.github.com"
+      },
+      {
+        "name": "robolectric/robolectric",
+        "desc": "Android Unit Testing Framework",
+        "link": "https://github.com/robolectric/robolectric"
       },
       {
         "name": "rubinius/rubinius",

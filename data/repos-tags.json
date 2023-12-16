@@ -36,6 +36,7 @@
   "ghbak":                            ["py", "util", "cli", "pypi"],
   "gitbak":                           ["rb", "util", "gem"],
   "gpg":                              ["misc"],
+  "gradle-update-action":             ["sh", "util", "dev", "sec", "!", ">"],
   "gradle-wrapper-verify":            ["sh", "util", "cli", "dev", "sec", "!", ">"],
   "heartspy":                         ["py", "game", "web"],
   "httpony":                          ["py", "uni", "web"],

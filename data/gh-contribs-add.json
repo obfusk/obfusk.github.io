@@ -1,12 +1,22 @@
 [
   {
+    "name": "CatimaLoyalty/Android",
+    "count": 55,
+    "contrib": true
+  },
+  {
+    "name": "CatimaLoyalty/Website",
+    "count": 5,
+    "contrib": true
+  },
+  {
     "name": "NixOS/nix",
     "count": 3,
     "contrib": true
   },
   {
     "name": "NixOS/nixpkgs",
-    "count": 1,
+    "count": 10,
     "contrib": true
   },
   {

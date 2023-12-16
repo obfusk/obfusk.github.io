@@ -15,6 +15,11 @@
     "link": "https://github.com/obfusk/CovidCertificate-App-Android"
   },
   {
+    "name": "Droidtoberfest",
+    "desc": "[FORK] Check for Hacktoberfest-joining projects on F-Droid",
+    "link": "https://github.com/obfusk/Droidtoberfest"
+  },
+  {
     "name": "Easy_xkcd",
     "desc": "[FORK] An easy and simple open source xkcd reader",
     "link": "https://github.com/obfusk/Easy_xkcd"
@@ -83,6 +88,11 @@
     "name": "ansible",
     "desc": "[FORK] ansible",
     "link": "https://github.com/obfusk/ansible"
+  },
+  {
+    "name": "ansible-uptime-kuma",
+    "desc": "[FORK] Ansible collection of modules to configure Uptime Kuma",
+    "link": "https://github.com/obfusk/ansible-uptime-kuma"
   },
   {
     "name": "apksigcopier",
@@ -225,6 +235,11 @@
     "link": "https://github.com/obfusk/comfortable-mexican-sofa"
   },
   {
+    "name": "contributors-to-file-action",
+    "desc": "[FORK] GitHub Action to save your contributor list to a file",
+    "link": "https://github.com/obfusk/contributors-to-file-action"
+  },
+  {
     "name": "convert-to-requests",
     "desc": "convert-to-requests - convert curl/fetch command to python requests",
     "link": "https://github.com/obfusk/convert-to-requests"
@@ -325,6 +340,16 @@
     "link": "https://github.com/obfusk/fdroid-is-reproducible"
   },
   {
+    "name": "fdroid-mirror-checker",
+    "desc": "fdroid-mirror-checker - check f-droid mirrors",
+    "link": "https://github.com/obfusk/fdroid-mirror-checker"
+  },
+  {
+    "name": "fdroid-mirrors-timestamp",
+    "desc": "fdroid-mirrors-timestamp - check f-droid mirrors' timestamps",
+    "link": "https://github.com/obfusk/fdroid-mirrors-timestamp"
+  },
+  {
     "name": "fdroid-misc-scripts",
     "desc": "fdroid-misc-scripts - miscellaneous scripts to analyse f-droid app data",
     "link": "https://github.com/obfusk/fdroid-misc-scripts"
@@ -408,6 +433,11 @@
     "name": "gpg",
     "desc": "gpg key + fingerprint + HOWTO",
     "link": "https://github.com/obfusk/gpg"
+  },
+  {
+    "name": "gradle-update-action",
+    "desc": "GitHub Action to update Gradle",
+    "link": "https://github.com/obfusk/gradle-update-action"
   },
   {
     "name": "gradle-wrapper-verify",
@@ -1070,6 +1100,16 @@
     "link": "https://github.com/obfusk/trstools.py"
   },
   {
+    "name": "uptime-kuma",
+    "desc": "[FORK] A fancy self-hosted monitoring tool",
+    "link": "https://github.com/obfusk/uptime-kuma"
+  },
+  {
+    "name": "uptime-kuma-api",
+    "desc": "[FORK] A Python wrapper for the Uptime Kuma Socket.IO API",
+    "link": "https://github.com/obfusk/uptime-kuma-api"
+  },
+  {
     "name": "vagrant",
     "desc": "[FORK] Vagrant is a tool for building and distributing working environments.",
     "link": "https://github.com/obfusk/vagrant"
@@ -1128,5 +1168,10 @@
     "name": "youtube-dl",
     "desc": "[FORK] Command-line program to download videos from YouTube.com and other video sites",
     "link": "https://github.com/obfusk/youtube-dl"
+  },
+  {
+    "name": "yt-dlp",
+    "desc": "[FORK] A youtube-dl fork with additional features and fixes",
+    "link": "https://github.com/obfusk/yt-dlp"
   }
 ]

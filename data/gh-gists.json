@@ -96,8 +96,16 @@
     "desc": "youtube-dl \"GUI\""
   },
   {
+    "link": "https://gist.github.com/obfusk/1bccbe38d14b56dc0c63878144c6d8ce",
+    "desc": "diff locales for catima"
+  },
+  {
     "link": "https://gist.github.com/obfusk/1e648292acbe3b8bf0617903c22624a9",
     "desc": "differentiate annotated & lightweight git tags"
+  },
+  {
+    "link": "https://gist.github.com/obfusk/1f8453a4e43576e76cadaa80b737c1d3",
+    "desc": "safer (but also much slower) strings command"
   },
   {
     "link": "https://gist.github.com/obfusk/200c9007a28a41b51bbd344508aca39f",
@@ -160,12 +168,20 @@
     "desc": "chromium socks"
   },
   {
+    "link": "https://gist.github.com/obfusk/3ab27c5858d9f8c5f2724a16f4ab80d5",
+    "desc": "weird github bug"
+  },
+  {
     "link": "https://gist.github.com/obfusk/3b38f74d2a49457e9e96ed243b61c622",
     "desc": "gh api + httpie + jq"
   },
   {
     "link": "https://gist.github.com/obfusk/3caa8c38829895dfdbe3a8b6625e7004",
     "desc": "quick command line string equality test"
+  },
+  {
+    "link": "https://gist.github.com/obfusk/3d16de20dfd7f9a4d50da0efafe80bd6",
+    "desc": "quit screen session after command finishes successfully"
   },
   {
     "link": "https://gist.github.com/obfusk/44225839d51f82e1800fa6b4613268a2",
@@ -416,6 +432,10 @@
     "desc": "~/dev tree sodium"
   },
   {
+    "link": "https://gist.github.com/obfusk/64523e795d02a2c171ae288fe7504c3b",
+    "desc": "catima locales"
+  },
+  {
     "link": "https://gist.github.com/obfusk/6475440",
     "desc": ".abcde.conf"
   },
@@ -526,6 +546,10 @@
   {
     "link": "https://gist.github.com/obfusk/7076057",
     "desc": "sync"
+  },
+  {
+    "link": "https://gist.github.com/obfusk/70d4ec1fb778ad60f279f96cc5d88e18",
+    "desc": "diff f-droid v2 index (new apps & versions)"
   },
   {
     "link": "https://gist.github.com/obfusk/71413bbbe9b759c6dedb",
@@ -668,8 +692,16 @@
     "desc": "download multiple torrents w/ aria2c"
   },
   {
+    "link": "https://gist.github.com/obfusk/8c5f8ff85cd1e4aa38d73751f8dd2fac",
+    "desc": "replace all but the first h2 with h3 using JS"
+  },
+  {
     "link": "https://gist.github.com/obfusk/8ce62af591a0dd3c2020107b28ffa2da",
     "desc": "apk signature copying"
+  },
+  {
+    "link": "https://gist.github.com/obfusk/8f39111cb655031f17d1ecd9cb23b9db",
+    "desc": "java stuff"
   },
   {
     "link": "https://gist.github.com/obfusk/9086bbb1c5511f86801dd1a7b1792f8a",
@@ -716,8 +748,16 @@
     "desc": "-> https://github.com/obfusk/reproducible-apk-tools#gradle-integration | reproducible-apk-tools gradle integration"
   },
   {
+    "link": "https://gist.github.com/obfusk/a88683141fc696029cc02e937541cb5f",
+    "desc": ""
+  },
+  {
     "link": "https://gist.github.com/obfusk/a942e5410edf33932d93238abab3ab9f",
     "desc": "fake python3-vagrant package (to install fdroidserver w/o vagrant)"
+  },
+  {
+    "link": "https://gist.github.com/obfusk/a951133084492817dd7154af197e58fb",
+    "desc": "weird python thing"
   },
   {
     "link": "https://gist.github.com/obfusk/a993b1bb54f52e1f6d2f56b1f97b2100",
@@ -730,6 +770,10 @@
   {
     "link": "https://gist.github.com/obfusk/afc282bf41694885ef0c3abc698a5780",
     "desc": "only allow specific packages from non-free using apt pinning (/etc/apt/sources.list, /etc/apt/preferences.d/non-free)"
+  },
+  {
+    "link": "https://gist.github.com/obfusk/b129922ac43c7d08879bb1607d755b02",
+    "desc": "yaml -> json"
   },
   {
     "link": "https://gist.github.com/obfusk/b19e087bab1f4e1f7e837dab32c4dad2",
@@ -758,6 +802,10 @@
   {
     "link": "https://gist.github.com/obfusk/b656f4aedc0ecbacdd2b467084685a4c",
     "desc": "hub issue format"
+  },
+  {
+    "link": "https://gist.github.com/obfusk/b79af42d7563920c0411fb994b92b764",
+    "desc": "-> https://github.com/obfusk/fdroid-mirrors-timestamp | check f-droid mirrors' timestamps"
   },
   {
     "link": "https://gist.github.com/obfusk/bb6b9504ce92b9f77ab10e69cdd45eda",
@@ -824,6 +872,10 @@
     "desc": "Notes on FLOSS -- Free and Open-Source Software Licensing: A Crash Course for Computer Science Students"
   },
   {
+    "link": "https://gist.github.com/obfusk/ccbdb30c8a95cf376f6b463a14121971",
+    "desc": "Dutch covid app"
+  },
+  {
     "link": "https://gist.github.com/obfusk/cd99740e5562197908e7",
     "desc": "use xrandr to enable only HDMI1 if connected, LVDS1 otherwise | OBSOLETE; see https://github.com/obfusk/dotfiles"
   },
@@ -870,6 +922,10 @@
   {
     "link": "https://gist.github.com/obfusk/eb82a810ed6aad266dab19977b18cee6",
     "desc": "sort baseline.profm in build.gradle using com.android.tools.profgen"
+  },
+  {
+    "link": "https://gist.github.com/obfusk/ec0628d1d6b6c70468079de415ad1e2d",
+    "desc": "Leaving F-Droid"
   },
   {
     "link": "https://gist.github.com/obfusk/ee5c27569e636df5c59c2121abb35b13",
@@ -928,11 +984,23 @@
     "desc": "build vault ui w/ nix-npm-buildpackage"
   },
   {
+    "link": "https://gist.github.com/obfusk/fc5e7e4e129c0e4192d8fd6f7aa90f14",
+    "desc": "jsonata last-modified"
+  },
+  {
     "link": "https://gist.github.com/obfusk/fca414a6d0a0d6b919c137aa3a01f370",
     "desc": ""
   },
   {
     "link": "https://gist.github.com/obfusk/fd9c03fed75bd0c27128",
     "desc": "backup"
+  },
+  {
+    "link": "https://gist.github.com/obfusk/feff9c37de1b7580c6e2aa097fea5609",
+    "desc": "a few f-droid index curl + jq commands"
+  },
+  {
+    "link": "https://gist.github.com/obfusk/ff5b8ad30932412427ad47a2534abb5c",
+    "desc": "dump stocard msgpack"
   }
 ]

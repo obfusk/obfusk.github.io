@@ -6,12 +6,12 @@
   },
   {
     "name": "CatimaLoyalty/Android",
-    "count": 27,
-    "contrib": true
+    "count": 55,
+    "contrib": false
   },
   {
     "name": "CatimaLoyalty/Website",
-    "count": 1,
+    "count": 5,
     "contrib": false
   },
   {
@@ -48,6 +48,16 @@
     "name": "TeamNewPipe/NewPipe",
     "count": 2,
     "contrib": false
+  },
+  {
+    "name": "TheLastProject/Droidtoberfest",
+    "count": 1,
+    "contrib": true
+  },
+  {
+    "name": "TheLastProject/contributors-to-file-action",
+    "count": 7,
+    "contrib": true
   },
   {
     "name": "admin-ch/CovidCertificate-App-Android",
@@ -106,6 +116,11 @@
   },
   {
     "name": "canonical/canonical.com",
+    "count": 1,
+    "contrib": false
+  },
+  {
+    "name": "clearedd/fdroid-repo",
     "count": 1,
     "contrib": false
   },
@@ -171,7 +186,7 @@
   },
   {
     "name": "i3/i3",
-    "count": 2,
+    "count": 3,
     "contrib": true
   },
   {
@@ -227,6 +242,21 @@
   {
     "name": "librariesio/libraries.io",
     "count": 2,
+    "contrib": false
+  },
+  {
+    "name": "louislam/uptime-kuma",
+    "count": 6,
+    "contrib": true
+  },
+  {
+    "name": "lucasheld/ansible-uptime-kuma",
+    "count": 4,
+    "contrib": true
+  },
+  {
+    "name": "lucasheld/uptime-kuma-api",
+    "count": 3,
     "contrib": false
   },
   {
@@ -310,6 +340,11 @@
     "contrib": false
   },
   {
+    "name": "robolectric/robolectric",
+    "count": 1,
+    "contrib": false
+  },
+  {
     "name": "rubinius/rubinius",
     "count": 1,
     "contrib": false
@@ -353,6 +388,11 @@
     "name": "simonmichael/shelltestrunner",
     "count": 4,
     "contrib": true
+  },
+  {
+    "name": "sirekanian/knigopis",
+    "count": 1,
+    "contrib": false
   },
   {
     "name": "spesmilo/electrum",
@@ -420,7 +460,7 @@
     "contrib": false
   },
   {
-    "name": "wireapp/wire-android",
+    "name": "wireapp/wire-android_legacy",
     "count": 1,
     "contrib": true
   }

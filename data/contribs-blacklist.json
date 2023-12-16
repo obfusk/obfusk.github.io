@@ -1,4 +1,6 @@
 [
+  "CatimaLoyalty/Android",
+  "CatimaLoyalty/Website",
   "DisciplinaOU/disciplina-nixops",
   "NixOS/nix",
   "NixOS/nixpkgs",
@@ -18,6 +20,7 @@
   "open-uri-redirections/open_uri_redirections",
   "pop-os/pop",
   "serokell/serokell-closure",
+  "sirekanian/knigopis",
   "teampoltergeist/poltergeist",
   "thoughtbot/capybara-webkit"
 ]
