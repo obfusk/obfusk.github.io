@@ -187,24 +187,6 @@
         ]
       },
       {
-        "name": "catimerge",
-        "desc": "catimerge - merge two catima.zip exports",
-        "link": "https://github.com/obfusk/catimerge",
-        "lang": [
-          "py",
-          "pypi"
-        ]
-      },
-      {
-        "name": "convert-to-requests",
-        "desc": "convert-to-requests - convert curl/fetch command to python requests",
-        "link": "https://github.com/obfusk/convert-to-requests",
-        "lang": [
-          "py",
-          "pypi"
-        ]
-      },
-      {
         "name": "gradle-update-action",
         "desc": "GitHub Action to update Gradle",
         "link": "https://github.com/obfusk/gradle-update-action",
