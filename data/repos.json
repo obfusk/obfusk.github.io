@@ -3,6 +3,15 @@
     "title": "Featured",
     "elems": [
       {
+        "name": "apkrepotool",
+        "desc": "apkrepotool - manage APK repos",
+        "link": "https://github.com/obfusk/apkrepotool",
+        "lang": [
+          "py",
+          "pypi"
+        ]
+      },
+      {
         "name": "apksigcopier",
         "desc": "apksigcopier - copy/extract/patch android apk signatures & compare apks",
         "link": "https://github.com/obfusk/apksigcopier",
@@ -25,15 +34,6 @@
         "desc": "bash cheat sheet",
         "link": "https://github.com/obfusk/bash-cheatsheet",
         "lang": [
-          "sh"
-        ]
-      },
-      {
-        "name": "fdroid-misc-scripts",
-        "desc": "fdroid-misc-scripts - miscellaneous scripts to analyse f-droid app data",
-        "link": "https://github.com/obfusk/fdroid-misc-scripts",
-        "lang": [
-          "py",
           "sh"
         ]
       },
@@ -112,6 +112,15 @@
         ]
       },
       {
+        "name": "rbtlog",
+        "desc": "Reproducible Builds Transparency Log for Android APKs",
+        "link": "https://github.com/obfusk/rbtlog",
+        "lang": [
+          "py",
+          "sh"
+        ]
+      },
+      {
         "name": "reproducible-apk-tools",
         "desc": "reproducible-apk-tools - scripts to make android apks reproducible",
         "link": "https://github.com/obfusk/reproducible-apk-tools",
@@ -151,6 +160,15 @@
     "title": "Latest",
     "elems": [
       {
+        "name": "apkrepotool",
+        "desc": "apkrepotool - manage APK repos",
+        "link": "https://github.com/obfusk/apkrepotool",
+        "lang": [
+          "py",
+          "pypi"
+        ]
+      },
+      {
         "name": "apksigcopier",
         "desc": "apksigcopier - copy/extract/patch android apk signatures & compare apks",
         "link": "https://github.com/obfusk/apksigcopier",
@@ -187,15 +205,6 @@
         ]
       },
       {
-        "name": "fdroid-misc-scripts",
-        "desc": "fdroid-misc-scripts - miscellaneous scripts to analyse f-droid app data",
-        "link": "https://github.com/obfusk/fdroid-misc-scripts",
-        "lang": [
-          "py",
-          "sh"
-        ]
-      },
-      {
         "name": "gradle-update-action",
         "desc": "GitHub Action to update Gradle",
         "link": "https://github.com/obfusk/gradle-update-action",
@@ -208,6 +217,15 @@
         "desc": "gradle-wrapper-verify - verify gradle-wrapper.jar sha256sum against published releases",
         "link": "https://github.com/obfusk/gradle-wrapper-verify",
         "lang": [
+          "sh"
+        ]
+      },
+      {
+        "name": "rbtlog",
+        "desc": "Reproducible Builds Transparency Log for Android APKs",
+        "link": "https://github.com/obfusk/rbtlog",
+        "lang": [
+          "py",
           "sh"
         ]
       },
@@ -233,6 +251,15 @@
   {
     "title": "Command Line",
     "elems": [
+      {
+        "name": "apkrepotool",
+        "desc": "apkrepotool - manage APK repos",
+        "link": "https://github.com/obfusk/apkrepotool",
+        "lang": [
+          "py",
+          "pypi"
+        ]
+      },
       {
         "name": "apksigcopier",
         "desc": "apksigcopier - copy/extract/patch android apk signatures & compare apks",
@@ -342,6 +369,15 @@
         ]
       },
       {
+        "name": "rbtlog",
+        "desc": "Reproducible Builds Transparency Log for Android APKs",
+        "link": "https://github.com/obfusk/rbtlog",
+        "lang": [
+          "py",
+          "sh"
+        ]
+      },
+      {
         "name": "reproducible-apk-tools",
         "desc": "reproducible-apk-tools - scripts to make android apks reproducible",
         "link": "https://github.com/obfusk/reproducible-apk-tools",
@@ -364,6 +400,15 @@
   {
     "title": "Utilities",
     "elems": [
+      {
+        "name": "apkrepotool",
+        "desc": "apkrepotool - manage APK repos",
+        "link": "https://github.com/obfusk/apkrepotool",
+        "lang": [
+          "py",
+          "pypi"
+        ]
+      },
       {
         "name": "apksigcopier",
         "desc": "apksigcopier - copy/extract/patch android apk signatures & compare apks",
@@ -538,6 +583,15 @@
         ]
       },
       {
+        "name": "rbtlog",
+        "desc": "Reproducible Builds Transparency Log for Android APKs",
+        "link": "https://github.com/obfusk/rbtlog",
+        "lang": [
+          "py",
+          "sh"
+        ]
+      },
+      {
         "name": "reproducible-apk-tools",
         "desc": "reproducible-apk-tools - scripts to make android apks reproducible",
         "link": "https://github.com/obfusk/reproducible-apk-tools",
@@ -576,6 +630,15 @@
   {
     "title": "Development",
     "elems": [
+      {
+        "name": "apkrepotool",
+        "desc": "apkrepotool - manage APK repos",
+        "link": "https://github.com/obfusk/apkrepotool",
+        "lang": [
+          "py",
+          "pypi"
+        ]
+      },
       {
         "name": "apksigcopier",
         "desc": "apksigcopier - copy/extract/patch android apk signatures & compare apks",
@@ -654,6 +717,15 @@
         ]
       },
       {
+        "name": "rbtlog",
+        "desc": "Reproducible Builds Transparency Log for Android APKs",
+        "link": "https://github.com/obfusk/rbtlog",
+        "lang": [
+          "py",
+          "sh"
+        ]
+      },
+      {
         "name": "reproducible-apk-tools",
         "desc": "reproducible-apk-tools - scripts to make android apks reproducible",
         "link": "https://github.com/obfusk/reproducible-apk-tools",
@@ -697,6 +769,15 @@
         "name": "fdroid-misc-scripts",
         "desc": "fdroid-misc-scripts - miscellaneous scripts to analyse f-droid app data",
         "link": "https://github.com/obfusk/fdroid-misc-scripts",
+        "lang": [
+          "py",
+          "sh"
+        ]
+      },
+      {
+        "name": "rbtlog",
+        "desc": "Reproducible Builds Transparency Log for Android APKs",
+        "link": "https://github.com/obfusk/rbtlog",
         "lang": [
           "py",
           "sh"
@@ -749,6 +830,15 @@
         ],
         "info": [
           "inactive"
+        ]
+      },
+      {
+        "name": "apkrepotool",
+        "desc": "apkrepotool - manage APK repos",
+        "link": "https://github.com/obfusk/apkrepotool",
+        "lang": [
+          "py",
+          "pypi"
         ]
       },
       {
@@ -947,6 +1037,15 @@
         "link": "https://github.com/obfusk/pypride",
         "lang": [
           "py"
+        ]
+      },
+      {
+        "name": "rbtlog",
+        "desc": "Reproducible Builds Transparency Log for Android APKs",
+        "link": "https://github.com/obfusk/rbtlog",
+        "lang": [
+          "py",
+          "sh"
         ]
       },
       {
@@ -1304,6 +1403,15 @@
         ]
       },
       {
+        "name": "rbtlog",
+        "desc": "Reproducible Builds Transparency Log for Android APKs",
+        "link": "https://github.com/obfusk/rbtlog",
+        "lang": [
+          "py",
+          "sh"
+        ]
+      },
+      {
         "name": "srvbak",
         "desc": "srvbak - server backup (cron job)",
         "link": "https://github.com/obfusk/srvbak",
@@ -1501,6 +1609,15 @@
         "info": [
           "inactive",
           "unfinished"
+        ]
+      },
+      {
+        "name": "reproducible-apk-tools",
+        "desc": "reproducible-apk-tools - scripts to make android apks reproducible",
+        "link": "https://github.com/obfusk/reproducible-apk-tools",
+        "lang": [
+          "py",
+          "pypi"
         ]
       },
       {

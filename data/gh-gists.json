@@ -40,6 +40,10 @@
     "desc": "gtree (tree w/ quick-and-dirty .gitignore support)"
   },
   {
+    "link": "https://gist.github.com/obfusk/0dc1c4be48ffb0714579aff998585b2f",
+    "desc": ""
+  },
+  {
     "link": "https://gist.github.com/obfusk/0dc8a8babe80058cdfe3",
     "desc": "chromium-trunk"
   },
@@ -108,6 +112,10 @@
     "desc": "safer (but also much slower) strings command"
   },
   {
+    "link": "https://gist.github.com/obfusk/1f93f6a75fd0fa987d9d35e0e6e50aa6",
+    "desc": "fix pg-map-id"
+  },
+  {
     "link": "https://gist.github.com/obfusk/200c9007a28a41b51bbd344508aca39f",
     "desc": "debian swirl"
   },
@@ -126,6 +134,10 @@
   {
     "link": "https://gist.github.com/obfusk/2558cd313673f932da3c",
     "desc": "http://www.lightweightcrypto.org/downloads/implementations/pypresent.py"
+  },
+  {
+    "link": "https://gist.github.com/obfusk/25a2c5c43734b80465980a38af8c31df",
+    "desc": "create a ZIP file with two CD entries pointing to the same file"
   },
   {
     "link": "https://gist.github.com/obfusk/267d11c897b34ae82556",
@@ -244,8 +256,16 @@
     "desc": "quick and dirty logcat for specific package only"
   },
   {
+    "link": "https://gist.github.com/obfusk/4c141994c827dcac13506c7132cc103e",
+    "desc": ""
+  },
+  {
     "link": "https://gist.github.com/obfusk/4df80ad4eba22e814ba027e9870af039",
     "desc": "verify JAR signature file using signature block file [WARNING: does not verify the actual file hashes!!!]"
+  },
+  {
+    "link": "https://gist.github.com/obfusk/4e3bbad0059be45cb555c6ef67c08588",
+    "desc": ""
   },
   {
     "link": "https://gist.github.com/obfusk/4f13e884c24637a49c2468f5cea1041b",
@@ -278,6 +298,10 @@
   {
     "link": "https://gist.github.com/obfusk/5197581",
     "desc": "list github repos and gists (w/ desc, home, branches)"
+  },
+  {
+    "link": "https://gist.github.com/obfusk/51a84655edc2aa0925a72cc7df51ed30",
+    "desc": "perl command to decrement numbers in a file"
   },
   {
     "link": "https://gist.github.com/obfusk/5203768",
@@ -350,6 +374,10 @@
   {
     "link": "https://gist.github.com/obfusk/570af120179d48d18c61372776aa5410",
     "desc": "temporarily disable -Werror for a file"
+  },
+  {
+    "link": "https://gist.github.com/obfusk/572b537684345a1bb39f9ee88408a2db",
+    "desc": ""
   },
   {
     "link": "https://gist.github.com/obfusk/5768197",
@@ -576,6 +604,10 @@
     "desc": "[OBSOLETE: NOW THAT PULL REQUEST IS MERGED, YOU CAN USE DUTCH LOCALE w/ COMFORTABLE-MEXICAN-SOFA] comfortable-mexican-sofa dutch locale"
   },
   {
+    "link": "https://gist.github.com/obfusk/7484e4f5cea2c84fc841f472fffcc59c",
+    "desc": ""
+  },
+  {
     "link": "https://gist.github.com/obfusk/7491914",
     "desc": "~nap dotfiles"
   },
@@ -626,6 +658,10 @@
   {
     "link": "https://gist.github.com/obfusk/7f081ca7a0eae946fc7fc6821b4680b4",
     "desc": "m-over-reverse-ssh"
+  },
+  {
+    "link": "https://gist.github.com/obfusk/7fb94b63eba8908434170ed10c9fd309",
+    "desc": "APK signing block manipulation scripts"
   },
   {
     "link": "https://gist.github.com/obfusk/8032e414610c8faca4a537fbe13d3798",
@@ -740,6 +776,10 @@
     "desc": "python one-liner to sort version codes"
   },
   {
+    "link": "https://gist.github.com/obfusk/9d63d59f20de246fd83efa559bf9c348",
+    "desc": ""
+  },
+  {
     "link": "https://gist.github.com/obfusk/a41dca4121b7466294f1",
     "desc": "xss"
   },
@@ -772,6 +812,10 @@
     "desc": "only allow specific packages from non-free using apt pinning (/etc/apt/sources.list, /etc/apt/preferences.d/non-free)"
   },
   {
+    "link": "https://gist.github.com/obfusk/b0f724075c0f596249f2f74c80c0ef2a",
+    "desc": "wkd encoding"
+  },
+  {
     "link": "https://gist.github.com/obfusk/b129922ac43c7d08879bb1607d755b02",
     "desc": "yaml -> json"
   },
@@ -786,6 +830,14 @@
   {
     "link": "https://gist.github.com/obfusk/b1f35789eb3b728f8779c5fa8a3d1285",
     "desc": "weird behaviour with pypy"
+  },
+  {
+    "link": "https://gist.github.com/obfusk/b2f501023b56a9e6de6a0bb5e2a4dd37",
+    "desc": "Get ELF build-id w/ pyelftools"
+  },
+  {
+    "link": "https://gist.github.com/obfusk/b337e4f641991cc88a24d3f9567db80f",
+    "desc": ""
   },
   {
     "link": "https://gist.github.com/obfusk/b3664231f75576b4a7c52f49f844d780",
@@ -814,6 +866,10 @@
   {
     "link": "https://gist.github.com/obfusk/bc146e6c76996792af859096cd37b4d6",
     "desc": "tiny elixir HTTP GET client w/ ssl verification using python3-certifi's certificate bundle"
+  },
+  {
+    "link": "https://gist.github.com/obfusk/beeaeb1372ce5c447a5b5e6eee5f8201",
+    "desc": ""
   },
   {
     "link": "https://gist.github.com/obfusk/bf70b992f2e7da6691caf2274ee8368f",
@@ -864,6 +920,10 @@
     "desc": "open files in vim tabs"
   },
   {
+    "link": "https://gist.github.com/obfusk/ca5c7e20cb9c07ab6ac8fba2dc56c213",
+    "desc": ""
+  },
+  {
     "link": "https://gist.github.com/obfusk/cc16d2a331f105f3928cc6a959ecd854",
     "desc": "add times from stdin"
   },
@@ -876,8 +936,16 @@
     "desc": "Dutch covid app"
   },
   {
+    "link": "https://gist.github.com/obfusk/ccfd5f515771a6f422c0659b5f92f982",
+    "desc": "Detect APK files"
+  },
+  {
     "link": "https://gist.github.com/obfusk/cd99740e5562197908e7",
     "desc": "use xrandr to enable only HDMI1 if connected, LVDS1 otherwise | OBSOLETE; see https://github.com/obfusk/dotfiles"
+  },
+  {
+    "link": "https://gist.github.com/obfusk/cfab950649631c3ece723b9eb277304b",
+    "desc": "verify APK and get SHA-256 of first cert"
   },
   {
     "link": "https://gist.github.com/obfusk/d4cdbc67b8b1ee8f09688ba7dd72d968",
@@ -889,6 +957,10 @@
   },
   {
     "link": "https://gist.github.com/obfusk/d7748053f413ddbccdb1e19eee84eedf",
+    "desc": ""
+  },
+  {
+    "link": "https://gist.github.com/obfusk/d9d1223cd1fa1a875e6cf49827621e69",
     "desc": ""
   },
   {
@@ -908,8 +980,16 @@
     "desc": "[draft] apksigcopier abstract"
   },
   {
+    "link": "https://gist.github.com/obfusk/de7510de39eca56b7d63e2f17bc0abf6",
+    "desc": "pychk"
+  },
+  {
     "link": "https://gist.github.com/obfusk/dfe6ddd31e0b8056c3c78151599f4346",
     "desc": "convert AndroidManifest.xml to binary XML w/ aapt2 link"
+  },
+  {
+    "link": "https://gist.github.com/obfusk/dff48b591b756899b7828dc604e16ecc",
+    "desc": "-> https://github.com/obfusk/reproducible-apk-tools#zipalignmentpy"
   },
   {
     "link": "https://gist.github.com/obfusk/e22bdf6616a57f24a05e746ae61d060a",
@@ -946,6 +1026,10 @@
   {
     "link": "https://gist.github.com/obfusk/f0a782194a0390a9bbed",
     "desc": "bitbucket -> gitlab"
+  },
+  {
+    "link": "https://gist.github.com/obfusk/f1a176b698c6927defe792706209dea9",
+    "desc": "rbtlog: merge logs"
   },
   {
     "link": "https://gist.github.com/obfusk/f73cb9cbd78bec5c270a",

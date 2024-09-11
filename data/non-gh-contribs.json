@@ -46,5 +46,11 @@
     "desc": "https://diffoscope.org/",
     "link": "https://salsa.debian.org/reproducible-builds/diffoscope",
     "contrib": true
+  },
+  {
+    "name": "izzyondroid-statuspage-deployment",
+    "desc": "Status page for IzzyOnDroid https://monitor.izzysoft.de/",
+    "link": "https://codeberg.org/IzzyOnDroid/izzyondroid-statuspage-deployment",
+    "contrib": true
   }
 ]

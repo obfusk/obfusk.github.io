@@ -25,6 +25,11 @@
     "link": "https://github.com/obfusk/Easy_xkcd"
   },
   {
+    "name": "FairEmail",
+    "desc": "[FORK] Fully featured, open source, privacy friendly email app for Android",
+    "link": "https://github.com/obfusk/FairEmail"
+  },
+  {
     "name": "GitPython",
     "desc": "[FORK] GitPython is a python library used to interact with Git repositories.",
     "link": "https://github.com/obfusk/GitPython"
@@ -35,6 +40,16 @@
     "link": "https://github.com/obfusk/HsYAML"
   },
   {
+    "name": "Neo-Backup",
+    "desc": "[FORK] backup manager for android",
+    "link": "https://github.com/obfusk/Neo-Backup"
+  },
+  {
+    "name": "NewPass",
+    "desc": "\ud83d\udd10 NewPass is a free and open source password manager which will allow you to generate and store your passwords securely, saving them locally and encrypting them on your phone's memory",
+    "link": "https://github.com/obfusk/NewPass"
+  },
+  {
     "name": "NewPipe",
     "desc": "[FORK] A libre lightweight streaming front-end for Android.",
     "link": "https://github.com/obfusk/NewPipe"
@@ -43,6 +58,11 @@
     "name": "NewPipeExtractor",
     "desc": "[FORK] Core part of NewPipe",
     "link": "https://github.com/obfusk/NewPipeExtractor"
+  },
+  {
+    "name": "Signal-Android",
+    "desc": "[FORK] A private messenger for Android.",
+    "link": "https://github.com/obfusk/Signal-Android"
   },
   {
     "name": "WaDokuJT-Data",
@@ -93,6 +113,16 @@
     "name": "ansible-uptime-kuma",
     "desc": "[FORK] Ansible collection of modules to configure Uptime Kuma",
     "link": "https://github.com/obfusk/ansible-uptime-kuma"
+  },
+  {
+    "name": "apkrepotool",
+    "desc": "apkrepotool - manage APK repos",
+    "link": "https://github.com/obfusk/apkrepotool"
+  },
+  {
+    "name": "apkrepotool-test-repo",
+    "desc": "apkrepotool-test-repo - test repo for apkrepotool",
+    "link": "https://github.com/obfusk/apkrepotool-test-repo"
   },
   {
     "name": "apksigcopier",
@@ -335,6 +365,11 @@
     "link": "https://github.com/obfusk/evilarc"
   },
   {
+    "name": "fdroid-fakesigner-poc",
+    "desc": "F-Droid Fake Signer PoC",
+    "link": "https://github.com/obfusk/fdroid-fakesigner-poc"
+  },
+  {
     "name": "fdroid-is-reproducible",
     "desc": "fdroid-is-reproducible - check whether an app in f-droid is reproducible",
     "link": "https://github.com/obfusk/fdroid-is-reproducible"
@@ -368,6 +403,11 @@
     "name": "flask-limiter",
     "desc": "[FORK] Rate Limiting extension for Flask ",
     "link": "https://github.com/obfusk/flask-limiter"
+  },
+  {
+    "name": "flexparser",
+    "desc": "[FORK]",
+    "link": "https://github.com/obfusk/flexparser"
   },
   {
     "name": "flx-docs",
@@ -953,6 +993,11 @@
     "name": "rb-obfusk-util",
     "desc": "[rb-]obfusk-util - miscellaneous utility library for ruby",
     "link": "https://github.com/obfusk/rb-obfusk-util"
+  },
+  {
+    "name": "rbtlog",
+    "desc": "Reproducible Builds Transparency Log for Android APKs",
+    "link": "https://github.com/obfusk/rbtlog"
   },
   {
     "name": "react-emoji-render",

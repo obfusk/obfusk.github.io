@@ -28,6 +28,11 @@
         "link": "https://github.com/Homebrew/legacy-homebrew"
       },
       {
+        "name": "M66B/FairEmail",
+        "desc": "Fully featured, open source, privacy friendly email app for Android",
+        "link": "https://github.com/M66B/FairEmail"
+      },
+      {
         "name": "NixOS/nix",
         "desc": "Nix, the purely functional package manager",
         "link": "https://github.com/NixOS/nix"
@@ -131,6 +136,11 @@
         "name": "i3/i3",
         "desc": "A tiling window manager for X11",
         "link": "https://github.com/i3/i3"
+      },
+      {
+        "name": "izzyondroid-statuspage-deployment",
+        "desc": "Status page for IzzyOnDroid https://monitor.izzysoft.de/",
+        "link": "https://codeberg.org/IzzyOnDroid/izzyondroid-statuspage-deployment"
       },
       {
         "name": "jekyll-fdroid",
@@ -291,11 +301,6 @@
         "name": "untra/polyglot",
         "desc": ":abc: Multilingual and i18n support tool for Jekyll Blogs",
         "link": "https://github.com/untra/polyglot"
-      },
-      {
-        "name": "wireapp/wire-android_legacy",
-        "desc": "Deprecated! - :phone: Wire for Android",
-        "link": "https://github.com/wireapp/wire-android_legacy"
       }
     ]
   },
@@ -303,14 +308,49 @@
     "title": "Indirect Contributions | (e.g. Issues)",
     "elems": [
       {
+        "name": "6eero/NewPass",
+        "desc": "\ud83d\udd10 NewPass is a free and open source password manager which will allow you to generate and store your passwords securely, saving them locally and encrypting them on your phone's memory",
+        "link": "https://github.com/6eero/NewPass"
+      },
+      {
+        "name": "AdamGuidarini/MediTrak",
+        "desc": "A free and open source medication tracking app for Android 8 and newer.",
+        "link": "https://github.com/AdamGuidarini/MediTrak"
+      },
+      {
+        "name": "Futsch1/medTimer",
+        "desc": "MedTimer Android app",
+        "link": "https://github.com/Futsch1/medTimer"
+      },
+      {
+        "name": "Mobile-IoT-Security-Lab/HideDroid",
+        "desc": "HideDroid is an Android app that allows the per-app anonymization of collected personal data according to a privacy level chosen by the user.",
+        "link": "https://github.com/Mobile-IoT-Security-Lab/HideDroid"
+      },
+      {
+        "name": "NeoApplications/Neo-Backup",
+        "desc": "backup manager for android",
+        "link": "https://github.com/NeoApplications/Neo-Backup"
+      },
+      {
+        "name": "NeoApplications/Neo-Store",
+        "desc": "An F-Droid client with modern UI and an arsenal of extra features.",
+        "link": "https://github.com/NeoApplications/Neo-Store"
+      },
+      {
         "name": "NixOS/ofborg",
-        "desc": "@ofborg tooling automation https://monitoring.nix.ci/dashboard/db/ofborg",
+        "desc": "@ofborg tooling automation https://monitoring.ofborg.org/dashboard/db/ofborg",
         "link": "https://github.com/NixOS/ofborg"
       },
       {
         "name": "TeamNewPipe/NewPipe",
         "desc": "A libre lightweight streaming front-end for Android.",
         "link": "https://github.com/TeamNewPipe/NewPipe"
+      },
+      {
+        "name": "Tencent/QT4A",
+        "desc": "QTA driver for Android app",
+        "link": "https://github.com/Tencent/QT4A"
       },
       {
         "name": "akanshSirohi/ShareX",
@@ -323,9 +363,14 @@
         "link": "https://github.com/androguard/androguard"
       },
       {
-        "name": "clearedd/fdroid-repo",
-        "desc": "Unofficial package to setup a fdroid repository quite quickly",
-        "link": "https://github.com/clearedd/fdroid-repo"
+        "name": "fast4x/RiMusic",
+        "desc": "A multilingual Android application for streaming music from YouTube Music.",
+        "link": "https://github.com/fast4x/RiMusic"
+      },
+      {
+        "name": "floccusaddon/floccus",
+        "desc": ":cloud: Sync your bookmarks privately across browsers and devices",
+        "link": "https://github.com/floccusaddon/floccus"
       },
       {
         "name": "gitlabhq/gitlabhq",
@@ -341,6 +386,16 @@
         "name": "haskell-suite/haskell-src-exts",
         "desc": "Manipulating Haskell source: abstract syntax, lexer, parser, and pretty-printer",
         "link": "https://github.com/haskell-suite/haskell-src-exts"
+      },
+      {
+        "name": "hgrecco/flexparser",
+        "desc": null,
+        "link": "https://github.com/hgrecco/flexparser"
+      },
+      {
+        "name": "jarnedemeulemeester/findroid",
+        "desc": "Third-party native Jellyfin Android app",
+        "link": "https://github.com/jarnedemeulemeester/findroid"
       },
       {
         "name": "jashkenas/docco",
@@ -359,8 +414,13 @@
       },
       {
         "name": "mdn/sprints",
-        "desc": "MDN Web Docs content issue management",
+        "desc": "Archived: MDN Web Docs issues are tracked in the content repository.",
         "link": "https://github.com/mdn/sprints"
+      },
+      {
+        "name": "meenbeese/Chronos",
+        "desc": "A simple alarm clock focused on simplicity, usability and modern design.",
+        "link": "https://github.com/meenbeese/Chronos"
       },
       {
         "name": "minvws/nl-covid19-coronacheck-app-android",
@@ -383,9 +443,19 @@
         "link": "https://github.com/pallets/flask"
       },
       {
+        "name": "polymorphicshade/Tubular",
+        "desc": "A fork of NewPipe that implements SponsorBlock and ReturnYouTubeDislike.",
+        "link": "https://github.com/polymorphicshade/Tubular"
+      },
+      {
         "name": "pypy/pyrepl",
         "desc": "Pure python readline - works on Python 2, Python 3, PyPy 2, PyPy 3",
         "link": "https://github.com/pypy/pyrepl"
+      },
+      {
+        "name": "python/typeshed",
+        "desc": "Collection of library stubs for Python, with static types",
+        "link": "https://github.com/python/typeshed"
       },
       {
         "name": "resume/resume.github.com",
@@ -413,6 +483,16 @@
         "link": "https://github.com/sharkdp/bat"
       },
       {
+        "name": "signalapp/Signal-Android",
+        "desc": "A private messenger for Android.",
+        "link": "https://github.com/signalapp/Signal-Android"
+      },
+      {
+        "name": "sosauce/CuteCalc",
+        "desc": "CuteCalc is a simple,lightweight and open-source calculator app for Android.",
+        "link": "https://github.com/sosauce/CuteCalc"
+      },
+      {
         "name": "spesmilo/electrum",
         "desc": "Electrum Bitcoin Wallet",
         "link": "https://github.com/spesmilo/electrum"
@@ -421,6 +501,11 @@
         "name": "termux/termux-packages",
         "desc": "A package build system for Termux.",
         "link": "https://github.com/termux/termux-packages"
+      },
+      {
+        "name": "tfonteyn/NeverTooManyBooks",
+        "desc": "A book collection app for Android",
+        "link": "https://github.com/tfonteyn/NeverTooManyBooks"
       },
       {
         "name": "venthur/python-popcon",
@@ -436,6 +521,11 @@
         "name": "wireapp/cryptobox-jni",
         "desc": "JNI bindings for cryptobox with support for cross-compilation to Android.",
         "link": "https://github.com/wireapp/cryptobox-jni"
+      },
+      {
+        "name": "zacharee/MastodonRedirect",
+        "desc": "Deep linking proxy for Mastodon and Lemmy on Android, allowing you to launch your selected client automatically.",
+        "link": "https://github.com/zacharee/MastodonRedirect"
       }
     ]
   }

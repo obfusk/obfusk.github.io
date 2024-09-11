@@ -1,12 +1,22 @@
 [
   {
+    "name": "6eero/NewPass",
+    "count": 2,
+    "contrib": false
+  },
+  {
     "name": "AJChapman/formatting",
     "count": 1,
     "contrib": true
   },
   {
+    "name": "AdamGuidarini/MediTrak",
+    "count": 2,
+    "contrib": false
+  },
+  {
     "name": "CatimaLoyalty/Android",
-    "count": 55,
+    "count": 59,
     "contrib": false
   },
   {
@@ -25,9 +35,34 @@
     "contrib": true
   },
   {
+    "name": "Futsch1/medTimer",
+    "count": 1,
+    "contrib": false
+  },
+  {
     "name": "Homebrew/legacy-homebrew",
     "count": 3,
     "contrib": true
+  },
+  {
+    "name": "M66B/FairEmail",
+    "count": 1,
+    "contrib": true
+  },
+  {
+    "name": "Mobile-IoT-Security-Lab/HideDroid",
+    "count": 1,
+    "contrib": false
+  },
+  {
+    "name": "NeoApplications/Neo-Backup",
+    "count": 1,
+    "contrib": false
+  },
+  {
+    "name": "NeoApplications/Neo-Store",
+    "count": 1,
+    "contrib": false
   },
   {
     "name": "NixOS/nix",
@@ -46,6 +81,11 @@
   },
   {
     "name": "TeamNewPipe/NewPipe",
+    "count": 2,
+    "contrib": false
+  },
+  {
+    "name": "Tencent/QT4A",
     "count": 2,
     "contrib": false
   },
@@ -81,7 +121,7 @@
   },
   {
     "name": "androguard/androguard",
-    "count": 1,
+    "count": 3,
     "contrib": false
   },
   {
@@ -120,11 +160,6 @@
     "contrib": false
   },
   {
-    "name": "clearedd/fdroid-repo",
-    "count": 1,
-    "contrib": false
-  },
-  {
     "name": "colszowka/phantomjs-gem",
     "count": 1,
     "contrib": false
@@ -133,6 +168,16 @@
     "name": "comfy/comfortable-mexican-sofa",
     "count": 3,
     "contrib": true
+  },
+  {
+    "name": "fast4x/RiMusic",
+    "count": 1,
+    "contrib": false
+  },
+  {
+    "name": "floccusaddon/floccus",
+    "count": 1,
+    "contrib": false
   },
   {
     "name": "github/government.github.com",
@@ -185,12 +230,22 @@
     "contrib": false
   },
   {
+    "name": "hgrecco/flexparser",
+    "count": 1,
+    "contrib": false
+  },
+  {
     "name": "i3/i3",
     "count": 3,
     "contrib": true
   },
   {
     "name": "ibdknox/waltz",
+    "count": 1,
+    "contrib": false
+  },
+  {
+    "name": "jarnedemeulemeester/findroid",
     "count": 1,
     "contrib": false
   },
@@ -270,6 +325,11 @@
     "contrib": false
   },
   {
+    "name": "meenbeese/Chronos",
+    "count": 1,
+    "contrib": false
+  },
+  {
     "name": "minvws/nl-covid19-coronacheck-app-android",
     "count": 1,
     "contrib": false
@@ -310,6 +370,11 @@
     "contrib": true
   },
   {
+    "name": "polymorphicshade/Tubular",
+    "count": 1,
+    "contrib": false
+  },
+  {
     "name": "pop-os/pop",
     "count": 1,
     "contrib": false
@@ -321,8 +386,13 @@
   },
   {
     "name": "python/cpython",
-    "count": 7,
+    "count": 9,
     "contrib": true
+  },
+  {
+    "name": "python/typeshed",
+    "count": 1,
+    "contrib": false
   },
   {
     "name": "r0x0r/pywebview",
@@ -385,6 +455,11 @@
     "contrib": true
   },
   {
+    "name": "signalapp/Signal-Android",
+    "count": 1,
+    "contrib": false
+  },
+  {
     "name": "simonmichael/shelltestrunner",
     "count": 4,
     "contrib": true
@@ -392,6 +467,11 @@
   {
     "name": "sirekanian/knigopis",
     "count": 1,
+    "contrib": false
+  },
+  {
+    "name": "sosauce/CuteCalc",
+    "count": 2,
     "contrib": false
   },
   {
@@ -421,6 +501,11 @@
   },
   {
     "name": "termux/termux-packages",
+    "count": 1,
+    "contrib": false
+  },
+  {
+    "name": "tfonteyn/NeverTooManyBooks",
     "count": 1,
     "contrib": false
   },
@@ -460,8 +545,8 @@
     "contrib": false
   },
   {
-    "name": "wireapp/wire-android_legacy",
+    "name": "zacharee/MastodonRedirect",
     "count": 1,
-    "contrib": true
+    "contrib": false
   }
 ]
